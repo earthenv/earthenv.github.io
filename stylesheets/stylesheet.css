@@ -55,6 +55,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   background: #223;
+  background: #c6c6c6;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -303,6 +304,8 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #44a, #223);
   background: -o-linear-gradient(top, #44a, #223);
   background: linear-gradient(top, #44a, #223);
+  border-bottom: solid #aaa 1px;
+  border-top: solid #aaa 1px;
 }
 
 #header_wrap .inner {
@@ -380,6 +383,8 @@ Full-Width Styles
 #footer_wrap {
   background: #223;
   font-size: 14px;
+  border-bottom: solid #aaa 1px;
+  border-top: solid #aaa 1px;
 }
 
 footer {
