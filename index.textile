@@ -1,0 +1,10 @@
+---
+layout: earthenv
+title: EarthEnv
+---
+
+h2. Datasets
+
+* "Consensus land cover":landcover.html
+* "90m digital elevation model":DEM.html
+
