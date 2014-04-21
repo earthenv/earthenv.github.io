@@ -402,6 +402,24 @@ footer > p img {
 
 
 /*******************************************************************************
+Styles for the DEM page.  These could go in a separate file, but for now they
+are fine here.
+*******************************************************************************/
+table.dem {
+  border: none;
+  white-space: nowrap;
+  text-align: center;
+}
+
+table.dem th {
+  font-weight: normal;
+  background: #ccc;
+  color: #222;
+  border: solid 1px #222;
+}
+
+
+/*******************************************************************************
 Small Device Styles
 *******************************************************************************/
 
