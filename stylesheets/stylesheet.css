@@ -393,6 +393,11 @@ footer {
   margin: 0 10px;
 }
 
+footer > p.pubcredit {
+  float:right;
+  font-size: 86%;
+}
+
 footer > p img {
   margin: 0 6px;
   padding: 2px;
