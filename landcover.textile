@@ -22,35 +22,35 @@ h3. Dataset Download
 
 All land-cover classes
 
-* Class 1 – Evergreen/Deciduous Needleleaf Trees
-* Class 2 – Evergreen Broadleaf Trees
-* Class 3 – Deciduous Broadleaf Trees
-* Class 4 – Mixed/Other Trees
-* Class 5 – Shrubs
-* Class 6 – Herbaceous Vegetation
-* Class 7 – Cultivated and Managed Vegetation
-* Class 8 – Regularly Flooded Vegetation
-* Class 9 – Urban/Built-up
-* Class 10 – Snow/Ice
-* Class 11 – Barren
-* Class 12 – Open Water
+* "Class 1 – Evergreen/Deciduous Needleleaf Trees":https://mapsengine.google.com/04040405428907908306-11593846612392477969-4/download/
+* "Class 2 – Evergreen Broadleaf Trees":https://mapsengine.google.com/04040405428907908306-13229186913119943316-4/download/
+* "Class 3 – Deciduous Broadleaf Trees":https://mapsengine.google.com/04040405428907908306-16121583928322922417-4/download/
+* "Class 4 – Mixed/Other Trees":https://mapsengine.google.com/04040405428907908306-17238109668775876592-4/download/
+* "Class 5 – Shrubs":https://mapsengine.google.com/04040405428907908306-06541804430193116641-4/download/
+* "Class 6 – Herbaceous Vegetation":https://mapsengine.google.com/04040405428907908306-06125469435409697790-4/download/
+* "Class 7 – Cultivated and Managed Vegetation":https://mapsengine.google.com/04040405428907908306-10318607417242881135-4/download/
+* "Class 8 – Regularly Flooded Vegetation":https://mapsengine.google.com/04040405428907908306-10758914561056934058-4/download/
+* "Class 9 – Urban/Built-up":https://mapsengine.google.com/04040405428907908306-16854579656863010645-4/download/
+* "Class 10 – Snow/Ice":https://mapsengine.google.com/04040405428907908306-14572693522792218524-4/download/
+* "Class 11 – Barren":https://mapsengine.google.com/04040405428907908306-15250273117323094408-4/download/
+* "Class 12 – Open Water":https://mapsengine.google.com/04040405428907908306-09426288588791571721-4/download/
  
 *Version 2 (without DISCover)*
 
 All land-cover classes
 
-* Class 1 – Evergreen/Deciduous Needleleaf Trees
-* Class 2 – Evergreen Broadleaf Trees
-* Class 3 – Deciduous Broadleaf Trees
-* Class 4 – Mixed/Other Trees
-* Class 5 – Shrubs
-* Class 6 – Herbaceous Vegetation
-* Class 7 – Cultivated and Managed Vegetation
-* Class 8 – Regularly Flooded Vegetation
-* Class 9 – Urban/Built-up
-* Class 10 – Snow/Ice
-* Class 11 – Barren
-* Class 12 – Open Water
+* "Class 1 – Evergreen/Deciduous Needleleaf Trees":https://mapsengine.google.com/04040405428907908306-07547889200956777826-4/download/
+* "Class 2 – Evergreen Broadleaf Trees":https://mapsengine.google.com/04040405428907908306-00695380332068011570-4/download/
+* "Class 3 – Deciduous Broadleaf Trees":https://mapsengine.google.com/04040405428907908306-01834433327781107612-4/download/
+* "Class 4 – Mixed/Other Trees":https://mapsengine.google.com/04040405428907908306-03106161337189447225-4/download/
+* "Class 5 – Shrubs":https://mapsengine.google.com/04040405428907908306-09818242505802792890-4/download/
+* "Class 6 – Herbaceous Vegetation":https://mapsengine.google.com/04040405428907908306-08371101306281590624-4/download/
+* "Class 7 – Cultivated and Managed Vegetation":https://mapsengine.google.com/04040405428907908306-10240179727040808593-4/download/
+* "Class 8 – Regularly Flooded Vegetation":https://mapsengine.google.com/04040405428907908306-17636857576553938514-4/download/
+* "Class 9 – Urban/Built-up":https://mapsengine.google.com/04040405428907908306-13827569206280872955-4/download/
+* "Class 10 – Snow/Ice":https://mapsengine.google.com/04040405428907908306-01997190003553747625-4/download/
+* "Class 11 – Barren":https://mapsengine.google.com/04040405428907908306-15411894645522983888-4/download/
+* "Class 12 – Open Water":https://mapsengine.google.com/04040405428907908306-03407877728017764438-4/download/
  
 
 h3. Notes
