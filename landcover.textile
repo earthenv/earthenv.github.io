@@ -2,12 +2,21 @@
 layout: earthenv
 title: Global 1-km Consensus Land Cover - EarthEnv
 ---
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-50401833-1', 'earthenv.org');
+  ga('send', 'pageview');
+
+</script>
 h2. Global 1-km Consensus Land Cover
 
 The datasets integrate multiple global remote sensing-derived land-cover products and provide consensus information on the prevalence of 12 land-cover classes at 1-km resolution. For additional information about the integration approach and the evaluations of the datasets, please see the associated journal article:
 
-p(litreference). Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography?? XX: XXX-XXX.
+p(litreference). "Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography?? DOI: 10.1111/geb.12182":http://onlinelibrary.wiley.com/doi/10.1111/geb.12182/abstract.
 
 h3. Dataset Details
 
@@ -35,9 +44,8 @@ All land-cover classes
 * "Class 11 – Barren":https://mapsengine.google.com/04040405428907908306-15250273117323094408-4/download/
 * "Class 12 – Open Water":https://mapsengine.google.com/04040405428907908306-09426288588791571721-4/download/
  
-*Version 2 (without DISCover)*
 
-All land-cover classes
+*Reduced Version 1.0 (without DISCover)*
 
 * "Class 1 – Evergreen/Deciduous Needleleaf Trees":https://mapsengine.google.com/04040405428907908306-07547889200956777826-4/download/
 * "Class 2 – Evergreen Broadleaf Trees":https://mapsengine.google.com/04040405428907908306-00695380332068011570-4/download/
@@ -55,12 +63,12 @@ All land-cover classes
 
 h3. Notes
 
-Although DISCover is based on older remote sensing imagery (1992-1993), it contains some complementary information which is useful for capturing sub-pixel land cover heterogeneity (please see the associated article for details). Therefore, it is recommended to use the first version of the consensus land cover dataset for most applications. However, the second version may provide an alternative for applications in regions with large land cover change in the past two decades.
+Although DISCover is based on older remote sensing imagery (1992-1993), it contains some complementary information which is useful for capturing sub-pixel land cover heterogeneity (please see the associated article for details). Therefore, it is recommended to use the full version of the consensus land cover dataset for most applications. However, the reduced version may provide an alternative for applications in regions with large land cover change in the past two decades.
 
 
 h3. Dataset Citation
 
-p(litreference). Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography?? XX: XXX-XXX. Data available on-line at "http://www.earthenv.org/":http://www.earthenv.org/.
+p(litreference). "Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography?? DOI: 10.1111/geb.12182":http://onlinelibrary.wiley.com/doi/10.1111/geb.12182/abstract. Data available on-line at "http://www.earthenv.org/":http://www.earthenv.org/.
 
 h3. Contacts
 * "Mao-Ning Tuanmu":http://jetzlab.yale.edu/people/mao-ning-tuanmu
