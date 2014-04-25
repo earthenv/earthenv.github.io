@@ -7,7 +7,7 @@ h2. Global 1-km Consensus Land Cover
 
 The datasets integrate multiple global remote sensing-derived land-cover products and provide consensus information on the prevalence of 12 land-cover classes at 1-km resolution. For additional information about the integration approach and the evaluations of the datasets, please see the associated journal article:
 
-p(litreference). Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography?? XX: XXX-XXX.
+p(litreference). Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography?? DOI: 10.1111/geb.12182
 
 h3. Dataset Details
 
@@ -35,7 +35,7 @@ All land-cover classes
 * Class 11 – Barren
 * Class 12 – Open Water
  
-*Version 2 (without DISCover)*
+*Reduced Version 1.0 (without DISCover)*
 
 All land-cover classes
 
@@ -55,12 +55,12 @@ All land-cover classes
 
 h3. Notes
 
-Although DISCover is based on older remote sensing imagery (1992-1993), it contains some complementary information which is useful for capturing sub-pixel land cover heterogeneity (please see the associated article for details). Therefore, it is recommended to use the first version of the consensus land cover dataset for most applications. However, the second version may provide an alternative for applications in regions with large land cover change in the past two decades.
+Although DISCover is based on older remote sensing imagery (1992-1993), it contains some complementary information which is useful for capturing sub-pixel land cover heterogeneity (please see the associated article for details). Therefore, it is recommended to use the full version of the consensus land cover dataset for most applications. However, the reduced version may provide an alternative for applications in regions with large land cover change in the past two decades.
 
 
 h3. Dataset Citation
 
-p(litreference). Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography?? XX: XXX-XXX. Data available on-line at "http://www.earthenv.org/":http://www.earthenv.org/.
+p(litreference). Tuanmu, M.-N. and W. Jetz. 2014. A global 1-km consensus land-cover product for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography?? DOI: 10.1111/geb.12182. Data available on-line at "http://www.earthenv.org/":http://www.earthenv.org/.
 
 h3. Contacts
 * "Mao-Ning Tuanmu":http://jetzlab.yale.edu/people/mao-ning-tuanmu
