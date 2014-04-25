@@ -62,9 +62,6 @@ Although DISCover is based on older remote sensing imagery (1992-1993), it conta
 
 h3. Distribution
 
-EarthEnv Global 1-km Consensus Land Cover Version 1 by Tuanmu & Jetz is licensed under a "Creative Commons Attribution-NonCommercial 4.0 International License":http://creativecommons.org/licenses/by-nc/4.0/. Permissions beyond the scope of this license may be available at "http://www.earthenv.org/landcover.html":http://www.earthenv.org/landcover.html.
-
-
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">EarthEnv Global 1-km Consensus Land Cover Version 1</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Tuanmu & Jetz</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.earthenv.org/landcover.html" rel="cc:morePermissions">http://www.earthenv.org/landcover.html</a>
 h3. Dataset Citation
 
