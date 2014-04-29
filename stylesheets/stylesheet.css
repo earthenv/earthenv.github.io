@@ -320,6 +320,14 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
+#project_title a {
+  color: #fff;
+}
+
+#project_title a:hover {
+  text-decoration: none;
+}
+
 #project_tagline {
   margin: 0px;
   padding: 0px;
