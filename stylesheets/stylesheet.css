@@ -410,24 +410,20 @@ footer > p img {
  * List styles for data download options.
  **/
 ul.datalayers ul {
-  margin-bottom: 4px;
-  margin-left: 20px;
+  margin-bottom: 8px;
+  margin-left: 6px;
   /*font-size: 80%;*/
-  font-size: 13px;
-}
-
-ul.datalayers > li {
+  font-size: 11px;
+  font-weight: bold;
 }
 
 ul.datalayers ul > li {
   display: inline;
-  list-style-type: circle;
   margin-right: 2px;
-  /*border-right: solid black 1px;*/
 }
 
 ul.datalayers ul > li > a {
-  background: #ccc;
+  background: #d6d6d6;
   padding-right: 8px;
   padding-left: 8px;
   border: solid #aaa 1px;
@@ -436,8 +432,97 @@ ul.datalayers ul > li > a {
 
 ul.datalayers ul > li > a:hover {
   text-decoration: none;
-  background: #e4ddd8;
+  background: #c2c2c2;
 }
+
+
+ul.datalayers2 > li {
+  margin-bottom: 10px;
+}
+
+ul.datalayers2 ul {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  /*font-size: 80%;*/
+  font-size: 11px;
+  display: inline;
+  font-weight: bold;
+}
+
+ul.datalayers2 ul:before {
+  content: "[";
+  font-size: 16px;
+  font-weight: normal;
+}
+
+ul.datalayers2 ul:after {
+  content: "]";
+  font-size: 16px;
+  font-weight: normal;
+}
+
+ul.datalayers2 ul > li {
+  display: inline;
+  margin-right: 0px;
+}
+
+ul.datalayers2 ul > li > a {
+  background: #d6d6d6;
+  padding-right: 8px;
+  padding-left: 8px;
+  border: solid #aaa 1px;
+  border-radius: 4px;
+}
+
+ul.datalayers2 ul > li > a:hover {
+  text-decoration: none;
+  background: #c2c2c2;
+}
+
+
+ul.datalayers3 ul {
+  margin-bottom: 8px;
+  margin-left: 6px;
+  /*font-size: 80%;*/
+  font-size: 11px;
+  font-weight: bold;
+}
+
+ul.datalayers3 ul > li {
+  margin-right: 2px;
+  list-style-type: none;
+  margin-bottom: 4px;
+}
+
+/*ul.datalayers3 ul > li:before {
+  content: "\0BB  ";
+  font-size: 16px;
+}*/
+
+ul.datalayers3 ul > li > a {
+  background: #d6d6d6;
+  padding-right: 8px;
+  padding-left: 8px;
+  border: solid #aaa 1px;
+  border-radius: 4px;
+}
+
+ul.datalayers3 ul > li > a:hover {
+  text-decoration: none;
+  background: #c2c2c2;
+}
+
+
+ul.datalayers4 ul {
+  margin-bottom: 8px;
+  margin-left: 6px;
+  /*font-size: 80%;*/
+  font-size: 11px;
+  font-weight: bold;
+}
+
 
 
 /*******************************************************************************

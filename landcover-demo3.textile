@@ -24,7 +24,7 @@ The datasets can be downloaded as a zip file containing all 12 data layers (~500
 
 * All Classes
 
-(datalayers)* Class 1 – Evergreen/Deciduous Needleleaf Trees
+(datalayers3)* Class 1 – Evergreen/Deciduous Needleleaf Trees
 ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-11593846612392477969-4/download/
 ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f3;varid=Band1-id-d169fb13f3;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-d169fb13f3;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 2 – Evergreen Broadleaf Trees
