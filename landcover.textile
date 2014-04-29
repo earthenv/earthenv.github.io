@@ -18,11 +18,9 @@ Each dataset contains 12 data layers, each of which provides consensus informati
 
 h3. Dataset Download
 
-The datasets can be downloaded as a zip file containing all 12 data layers (~500MB) or for each individual land-cover class (20~100MB).
+The datasets can be downloaded in the GeoTiff format for individual land-cover classes (20~100MB each).
 
 *Full Version 1.0 (with DISCover)*
-
-* All Classes
 
 (datalayers)* Class 1 – Evergreen/Deciduous Needleleaf Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-11593846612392477969-4/download/
@@ -63,8 +61,6 @@ The datasets can be downloaded as a zip file containing all 12 data layers (~500
 
 
 *Reduced Version 1.0 (without DISCover)*
-
-* All Classes
 
 (datalayers)* Class 1 – Evergreen/Deciduous Needleleaf Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-07547889200956777826-4/download/
