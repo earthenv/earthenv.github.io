@@ -24,80 +24,80 @@ The datasets can be downloaded in the GeoTiff format for individual land-cover c
 
 (datalayers)* Class 1 – Evergreen/Deciduous Needleleaf Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-11593846612392477969-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f3;varid=Band1-id-d169fb13f3;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-d169fb13f3;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f3;varid=Band1-id-d169fb13f3;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-d169fb13f3;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 2 – Evergreen Broadleaf Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-13229186913119943316-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-c150881359;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-c150881359;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-c150881359;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-c150881359;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 3 – Deciduous Broadleaf Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-16121583928322922417-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-d543c09af1;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-d543c09af1;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-d543c09af1;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-d543c09af1;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 4 – Mixed/Other Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-17238109668775876592-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-71ae73a39f;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-71ae73a39f;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-71ae73a39f;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-71ae73a39f;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 5 – Shrubs
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-06541804430193116641-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-a36cabac09;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-a36cabac09;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-a36cabac09;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-a36cabac09;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 6 – Herbaceous Vegetation
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-06125469435409697790-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-1ca094be19;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-1ca094be19;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-1ca094be19;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-1ca094be19;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 7 – Cultivated and Managed Vegetation
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-10318607417242881135-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-617605b5d0;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-617605b5d0;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-617605b5d0;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-617605b5d0;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 8 – Regularly Flooded Vegetation
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-10758914561056934058-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-31a3aa59f9;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-31a3aa59f9;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-31a3aa59f9;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-31a3aa59f9;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 9 – Urban/Built-up
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-16854579656863010645-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-5390c106de;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-5390c106de;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-5390c106de;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-5390c106de;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 10 – Snow/Ice
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-14572693522792218524-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-1d29f57df1;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-1d29f57df1;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-1d29f57df1;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-1d29f57df1;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 11 – Barren
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-15250273117323094408-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-f516c8f2e3;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-f516c8f2e3;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-f516c8f2e3;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-f516c8f2e3;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 12 – Open Water
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-09426288588791571721-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-77c030fa5d;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-77c030fa5d;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy 
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-77c030fa5d;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-77c030fa5d;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy 
 
 
 *Reduced Version 1.0 (without DISCover)*
 
 (datalayers)* Class 1 – Evergreen/Deciduous Needleleaf Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-07547889200956777826-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-75da641f73;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-75da641f73;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-75da641f73;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-75da641f73;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 2 – Evergreen Broadleaf Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-00695380332068011570-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-6f97bead1c;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-6f97bead1c;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-6f97bead1c;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-6f97bead1c;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 3 – Deciduous Broadleaf Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-01834433327781107612-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-ad33f7729b;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-ad33f7729b;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-ad33f7729b;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-ad33f7729b;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 4 – Mixed/Other Trees
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-03106161337189447225-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-d9e42e963a;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-d9e42e963a;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-d9e42e963a;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-d9e42e963a;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 5 – Shrubs
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-09818242505802792890-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-9d85c2aa11;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-9d85c2aa11;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-9d85c2aa11;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-9d85c2aa11;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 6 – Herbaceous Vegetation
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-08371101306281590624-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-0f61cef77b;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-0f61cef77b;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-0f61cef77b;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-0f61cef77b;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 7 – Cultivated and Managed Vegetation
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-10240179727040808593-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-52852afd45;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-52852afd45;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-52852afd45;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-52852afd45;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 8 – Regularly Flooded Vegetation
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-17636857576553938514-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-6ceecc8478;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-6ceecc8478;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-6ceecc8478;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-6ceecc8478;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 9 – Urban/Built-up
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-13827569206280872955-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-7047a30870;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-7047a30870;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-7047a30870;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-7047a30870;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 10 – Snow/Ice
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-01997190003553747625-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-0b15666c6b;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-0b15666c6b;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-0b15666c6b;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-0b15666c6b;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 11 – Barren
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-15411894645522983888-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-066c7b8e2e;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-066c7b8e2e;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-066c7b8e2e;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-066c7b8e2e;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
 * Class 12 – Open Water
   ** "Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-03407877728017764438-4/download/
-  ** "View/download in LAS":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-7564cea26e;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-7564cea26e;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
+  ** "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-75da641f73;xDSID=id-75da641f733;varid=Band1-id-7564cea26e;imageSize=auto;over=xy;compute=Nonetoken;catid=id-75da641f73;dsid=id-75da641f73;varid=Band1-id-7564cea26e;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy
  
 
 h3. Notes
