@@ -101,10 +101,6 @@ p {
   margin: 10px 0 15px 0;
 }
 
-footer p {
-  color: #f2f2f2;
-}
-
 a {
   text-decoration: none;
   color: #007edf;
@@ -123,11 +119,6 @@ a {
 }
 
 a:hover, a:focus {text-decoration: underline;}
-
-footer a {
-  color: #F2F2F2;
-  text-decoration: underline;
-}
 
 em {
   font-style: italic;
@@ -400,6 +391,15 @@ footer {
   position: relative;
   padding: 2px 10px;
   margin: 0 10px;
+}
+
+footer p {
+  color: #f2f2f2;
+}
+
+footer a {
+  color: #F2F2F2;
+  text-decoration: underline;
 }
 
 footer > p.pubcredit {
