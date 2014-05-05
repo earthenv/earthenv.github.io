@@ -416,42 +416,6 @@ footer > p img {
 
 
 /*******************************************************************************
-List styles for data download options.
-*******************************************************************************/
-ul.datalayers ul {
-  margin-bottom: 8px;
-  margin-left: 6px;
-  /*font-size: 80%;*/
-  font-size: 11px;
-  font-weight: bold;
-}
-
-ul.datalayers ul > li {
-  display: inline;
-  margin-right: 2px;
-}
-
-ul.datalayers ul > li > a {
-  background: #d6d6d6;
-  padding-right: 8px;
-  padding-left: 8px;
-  border: solid #aaa 1px;
-  border-radius: 4px;
-}
-
-ul.datalayers ul > li > a:hover {
-  text-decoration: none;
-  background: #c2c2c2;
-}
-
-img.rfloat {
-  float:right;
-  margin-left: 10px;
-  margin-top: 0px;
-}
-
-
-/*******************************************************************************
 Table styles for data download options.
 *******************************************************************************/
 table.datalayers {
