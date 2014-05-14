@@ -29,6 +29,28 @@
     <script type="text/javascript" src="javascripts/jquery.ulslide-1.5.5.min.js?v=4"></script>
 
     <script type="text/javascript">
+      // Processes the <tr> elements for a data download table and adds the GA event
+      // tracking code to the links.
+      function addDownloadTracking(rows, version) {
+        rows.each(function(cnt, row) {
+	  if (cnt > 0) {
+            var tds = $(row).children('td');
+
+            // Get the landcover class.
+            var lcclass = $(tds[0]).text();
+
+            // Add the event triggers.
+            links = $(tds[2]).children('a');
+	    links.first().click(function() {
+              ga('send', 'event', 'landcover data', 'GeoTIFF download', 'class ' + lcclass + ' ' + version);
+            });
+            links.last().click(function() {
+              ga('send', 'event', 'landcover data', 'LAS view', 'class ' + lcclass + ' ' + version);
+            });
+          }
+        });
+      }
+
       // Initialize the slide show on document load.
       $(function() {						
         $('#slideshowimages').ulslide({
@@ -39,24 +61,9 @@
           autoslide: 8000
 	});
 
-        // Add GA event trackers to the data download links.
-        $('table#landcoverfull tr').each(function(cnt, row) {
-	  if (cnt > 0) {
-            var tds = $(row).children('td');
-
-            // Get the landcover class.
-            var lcclass = $(tds[0]).text();
-
-            // Add the event triggers.
-            links = $(tds[2]).children('a');
-            links.first().click(function() {
-              ga('send', 'event', 'landcover data', 'GeoTIFF download', 'class ' + lcclass + ' full');
-            });
-            links.last().click(function() {
-              ga('send', 'event', 'landcover data', 'LAS view', 'class ' + lcclass + ' full');
-            });
-          }
-        });
+        // Add GA event trackers to the data download table links.
+        addDownloadTracking($('table#landcoverfull tr'), 'full');
+        addDownloadTracking($('table#landcoverreduced tr'), 'reduced');
       });
     </script>
 
