@@ -1,5 +1,5 @@
 ---
-layout: earthenv-slideshow
+layout: earthenv-landcover
 title: Global 1-km Consensus Land Cover - EarthEnv
 ---
 
