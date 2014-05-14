@@ -37,6 +37,25 @@
             type: 'fade'
           },
           autoslide: 8000
+	});
+
+        // Add GA event trackers to the data download links.
+        $('table#landcoverfull tr').each(function(cnt, row) {
+	  if (cnt > 0) {
+            var tds = $(row).children('td');
+
+            // Get the landcover class.
+            var lcclass = $(tds[0]).text();
+
+            // Add the event triggers.
+            links = $(tds[2]).children('a');
+            links.first().click(function() {
+              ga('send', 'event', 'landcover data', 'GeoTIFF download', 'class ' + lcclass + ' full');
+            });
+            links.last().click(function() {
+              ga('send', 'event', 'landcover data', 'LAS view', 'class ' + lcclass + ' full');
+            });
+          }
         });
       });
     </script>
