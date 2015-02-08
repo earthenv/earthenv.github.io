@@ -236,65 +236,54 @@ function NowGoGetThem() {
  ****/
 
 //Define coordinates and matching filenames, create area map, get file when tile is clicked
-Left = [0, 12, 24, 36, 48, 60, 72, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204, 216, 228, 240, 252, 264, 276, 288, 300, 312, 324, 336, 348, 360, 372, 384, 396, 408, 420, 432, 444, 456, 468, 480, 492, 504, 516, 528, 540, 552, 564, 576, 588, 600, 612, 624, 636, 648, 660, 672, 684, 696, 708, 720, 732, 744, 756, 768, 780, 792, 804, 816, 828, 840, 852]
-Top = [0, 12, 24, 36, 48, 60, 72, 84, 96, 108, 120, 132, 144, 156, 168, 180, 192, 204, 216, 228, 240, 252, 264, 276, 288, 300, 312, 324]
+ncols = 72
+nrows = 28
+equator_row = 16
+primem_col = 36
+csizepx = 10
+cspan = 5
 
-function Fnames(Left, cols, pwidth, Top, pheight, rows) {
-	if (Left <= (((cols - 1) / 2) * pwidth)) {
-		LonPre = 'W';
-		Equn = 180 - (5 * (Left / pwidth));
-		if (Left == 0) {
-			Lon = String(180);
-		} else {
-			Lon = String(Equn);
-		}
+function getCoordString(row, col) {
+	var cstr = '';
+	var padstr2 = '00';
+	var padstr3 = '000';
+
+	if (row <= equator_row) {
+		// Northern hemisphere.
+		cstr = 'N';
+		// Calculate the southern coordinate of the tile, zero-padding if needed.
+		cstr += (padstr2 + ((equator_row - row) * cspan)).slice(-2);
 	} else {
-		LonPre = 'E';
-		Equn = 0 + (5 * ((Left / pwidth) - (cols / 2)));
-		if (Left == ((cols - 1) * pwidth)) {
-			Lon = String(175);
-		} else {
-			Lon = String(Equn);
-		}
+		cstr = 'S';
+		cstr += (padstr2 + ((row - equator_row) * cspan)).slice(-2);
 	}
-	if (Lon.length == 1) {
-		Lng = LonPre + '00' + Lon;
-	} else if (Lon.length == 2) {
-		Lng = LonPre + '0' + Lon;
+
+	if (col < primem_col) {
+		// Western hemisphere.
+		cstr += 'W';
+		// Calculate the western coordinate of the tile, zero-padding if needed.
+		cstr += (padstr3 + ((primem_col - col) * cspan)).slice(-3);
 	} else {
-		Lng = LonPre + Lon;
+		cstr += 'E';
+		cstr += (padstr3 + ((col - primem_col) * cspan)).slice(-3);
 	}
-	if (Top <= (16 * pheight)) {
-		LatPre = 'N';
-		Equn = 80 - (5 * (Top / pheight));
-		if (Top == 0) {
-			Lat = String(80);
-		} else {
-			Lat = String(Equn);
-		}
-	} else {
-		LatPre = 'S';
-		Equn = 0 + (5 * ((Top / pheight) - 16));
-		if (Top == ((rows - 1) * pheight)) {
-			Lat = String(60);
-		} else {
-			Lat = String(Equn);
-		}
-	}
-	if (Lat.length == 1) {
-		Lati = LatPre + '0' + Lat;
-	} else {
-		Lati = LatPre + Lat;
-	}
-	return (Lati + Lng);
+
+	return cstr;
 }
 
 function generateMapDownloadAreas() {
-	for (var i = 0, l = Left.length; i < l; i++) {
-		for (var j = 0, len = Top.length; j < len; j++) {
-			FileName = 'http://mirrors.iplantcollaborative.org/earthenv_dem_data/EarthEnv-DEM90/EarthEnv-DEM90_' + Fnames(Left[i], 72, 12, Top[j], 12, 28) + '.tar.gz'
-				document.write('<area shape="rect" coords="' + Left[i] + ',' + Top[j] + ',' + (Left[i] + 12) + ',' + (Top[j] + 12) + '" href ="' + FileName + '" />')
+	var xcoord, ycoord;
+
+	for (var i = 0; i < nrows; i++) {
+		for (var j = 0; j < ncols; j++) {
+			xcoord = j * csizepx;
+			ycoord = i * csizepx;
+
+			FileName = 'http://mirrors.iplantcollaborative.org/earthenv_dem_data/EarthEnv-DEM90/EarthEnv-DEM90_' + getCoordString(i, j) + '.tar.gz'
+			document.write('<area shape="rect" coords="' + xcoord + ',' + ycoord + ',' + (xcoord + csizepx - 1) + ',' + (ycoord + csizepx - 1) + '" href ="' + FileName + '" />')
+			//alert(xcoord + ' ' + ycoord + ' ' + (xcoord + csizepx - 1) + ' ' + (ycoord + csizepx - 1));
 		}
+		//alert(j + ' ' + xcoord + ' ' + getCoordString(i,j));
 	}
 }
 
