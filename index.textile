@@ -3,8 +3,10 @@ layout: earthenv
 title: EarthEnv
 ---
 
-h2. Datasets
-
+h2. Datasets: online
 * "Consensus land cover":landcover.html
 * "90m digital elevation model":DEM.html
 
+h2. Datasets: forthcoming Fall 2015
+* Habitat heterogeneity metrics (based on MODIS EVI; 1km, global)
+* Cloud cover climatology (monthly, intra-annual, inter-annual; based on MODIS; 1km, global)
