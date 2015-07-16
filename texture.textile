@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: earthenv-landcover
 title: Global Habitat Heterogeneity - EarthEnv
 ---
 
