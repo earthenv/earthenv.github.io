@@ -15,7 +15,7 @@ Six first-order and 8 second-order texture measures are available at 30 arc-seco
 
 *First-order texture measures*
 
-table(datalayers#firstorder).
+table(datalayers#landcoverfull).
 |_. Metric|_. Measure|_. Value Range|_. Expected Relationship with Heterogeneity|
 |Coefficient of variation|Normalized dispersion of EVI|>=0|Positive|
 |Evenness|Evenness of EVI|>=0; <=1|Positive|
@@ -26,7 +26,7 @@ table(datalayers#firstorder).
 
 *Second-order texture measures*
 
-table(datalayers#secondorder).
+table(datalayers#landcoverfull).
 |_. Metric|_. Measure|_. Value Range|_. Expected Relationship with Heterogeneity|
 |Contrast|Exponentially weighted difference in EVI between adjacent pixels|>=0|Positive|
 |Correlation|Linear dependency of EVI on adjacent pixels|>=-1; <=1|Nonlinear|
@@ -43,7 +43,7 @@ h3. Dataset Download
 
 *Version 1.0*
 
-table(datalayers#download).
+table(datalayers#landcoverfull).
 |_. Metric|_. 30 arc-second (1 km)|_. 2.5 arc-minute (5 km)|_. 12.5 arc-minute (25 km)|
 |Coefficient of variation|"Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-14066135579949655249-4/download/?authuser=0|"Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-09265507988909102604-4/download/?authuser=0|"Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-13655608845307551796-4/download/?authuser=0|
 |Evenness|"Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-11218518663853966544-4/download/?authuser=0|"Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-16349568220732882409-4/download/?authuser=0|"Download GeoTIFF":https://mapsengine.google.com/04040405428907908306-06343935911223375604-4/download/?authuser=0|
