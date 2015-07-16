@@ -1,6 +1,6 @@
 ---
 layout: earthenv-landcover
-title: Global Habitat Heterogeneity - EarthEnv
+title: Global 1-km Consensus Land Cover - EarthEnv
 ---
 
 h2. Global Habitat Heterogeneity
