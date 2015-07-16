@@ -7,7 +7,7 @@ h2. Global Habitat Heterogeneity
 
 The datasets contain 14 metrics quantifying spatial heterogeneity of global habitat at multiple resolutions based on the textural features of Enhanced Vegetation Index (EVI) imagery acquired by the Moderate Resolution Imaging Spectroradiometer (MODIS). For additional information about the metrics and the evaluations of their utility for biodiversity modeling, please see the associated journal article:
 
-p(litreference). "Tuanmu, M.-N. and W. Jetz. (in press) A global, remote sensing-based characterization of terrestrial habitat heterogeneity for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography??
+p(litreference). Tuanmu, M.-N. and W. Jetz. (in press) A global, remote sensing-based characterization of terrestrial habitat heterogeneity for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography??
 
 h3. Dataset Details
 
@@ -66,7 +66,7 @@ h3. Distribution
 
 h3. Dataset Citation
 
-p(litreference). "Tuanmu, M.-N. and W. Jetz. (in press) A global, remote sensing-based characterization of terrestrial habitat heterogeneity for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography??
+p(litreference). Tuanmu, M.-N. and W. Jetz. (in press) A global, remote sensing-based characterization of terrestrial habitat heterogeneity for biodiversity and ecosystem modeling. ??Global Ecology and Biogeography??
 
 h3. Contacts
 * "Mao-Ning Tuanmu":http://jetzlab.yale.edu/people/mao-ning-tuanmu
