@@ -72,7 +72,5 @@ h3. Contacts
 * "Mao-Ning Tuanmu":http://jetzlab.yale.edu/people/mao-ning-tuanmu
 * "Walter Jetz":http://jetzlab.yale.edu/people/walter-jetz
 
-  
-<iframe src="http://texture.earthenv-maps.map-of-life.appspot.com" name="map" frameborder="0" width="80%" height"600px"></iframe>
 
 
