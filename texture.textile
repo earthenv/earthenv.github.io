@@ -1,5 +1,5 @@
 ---
-layout: earthenv-landcover
+layout: earthenv-texture
 title: Global 1-km Consensus Land Cover - EarthEnv
 ---
 
