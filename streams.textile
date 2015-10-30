@@ -5,8 +5,7 @@ title: Global 1-km Consensus Land Cover - EarthEnv
 
 h3. Near-global environmental information for freshwater ecosystems in 1km resolution
 
-
-<img style="border-width:0" src="images/streams.png" />
+<img style="border-width:0" src="/images/streams.png" />
 
 The dataset consists of near-global, spatially continuous, and freshwater-specific environmental variables in a standardized 1km grid. We delineated the sub-catchment for each grid cell along the HydroSHEDS river network and summarized the upstream environment (climate, topography, land cover, surface geology and soil) to each grid cell using various metrics (average, minimum, maximum, range, sum, inverse distance-weighted average and sum). All variables were subsequently averaged across single lakes and reservoirs of the Global lakes and Wetlands Database that are connected to the river network. Monthly climate variables were summarized into 19 long-term climatic variables following the “bioclim” framework.
 To facilitate the generation of freshwater variables for custom study areas and spatial grains, we provide the ‘r.stream.watersheds’ and ‘r.stream.variables’ add-ons for the GRASS GIS software.
