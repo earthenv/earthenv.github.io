@@ -1,9 +1,9 @@
 ---
-layout: earthenv-streams
+layout: earthenv-texture
 title: Global 1-km Consensus Land Cover - EarthEnv
 ---
 
-h3. Near-global environmental information for freshwater ecosystems in 1km resolution
+h2. Near-global environmental information for freshwater ecosystems in 1km resolution
 
 <img style="border-width:0" src="/images/streams.png" />
 
@@ -13,9 +13,7 @@ To facilitate the generation of freshwater variables for custom study areas and 
 
 Please see the associated journal article for further information:
 
-
-Domisch, S., Amatulli, G., and Jetz, W. Near-global, contiguous environmental information for freshwater ecosystems in 1km resolution. Scientific Data (accepted)
-
+p(litreference). Domisch, S., Amatulli, G., and Jetz, W. (2015) Near-global, contiguous environmental information for freshwater ecosystems in 1km resolution. ??Scientific Data??.
 
 h3. Dataset details
 
