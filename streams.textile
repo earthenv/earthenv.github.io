@@ -1,0 +1,70 @@
+---
+layout: earthenv-streams
+title: Global 1-km Consensus Land Cover - EarthEnv
+---
+
+h3. Near-global environmental information for freshwater ecosystems in 1km resolution
+
+
+ Fig_3_small 
+
+
+The dataset consists of near-global, spatially continuous, and freshwater-specific environmental variables in a standardized 1km grid. We delineated the sub-catchment for each grid cell along the HydroSHEDS river network and summarized the upstream environment (climate, topography, land cover, surface geology and soil) to each grid cell using various metrics (average, minimum, maximum, range, sum, inverse distance-weighted average and sum). All variables were subsequently averaged across single lakes and reservoirs of the Global lakes and Wetlands Database that are connected to the river network. Monthly climate variables were summarized into 19 long-term climatic variables following the “bioclim” framework.
+To facilitate the generation of freshwater variables for custom study areas and spatial grains, we provide the ‘r.stream.watersheds’ and ‘r.stream.variables’ add-ons for the GRASS GIS software.
+
+
+Please see the associated journal article for further information:
+
+
+Domisch, S., Amatulli, G., and Jetz, W. Near-global, contiguous environmental information for freshwater ecosystems in 1km resolution. Scientific Data (accepted)
+
+
+h3. Dataset details
+
+We provide a variety of different metrics of the upstream environment along the stream network, resulting in a total of 324 layers. Each variable comes in the netCDF-4 format (network Common Data Form version 4) in a cell size of 30 arc-seconds (~1km at the Equator) in the WGS84 coordinate system with an extent of 60°N to 5°S latitude and 145°W to 180°E longitude. All variables consists of 39000 columns and 13920 rows. Each netCDF file contains one variable (e.g. upstream average land cover) where the single layers are stacked as single bands (e.g. 12 landcover classes). The pixel type of the layers ranges from Byte (upstream land cover) to Float64 (upstream precipitation).
+
+
+h3. Dataset download
+
+The variables can be downloaded in the netCDF-4 format. See the ReadMe for an overview of the variables and the band number, as well as Table S1 of the associated publication for additional information.
+
+| Category        |  Download link | files      |
+|                 |  ReadMe        | ReadMe.txt |
+| Climate         |  Monthly minimum temperature (average) | monthly_tmin_average.nc |
+| Climate         |  Monthly maximum temperature (average) | monthly_tmax_average.nc |
+| Climate         |  Monthly upstream precipitation (sum)  | monthly_prec_sum.nc |
+|	Climate         |	 Monthly minimum temperature (distance-weighted average) |	monthly_tmin_weighted_average.nc |
+|	Climate         |	 Monthly maximum temperature (distance-weighted average) |	monthly_tmax_weighted_average.nc |
+|	Climate         |	 Monthly upstream precipitation (distance-weighted sum) |	monthly_prec_weighted_sum.nc |
+|	Climate         |	 Hydroclimatic variables (average and sum) |	hydroclim_average+sum.nc |
+|	Climate         |	 Hydroclimatic variables (distance-weighted average and sum) |	hydroclim_weighted_average+sum.nc |
+|	Topography      |	 Upstream elevation (min, max, range, avg) |	elevation.nc |
+|	Topography      |	 Upstream slope (min, max, range, avg) |	slope.nc |
+|	Topography      |	 Stream length and flow accumulation |	flow_acc.nc |
+|	Land cover      |	 Upstream landcover coverage (minimum) |	landcover_minimum.nc |
+|	Land cover      |	 Upstream landcover coverage (maximum) |	landcover_maximum.nc |
+|	Land cover      |	 Upstream landcover coverage (range) |	landcover_range.nc |
+|	Land cover      |	 Upstream landcover coverage (average) |	landcover_average.nc |
+|	Land cover      |	 Upstream landcover coverage (distance-weighted average) |	landcover_weighted_average.nc |
+|	Geology         |	 Upstream geology (distance-weighted count) |	geology_weighted_sum.nc |
+|	Soil            |	 Upstream soil (minimum) |	soil_minimum.nc |
+|	Soil            |	 Upstream soil (maximum) |	soil_maximum.nc |
+|	Soil            |	Upstream soil (range) |	soil_range.nc |
+|	Soil            |	Upstream soil (average) |	soil_average.nc |
+|	Soil            |	Upstream soil (distance-weighted average) |	soil_weighted_average.nc |
+|	Quality control |	Quality control layers |	quality_control.nc |
+	
+
+h3. Notes
+
+We recommend to use the software R to load, crop and extract the variables. We provide example code in the Supplementary Information of the associated publication that shows how to load and process the variables in the netCDF format in R, and how and to use the GRASS GIS add-ons “r.stream.watersheds” and “r.stream.variables” to calculate similar variables for custom study areas and different spatial grains (see also the tutorial on spatial-ecology.net).
+
+
+h3. Distribution
+
+EarthEnv Near-global environmental information for freshwater ecosystems in 1km resolution Version 1 by Domisch et al. is licensed under a “Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License”. Permissions beyond the scope of this license may be available at http://www.earthenv.org/.....
+
+
+h3. Dataset citation
+
+Domisch, S., Amatulli, G., and Jetz, W. Near-global, contiguous environmental information for freshwater ecosystems in 1km resolution. Scientific Data  (accepted). Data available online at http://www.earthenv.org/.
