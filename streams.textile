@@ -24,31 +24,31 @@ h3. Dataset download
 
 The variables can be downloaded in the netCDF-4 format. See the ReadMe for an overview of the variables and the band number, as well as Table S1 of the associated publication for additional information.
 
-| Category        |  Download link | files      |
-|                 |  ReadMe        | ReadMe.txt |
-| Climate         |  "Monthly minimum temperature (average)":http://data.earthenv.org/streams/monthly_tmin_average.nc | monthly_tmin_average.nc |
-| Climate         |  Monthly maximum temperature (average) | monthly_tmax_average.nc |
-| Climate         |  Monthly upstream precipitation (sum)  | monthly_prec_sum.nc |
-|	Climate         |	 Monthly minimum temperature (distance-weighted average) |	monthly_tmin_weighted_average.nc |
-|	Climate         |	 Monthly maximum temperature (distance-weighted average) |	monthly_tmax_weighted_average.nc |
-|	Climate         |	 Monthly upstream precipitation (distance-weighted sum) |	monthly_prec_weighted_sum.nc |
-|	Climate         |	 Hydroclimatic variables (average and sum) |	hydroclim_average+sum.nc |
-|	Climate         |	 Hydroclimatic variables (distance-weighted average and sum) |	hydroclim_weighted_average+sum.nc |
-|	Topography      |	 Upstream elevation (min, max, range, avg) |	elevation.nc |
-|	Topography      |	 Upstream slope (min, max, range, avg) |	slope.nc |
-|	Topography      |	 Stream length and flow accumulation |	flow_acc.nc |
-|	Land cover      |	 Upstream landcover coverage (minimum) |	landcover_minimum.nc |
-|	Land cover      |	 Upstream landcover coverage (maximum) |	landcover_maximum.nc |
-|	Land cover      |	 Upstream landcover coverage (range) |	landcover_range.nc |
-|	Land cover      |	 Upstream landcover coverage (average) |	landcover_average.nc |
-|	Land cover      |	 Upstream landcover coverage (distance-weighted average) |	landcover_weighted_average.nc |
-|	Geology         |	 Upstream geology (distance-weighted count) |	geology_weighted_sum.nc |
-|	Soil            |	 Upstream soil (minimum) |	soil_minimum.nc |
-|	Soil            |	 Upstream soil (maximum) |	soil_maximum.nc |
-|	Soil            |	Upstream soil (range) |	soil_range.nc |
-|	Soil            |	Upstream soil (average) |	soil_average.nc |
-|	Soil            |	Upstream soil (distance-weighted average) |	soil_weighted_average.nc |
-|	Quality control |	Quality control layers |	quality_control.nc |
+| Category        |  Download link | 
+|                 |  "ReadMe":http://data.earthenv.org/streams/ReadMe.txt |
+| Climate         |  "Monthly minimum temperature (average)":http://data.earthenv.org/streams/monthly_tmin_average.nc | 
+| Climate         |  "Monthly maximum temperature (average)":http://data.earthenv.org/streams/monthly_tmax_average.nc |
+| Climate         |  "Monthly upstream precipitation (sum)":http://data.earthenv.org/streams/monthly_prec_sum.nc |
+|	Climate         |	"Monthly minimum temperature (distance-weighted average)":http://data.earthenv.org/streams/monthly_tmin_weighted_average.nc |
+|	Climate         |	"Monthly maximum temperature (distance-weighted average)":http://data.earthenv.org/streams/monthly_tmax_weighted_average.nc |
+|	Climate         |	"Monthly upstream precipitation (distance-weighted sum)":http://data.earthenv.org/streams/monthly_prec_weighted_sum.nc |
+|	Climate         |	"Hydroclimatic variables (average and sum)":http://data.earthenv.org/streams/hydroclim_average+sum.nc |
+|	Climate         |	"Hydroclimatic variables (distance-weighted average and sum)":http://data.earthenv.org/streams/hydroclim_weighted_average+sum.nc |
+|	Topography      |	"Upstream elevation (min, max, range, avg)":http://data.earthenv.org/streams/elevation.nc |
+|	Topography      |	"Upstream slope (min, max, range, avg)":http://data.earthenv.org/streams/slope.nc |
+|	Topography      |	"Stream length and flow accumulation":http://data.earthenv.org/streams/flow_acc.nc |
+|	Land cover      |	"Upstream landcover coverage (minimum)":http://data.earthenv.org/streams/landcover_minimum.nc |
+|	Land cover      |	"Upstream landcover coverage (maximum)":http://data.earthenv.org/streams/landcover_maximum.nc |
+|	Land cover      |	"Upstream landcover coverage (range)":http://data.earthenv.org/streams/landcover_range.nc |
+|	Land cover      |	"Upstream landcover coverage (average)":http://data.earthenv.org/streams/landcover_average.nc |
+|	Land cover      |	"Upstream landcover coverage (distance-weighted average)":http://data.earthenv.org/streams/landcover_weighted_average.nc |
+|	Geology         |	"Upstream geology (distance-weighted count)":http://data.earthenv.org/streams/geology_weighted_sum.nc |
+|	Soil            |	"Upstream soil (minimum)":http://data.earthenv.org/streams/soil_minimum.nc |
+|	Soil            |	"Upstream soil (maximum)":http://data.earthenv.org/streams/soil_maximum.nc |
+|	Soil            |	"Upstream soil (range)":http://data.earthenv.org/streams/soil_range.nc |
+|	Soil            |	"Upstream soil (average)":http://data.earthenv.org/streams/soil_average.nc |
+|	Soil            |	"Upstream soil (distance-weighted average)":http://data.earthenv.org/streams/soil_weighted_average.nc |
+|	Quality control |	"Quality control layers":http://data.earthenv.org/streams/quality_control.nc |
 	
 
 h3. Notes
