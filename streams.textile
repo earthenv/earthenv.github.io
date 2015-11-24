@@ -1,6 +1,6 @@
 ---
 layout: earthenv-streams
-title: Global 1-km Consensus Land Cover - EarthEnv
+title: Near-global 1-km freshwater variables - EarthEnv
 ---
 
 h2. Near-global environmental information for freshwater ecosystems in 1km resolution
@@ -8,12 +8,13 @@ h2. Near-global environmental information for freshwater ecosystems in 1km resol
 <img style="border-width:0" src="/images/streams.png" />
 
 The dataset consists of near-global, spatially continuous, and freshwater-specific environmental variables in a standardized 1km grid. We delineated the sub-catchment for each grid cell along the HydroSHEDS river network and summarized the upstream environment (climate, topography, land cover, surface geology and soil) to each grid cell using various metrics (average, minimum, maximum, range, sum, inverse distance-weighted average and sum). All variables were subsequently averaged across single lakes and reservoirs of the Global lakes and Wetlands Database that are connected to the river network. Monthly climate variables were summarized into 19 long-term climatic variables following the “bioclim” framework.
-To facilitate the generation of freshwater variables for custom study areas and spatial grains, we provide the ‘r.stream.watersheds’ and ‘r.stream.variables’ add-ons for the GRASS GIS software.
+To facilitate the generation of freshwater variables for custom study areas and spatial grains, we provide the "??r.stream.watersheds??" and "??r.stream.variables??" add-ons for the GRASS GIS software.
 
 
 Please see the associated journal article for further information:
 
-p(litreference). Domisch, S., Amatulli, G., and Jetz, W. (2015) Near-global, contiguous environmental information for freshwater ecosystems in 1km resolution. ??Scientific Data??.
+p(litreference). Domisch, S., Amatulli, G., and Jetz, W. (2015) Near-global freshwater-specific environmental variables for
+biodiversity analyses in 1km resolution. ??Scientific Data?? 2:150073 doi: 10.1038/sdata.2015.73
 
 h3. Dataset details
 
@@ -53,7 +54,7 @@ The variables can be downloaded in the netCDF-4 format. See the ReadMe for an ov
 
 h3. Notes
 
-We recommend to use the software R to load, crop and extract the variables. We provide example code in the Supplementary Information of the associated publication that shows how to load and process the variables in the netCDF format in R, and how and to use the GRASS GIS add-ons “r.stream.watersheds” and “r.stream.variables” to calculate similar variables for custom study areas and different spatial grains (see also the tutorial on spatial-ecology.net).
+We recommend to use the software R to load and process the variables. We provide example code that shows how to "load, crop,  extract and export the variables in the netCDF format in R":http://github.com/domisch/stream_layers/blob/master/crop_netCDF.R, how to "snap points to the gridded variables and extract the variables for each point":http://github.com/domisch/stream_layers/blob/master/snap_points.R, and how and to use the GRASS GIS add-ons “??r.stream.watersheds??” and “??r.stream.variables??” to calculate similar variables for custom study areas and different spatial grains (see the tutorial on "spatial-ecology.net":http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable).
 
 
 h3. Distribution
@@ -63,4 +64,5 @@ EarthEnv Near-global environmental information for freshwater ecosystems in 1km 
 
 h3. Dataset citation
 
-Domisch, S., Amatulli, G., and Jetz, W. Near-global, contiguous environmental information for freshwater ecosystems in 1km resolution. Scientific Data  (accepted). Data available online at http://www.earthenv.org/.
+Domisch, S., Amatulli, G., and Jetz, W. (2015) Near-global freshwater-specific environmental variables for
+biodiversity analyses in 1km resolution. ??Scientific Data?? 2:150073 doi: 10.1038/sdata.2015.73. Data available online at http://www.earthenv.org/.
