@@ -9,5 +9,5 @@ h2. Datasets: online
 * "90m digital elevation model":DEM.html
 * "Near-global freshwater environmental variables":streams.html
 
-h2. Datasets: forthcoming Fall 2015
+h2. Datasets: forthcoming Winter/Spring 2016
 * Cloud cover climatology (monthly, intra-annual, inter-annual; based on MODIS; 1km, global)
