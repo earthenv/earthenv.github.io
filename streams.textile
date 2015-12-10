@@ -13,8 +13,8 @@ To facilitate the generation of freshwater variables for custom study areas and 
 
 Please see the associated journal article for further information:
 
-p(litreference). Domisch, S., Amatulli, G., and Jetz, W. (2015) Near-global freshwater-specific environmental variables for
-biodiversity analyses in 1km resolution. ??Scientific Data?? 2:150073 doi: 10.1038/sdata.2015.73
+p(litreference). "Domisch, S., Amatulli, G., and Jetz, W. (2015) Near-global freshwater-specific environmental variables for
+biodiversity analyses in 1 km resolution. ??Scientific Data?? 2:150073 doi:10.1038/sdata.2015.73":http://www.nature.com/articles/sdata201573
 
 h3. Dataset details
 
@@ -23,7 +23,7 @@ We provide a variety of different metrics of the upstream environment along the 
 
 h3. Dataset download
 
-The variables can be downloaded in the netCDF-4 format. See the ReadMe for an overview of the variables and the band number, as well as Table S1 of the associated publication for additional information.
+The variables can be downloaded in the netCDF-4 format. See the ReadMe for an overview of the variables and the band number, as well as "Table 2":http://www.nature.com/articles/sdata201573/tables/2 of the associated publication for additional information.
 
 | Category        |  Download link                                        |
 |                 |  "ReadMe":http://data.earthenv.org/streams/ReadMe.txt |
@@ -54,7 +54,7 @@ The variables can be downloaded in the netCDF-4 format. See the ReadMe for an ov
 
 h3. Notes
 
-We recommend to use the software R to load and process the variables. We provide example code that shows how to "load, crop,  extract and export the variables in the netCDF format in R":http://github.com/domisch/stream_layers/blob/master/crop_netCDF.R, how to "snap points to the gridded variables and extract the variables for each point":http://github.com/domisch/stream_layers/blob/master/snap_points.R, and how and to use the GRASS GIS add-ons “??r.stream.watersheds??” and “??r.stream.variables??” to calculate similar variables for custom study areas and different spatial grains (see the tutorial on "spatial-ecology.net":http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable).
+We recommend to use the "software R":http://www.r-project.org/ to load and process the variables. We provide example code that shows how to "load, crop, extract and export the variables in the netCDF format in R":http://github.com/domisch/stream_layers/blob/master/crop_netCDF.R, how to "snap points to the gridded variables and extract the variables for each point":http://github.com/domisch/stream_layers/blob/master/snap_points.R, and how and to use the GRASS GIS add-ons “??r.stream.watersheds??” and “??r.stream.variables??” to calculate similar variables for custom study areas and different spatial grains (see the tutorial on "spatial-ecology.net":http://spatial-ecology.net/dokuwiki/doku.php?id=wiki:grassrivarvariable).
 
 
 h3. Distribution
@@ -65,4 +65,4 @@ EarthEnv Near-global environmental information for freshwater ecosystems in 1km 
 h3. Dataset citation
 
 Domisch, S., Amatulli, G., and Jetz, W. (2015) Near-global freshwater-specific environmental variables for
-biodiversity analyses in 1km resolution. ??Scientific Data?? 2:150073 doi: 10.1038/sdata.2015.73. Data available online at http://www.earthenv.org/.
+biodiversity analyses in 1 km resolution. ??Scientific Data?? 2:150073 doi: 10.1038/sdata.2015.73. Data available online at http://www.earthenv.org/.
