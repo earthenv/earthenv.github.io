@@ -6,9 +6,9 @@ title: Global 1-km Cloud Cover - EarthEnv
 h2. Global 1-km Cloud Cover
 
 (#slideshowimages)* !images/landcover_demo-slide1.jpg(An image of the global land cover data.)!
+* !images/cloud_demo-slide1.tif(An image of the global cloud data.)!
 * !images/cloud_demo-slide2.tif(An image of the global cloud data.)!
 * !images/cloud_demo-slide3.tif(An image of the global cloud data.)!
-* !images/cloud_demo-slide4.tif(An image of the global cloud data.)!
 
 The datasets integrate 15 years of twice-daily remote sensing-derived cloud observations at 1-km resolution. For additional information about the integration approach and the evaluations of the datasets, please see the associated journal article:
 
@@ -20,14 +20,8 @@ Cloud cover can influence numerous important ecological processes including repr
 
 h3. Dataset Download
 
-The datasets can be downloaded in the GeoTiff format for individual months.
+The datasets can be downloaded in the GeoTiff format from FigShare at http://doi.org/10.6084/m9.figshare.1531955
 
-|12|Open Water|"Download GeoTIFF":http://data.earthenv.org/consensus_landcover/with_DISCover/consensus_full_class_12.tif "View/download by region":http://litoria.eeb.yale.edu:8080/las/UI.vm#panelHeaderHidden=false;xCATID=id-d169fb13f3;xDSID=id-d169fb13f33;varid=Band1-id-77c030fa5d;imageSize=auto;over=xy;compute=Nonetoken;catid=id-d169fb13f3;dsid=id-d169fb13f3;varid=Band1-id-77c030fa5d;avarcount=0;xlo=-170;xhi=159;ylo=-56;yhi=90;operation_id=Plot_2D_XY_zoom;view=xy|
-
-
-h3. Notes
-
-Although DISCover is based on older remote sensing imagery (1992-1993), it contains some complementary information which is useful for capturing sub-pixel land cover heterogeneity (please see the associated article for details). Therefore, it is recommended to use the full version of the consensus land cover dataset for most applications. However, the reduced version may provide an alternative for applications in regions with large land cover change in the past two decades.
 
 h3. Distribution
 
@@ -35,7 +29,7 @@ h3. Distribution
 
 h3. Dataset Citation
 
-p(litreference). "Wilson, A.M. and W. Jetz. 2016. Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions ??PLOS Biology?? (in press).
+p(litreference). "Wilson, A.M. and W. Jetz. 2016. Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions ??PLOS Biology?? (in press)."
 Data available on-line at "http://www.earthenv.org/":http://www.earthenv.org/.
 
 h3. Contacts
