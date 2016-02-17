@@ -20,7 +20,7 @@ Cloud cover can influence numerous important ecological processes including repr
 
 h3. Dataset Download
 
-The datasets can be downloaded in the GeoTiff format from FigShare at http://doi.org/10.6084/m9.figshare.1531955
+The datasets can be downloaded in the GeoTiff format from FigShare at "http://doi.org/10.6084/m9.figshare.1531955
 
 
 h3. Distribution
