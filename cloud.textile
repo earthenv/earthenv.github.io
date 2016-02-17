@@ -1,9 +1,9 @@
 ---
-layout: earthenv
-title: Global 1-km Consensus Land Cover - EarthEnv
+layout: earthenv-cloud
+title: Global 1-km Cloud Cover - EarthEnv
 ---
 
-h2. Global 1-km Consensus Land Cover
+h2. Global 1-km Cloud Cover
 
 (#slideshowimages)* !images/landcover_demo-slide1.jpg(An image of the global land cover data.)!
 * !images/landcover_demo-slide2.jpg(An image of the global land cover data.)!
