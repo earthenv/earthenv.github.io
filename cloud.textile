@@ -6,9 +6,9 @@ title: Global 1-km Cloud Cover - EarthEnv
 h2. Global 1-km Cloud Cover
 
 (#slideshowimages)* !images/landcover_demo-slide1.jpg(An image of the global land cover data.)!
-* !images/cloud_demo-slide1.tif(An image of the global cloud data.)!
-* !images/cloud_demo-slide2.tif(An image of the global cloud data.)!
-* !images/cloud_demo-slide3.tif(An image of the global cloud data.)!
+* !images/cloud_demo-slide1.png(An image of the global cloud data.)!
+* !images/cloud_demo-slide2.png(An image of the global cloud data.)!
+* !images/cloud_demo-slide3.png(An image of the global cloud data.)!
 
 The datasets integrate 15 years of twice-daily remote sensing-derived cloud observations at 1-km resolution. For additional information about the integration approach and the evaluations of the datasets, please see the associated journal article:
 
