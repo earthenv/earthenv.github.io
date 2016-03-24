@@ -409,6 +409,7 @@ footer > p.pubcredit {
 
 footer > p img {
   margin: 0 6px;
+  height: 60px;
   padding: 2px;
   background: #FFF;
   box-shadow: 0px 0px 2px #EBEBEB;
