@@ -425,6 +425,10 @@ ul#slideshowimages {
   padding: 0px;
 }
 
+ul#slideshowimages img{
+  height: 275px;
+}
+
 
 /*******************************************************************************
 Table styles for data download options.
