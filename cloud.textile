@@ -5,6 +5,8 @@ title: Global 1-km Cloud Cover - EarthEnv
 
 h2. Global 1-km Cloud Cover
 
+<iframe style="float:right;margin:20pt;border:1pt solid gray; min-width:500px" src="http://cloud.map-of-life.appspot.com/"
+name="map" frameborder="0" width="75%" height="700" allowfullscreen="true"></iframe>
 The datasets integrate 15 years of twice-daily remote sensing-derived cloud observations at 1-km resolution. For additional information about the integration approach and the evaluations of the datasets, please see the associated journal article:
 
 p(litreference). "Wilson, A.M. and W. Jetz. 2016. Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions ??PLOS Biology?? (in press).
