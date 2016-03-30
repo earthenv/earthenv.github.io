@@ -4,10 +4,10 @@ title: EarthEnv
 ---
 
 h2. Datasets: online
-* "Global habitat heterogeneity":texture.html
-* "Consensus land cover":landcover.html
-* "90m digital elevation model":DEM.html
-* "Near-global freshwater environmental variables":streams.html
-* "Cloud cover climatology (monthly, intra-annual, inter-annual; based on MODIS; 1km, global)":cloud.html
+* "Global habitat heterogeneity":texture
+* "Consensus land cover":landcover
+* "90m digital elevation model":DEM
+* "Near-global freshwater environmental variables":streams
+* "Cloud cover climatology (monthly, intra-annual, inter-annual; based on MODIS; 1km, global)":cloud
 
 
