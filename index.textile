@@ -8,6 +8,6 @@ h2. Datasets: online
 * "Consensus land cover":landcover.html
 * "90m digital elevation model":DEM.html
 * "Near-global freshwater environmental variables":streams.html
+* "Cloud cover climatology (monthly, intra-annual, inter-annual; based on MODIS; 1km, global)":cloud.html
 
-h2. Datasets: forthcoming Winter/Spring 2016
-* Cloud cover climatology (monthly, intra-annual, inter-annual; based on MODIS; 1km, global)
+
