@@ -24,6 +24,10 @@ h3. Distribution
 
 h3. Dataset Citation
 
+(#slideshowimages){float:right}* !images/cloud_demo-slide1.png(An image of the global cloud data.)!
+* !images/cloud_demo-slide2.png(An image of the global cloud data.)!
+* !images/cloud_demo-slide3.png(An image of the global cloud data.)!
+
 p(litreference). "Wilson, A.M. and W. Jetz. 2016. Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions ??PLOS Biology?? (in press)."
 Data available on-line at "http://www.earthenv.org/":http://www.earthenv.org/.
 
@@ -31,6 +35,4 @@ h3. Contacts
 * "Adam M. Wilson":http://adamwilson.us
 * "Walter Jetz":http://jetzlab.yale.edu/people/walter-jetz
 
-(#slideshowimages)* !images/cloud_demo-slide1.png(An image of the global cloud data.)!
-* !images/cloud_demo-slide2.png(An image of the global cloud data.)!
-* !images/cloud_demo-slide3.png(An image of the global cloud data.)!
+
