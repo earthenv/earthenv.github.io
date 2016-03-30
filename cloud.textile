@@ -5,10 +5,6 @@ title: Global 1-km Cloud Cover - EarthEnv
 
 h2. Global 1-km Cloud Cover
 
-(#slideshowimages)* !images/cloud_demo-slide1.png(An image of the global cloud data.)!
-* !images/cloud_demo-slide2.png(An image of the global cloud data.)!
-* !images/cloud_demo-slide3.png(An image of the global cloud data.)!
-
 The datasets integrate 15 years of twice-daily remote sensing-derived cloud observations at 1-km resolution. For additional information about the integration approach and the evaluations of the datasets, please see the associated journal article:
 
 p(litreference). "Wilson, A.M. and W. Jetz. 2016. Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions ??PLOS Biology?? (in press).
@@ -34,3 +30,7 @@ Data available on-line at "http://www.earthenv.org/":http://www.earthenv.org/.
 h3. Contacts
 * "Adam M. Wilson":http://adamwilson.us
 * "Walter Jetz":http://jetzlab.yale.edu/people/walter-jetz
+
+(#slideshowimages)* !images/cloud_demo-slide1.png(An image of the global cloud data.)!
+* !images/cloud_demo-slide2.png(An image of the global cloud data.)!
+* !images/cloud_demo-slide3.png(An image of the global cloud data.)!
