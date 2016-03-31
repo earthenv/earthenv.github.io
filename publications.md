@@ -8,7 +8,7 @@ weight: 3
 permalink: /publications
 ---
 
-### Publications to data
+### Publications to date
 
 _Domisch, S., A. M. Wilson, and W. Jetz. 2016. Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species. Ecography. in press._
 
