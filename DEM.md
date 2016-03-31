@@ -1,34 +1,53 @@
 ---
-layout: earthenv
+layout: default
 title: DEM90 - EarthEnv
+short_title: 90m digital elevation model
+menu_title: DEM
+mainpage: false
+weight: 5
+permalink: /DEM
 ---
 
 <!-- Load the code for handling form inputs to download DEM tiles. -->
-<script language="JavaScript" type="text/javascript" src="javascripts/DEMscript.js">
-</script>
+<script language="JavaScript" type="text/javascript" src="javascripts/DEMscript.js"></script>
 
-<h2>EarthEnv-DEM90 digital elevation model</h2>
+## EarthEnv-DEM90 digital elevation model
 
-<p>DATASET: The data distributed here are in EHdr format, unprojected and
+{:.extra-spacing}
+### Dataset
+
+The data distributed here are in EHdr format, unprojected and
 referenced to the WGS84 geodetic datum. They are derived from
 <a href="http://www.cgiar-csi.org/data/srtm-90m-digital-elevation-database-v4-1">CGIAR-CSI SRTM v4.1</a>
 and <a href="http://asterweb.jpl.nasa.gov/gdem.asp">ASTER GDEM v2</a> data
 products. These data have been processed and merged to provide continuous
 coverage of ~91% of the globe. Processing and merging methodology are
 available in
-<a href="http://www.sciencedirect.com/science/article/pii/S0924271613002360">Robinson et al. (2014)</a>.</p>
+<a href="http://www.sciencedirect.com/science/article/pii/S0924271613002360">Robinson et al. (2014)</a>.
 
-<p>DISTRIBUTION: <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">EarthEnv Digital Elevation Model Version 1</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.earthenv.org/DEM.html" property="cc:attributionName" rel="cc:attributionURL">Natalie Robinson and the NCEAS Environment and Organisms (ENO) Working Group</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.earthenv.org/DEM.html" rel="cc:morePermissions">http://www.earthenv.org/DEM.html</a>.</p>
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0; margin: 0;" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+{:.extra-spacing}
+### Distribution
 
-<p>NO WARRANTY OR LIABILITY: EarthEnv-DEM90 is provided without any warranty
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">EarthEnv Digital Elevation Model Version 1</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.earthenv.org/DEM.html" property="cc:attributionName" rel="cc:attributionURL">Natalie Robinson and the NCEAS Environment and Organisms (ENO) Working Group</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.earthenv.org/DEM.html" rel="cc:morePermissions">http://www.earthenv.org/DEM.html</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+  <img alt="Creative Commons License" style="border-width:0; margin: 0;" src="http://i.creativecommons.org/l/by/4.0/88x31.png" />
+</a>
+
+{:.extra-spacing}
+### No warranty or liability
+
+EarthEnv-DEM90 is provided without any warranty
 of any kind whatsoever, either express or implied, including warranties of
 merchantability and fitness for a particular purpose. The creators of the
 product shall not be liable for incidental, consequential, or special
-damages arising out of the use of any data.</p>
+damages arising out of the use of any data.
 
-<p>ACKNOWLEDGEMENT AND CITATION:  Users should cite
+{:.extra-spacing}
+### Acknowledgement and citation
+
+Users should cite
 <a href="http://www.sciencedirect.com/science/article/pii/S0924271613002360">Robinson et al. (2014)</a>
  in the creation of any reports, publications, new data sets, derived
 products, or services resulting from the use of this data set, and if possible
@@ -36,18 +55,24 @@ link web pages to the EarthEnv-DEM90 website
 (<a href="http://www.earthenv.org/DEM.html">http://www.earthenv.org/DEM.html</a>).
 Please refer to acknowledgements
 in <a href="http://www.sciencedirect.com/science/article/pii/S0924271613002360">Robinson et al. (2014)</a>
-for funding and logistic support for EarthEnv-DEM90.</p>
+for funding and logistic support for EarthEnv-DEM90.
 
-<p>REFERENCE:</p>
+{:.extra-spacing}
+### Reference
+
 <p class="litreference">Robinson, N., Regetz, J., and Guralnick, R. P. (2014). EarthEnv-DEM90: A nearly-global, void-free, multi-scale smoothed, 90m digital elevation model from fused ASTER and SRTM data. ISPRS Journal of Photogrammetry and Remote Sensing, 87:2014, 57-67.  Available at <a href="http://www.sciencedirect.com/science/article/pii/S0924271613002360">http://www.sciencedirect.com/science/article/pii/S0924271613002360</a>.</p>
 
 <!-- Select by coordinates. -->
-<h3>Get Data by Coordinates</h3>
-<p><em>Internet Explorer users: If multiple tiles are desired, please use an alternative browser.</em></p>
 
+{:.extra-spacing}
+### Get Data by Coordinates
+
+_Internet Explorer users: If multiple tiles are desired, please use an alternative browser._
+
+{:.well}
 <!-- Create radio buttons and text boxes. -->
 <form name="CoordInput">
-	<table class="dem">
+	<table class="dem table-bordered">
 	<tr>
 		<th style="background: none; border: none;" />
 		<th style="padding-right: 2em;" colspan="2">
@@ -98,8 +123,9 @@ for funding and logistic support for EarthEnv-DEM90.</p>
 	</tr>
 </table>
 
-<input name="goGet" onClick= "NowGoGetThem()" value="Get Tiles" disabled="disabled" type="button">
-<p><em>Note: If the region of interest crosses the International Date Line, please download tiles in separate
+<input name="goGet" class="btn btn-sm extra-spacing" onClick= "NowGoGetThem()" value="Get Tiles" disabled="disabled" type="button">
+
+<p class="extra-spacing"><em>Note: If the region of interest crosses the International Date Line, please download tiles in separate
 	download sessions (e.g. tiles for region E173 to E180, then for region W180 to W156).</em></p>
 </form>
 
@@ -107,10 +133,9 @@ for funding and logistic support for EarthEnv-DEM90.</p>
 <h3>Get Data by Tile (click on tile to download)</h3>
 
 <!-- Add gridded world map. -->
-<img src="images/CroppedWP_WithGrid.jpg" alt="WorldGrid" usemap="#worldmap">
+<img src="images/CroppedWP_WithGrid.jpg" alt="WorldGrid" usemap="#worldmap" />
 <map name="worldmap">
 	<script language="JavaScript" type="text/javascript">
 		generateMapDownloadAreas();
 	</script>
 </map>
-

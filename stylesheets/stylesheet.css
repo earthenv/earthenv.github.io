@@ -11,7 +11,7 @@ Heavily customized and extended by BJS for the EarthEnv website.
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
-
+/*
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -31,8 +31,10 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
+*/
 
 /* HTML5 display-role reset for older browsers */
+/*
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
@@ -46,6 +48,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+*/
 
 /*******************************************************************************
 Theme Styles
@@ -54,8 +57,7 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#373737;
-  background: #223;
-  background: #c6c6c6;
+
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -370,9 +372,7 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: #f2f2f2;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
+
   padding-bottom: 30px;
 }
 
@@ -381,16 +381,18 @@ Full-Width Styles
 }
 
 #footer_wrap {
+
+}
+
+footer {
+  clear:both;
+  position: relative;
+  padding: 2px 10px;
+  margin-top: 10px;
   background: #223;
   font-size: 14px;
   border-bottom: solid #aaa 1px;
   border-top: solid #aaa 1px;
-}
-
-footer {
-  position: relative;
-  padding: 2px 10px;
-  margin: 0 10px;
 }
 
 footer p {
@@ -443,7 +445,7 @@ table.datalayers th {
   color: #222;
   border: solid 1px #222;
   padding-top: 8px;
-  padding-bottom: 8px;	
+  padding-bottom: 8px;
 }
 
 table.datalayers td {
