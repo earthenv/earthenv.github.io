@@ -55,7 +55,7 @@ Cloud cover can influence numerous important ecological processes including repr
 * ![An image of the global cloud data.](images/cloud_demo-slide1.png "An image of the global cloud data.")
 * ![An image of the global cloud data.](images/cloud_demo-slide2.png "An image of the global cloud data.")
 * ![An image of the global cloud data.](images/cloud_demo-slide3.png "An image of the global cloud data.")
-<div>
+</div>
 <div class="col-md-6>
 
 {:.extra-spacing}
