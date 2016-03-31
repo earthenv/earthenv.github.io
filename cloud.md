@@ -31,26 +31,26 @@ Cloud cover can influence numerous important ecological processes including repr
 | Dataset Download                         |                                                                                         |
 |------------------------------------------|-----------------------------------------------------------------------------------------|
 | Cloud Forest Prediction                  | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_CloudForestPrediction.tif){:.btn .btn-default .btn-xs}      |
-| Inter-Annual SD                          | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_interannualSD.tif){:.btn .btn-default .btn-xs}              |
-| Intra-Annual SD                          | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_intraannualSD.tif){:.btn .btn-default .btn-xs}              |
-| Mean Annual                              | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_meanannual.tif){:.btn .btn-default .btn-xs}                 |
-| January Mean                             | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_01.tif){:.btn .btn-default .btn-xs}            |
-| February Mean                            | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_02.tif){:.btn .btn-default .btn-xs}            |
-| March Mean                               | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_03.tif){:.btn .btn-default .btn-xs}            |
-| April Mean                               | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_04.tif){:.btn .btn-default .btn-xs}            |
-| May Mean                                 | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_05.tif){:.btn .btn-default .btn-xs}            |
-| June Mean                                | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_06.tif){:.btn .btn-default .btn-xs}            |
-| July Mean                                | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_07.tif){:.btn .btn-default .btn-xs}            |
-| August Mean                              | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_08.tif){:.btn .btn-default .btn-xs}            |
-| September Mean                           | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_09.tif){:.btn .btn-default .btn-xs}            |
-| October Mean                             | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_10.tif){:.btn .btn-default .btn-xs}            |
-| November Mean                            | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_11.tif){:.btn .btn-default .btn-xs}            |
-| December Mean                            | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_12.tif){:.btn .btn-default .btn-xs}            |
-| Seasonality Concentration                | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_seasonality_concentration.tif){:.btn .btn-default .btn-xs} |
+| Inter-annual variability (SD)                          | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_interannualSD.tif){:.btn .btn-default .btn-xs}              |
+| Intra-Annual variability (SD)                          | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_intraannualSD.tif){:.btn .btn-default .btn-xs}              |
+| Mean annual                              | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_meanannual.tif){:.btn .btn-default .btn-xs}                 |
+| January mean                             | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_01.tif){:.btn .btn-default .btn-xs}            |
+| February mean                            | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_02.tif){:.btn .btn-default .btn-xs}            |
+| March mean                               | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_03.tif){:.btn .btn-default .btn-xs}            |
+| April mean                               | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_04.tif){:.btn .btn-default .btn-xs}            |
+| May mean                                 | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_05.tif){:.btn .btn-default .btn-xs}            |
+| June mean                                | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_06.tif){:.btn .btn-default .btn-xs}            |
+| July mean                                | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_07.tif){:.btn .btn-default .btn-xs}            |
+| August mean                              | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_08.tif){:.btn .btn-default .btn-xs}            |
+| September mean                           | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_09.tif){:.btn .btn-default .btn-xs}            |
+| October mean                             | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_10.tif){:.btn .btn-default .btn-xs}            |
+| November mean                            | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_11.tif){:.btn .btn-default .btn-xs}            |
+| December mean                            | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_monthlymean_12.tif){:.btn .btn-default .btn-xs}            |
+| Seasonality concentration                | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_seasonality_concentration.tif){:.btn .btn-default .btn-xs} |
 | Seasonality RGB                          | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_seasonality_rgb.tif){:.btn .btn-default .btn-xs}           |
-| Seasonality Theta                        | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_seasonality_theta.tif){:.btn .btn-default .btn-xs}         |
+| Seasonality theta                        | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_seasonality_theta.tif){:.btn .btn-default .btn-xs}         |
 | Seasonality single band with color table | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_seasonality_visct.tif){:.btn .btn-default .btn-xs}         |
-| Spatial SD (1 degree)                    | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_spatialSD_1deg.tif){:.btn .btn-default .btn-xs}            |
+| Spatial variability (1 degree SD)                    | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_spatialSD_1deg.tif){:.btn .btn-default .btn-xs}            |
 
 </div><div class="col-md-6">
 
