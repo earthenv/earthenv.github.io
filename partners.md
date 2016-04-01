@@ -21,3 +21,5 @@ permalink: /partners
 [**Future Earth**](http://futureearth.org/){: target="blank" }, [**Biodiversity monitoring**](http://biodiversitymonitoring.org/){: target="blank" }  
 
 [**iPlant Collaborative**](http://www.iplantcollaborative.org/){: target="blank" }  
+
+[**Google Earth Engine**](https://earthengine.google.com/){: target="blank" }  
