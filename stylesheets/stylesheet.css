@@ -251,8 +251,8 @@ form {
 }
 
 p.litreference {
-  padding-left: 2em;
-  text-indent: -2em;
+  padding: 5px;
+  text-indent: -10px;
 }
 
 cite {
@@ -492,14 +492,26 @@ table.dem th {
   border: solid 1px #222;
 }
 
+.mapframe_right {
+  float:right;
+  border:1pt solid gray;
+  width:70%;
+  height:650px;
+  margin:10px;
+}
 
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 800px) {
   body {
     font-size:14px;
+  }
+
+  .mapframe_right {
+    clear:both;
+    width:100%;
   }
 
   #downloads {
