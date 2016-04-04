@@ -56,9 +56,9 @@ Cloud cover can influence numerous important ecological processes including repr
 | Seasonality single band with color table | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_seasonality_visct.tif){:.btn .btn-default .btn-xs}         |
 | Spatial variability (1 degree SD)                    | [Download GeoTIFF](http://data.earthenv.org/cloud/MODCF_spatialSD_1deg.tif){:.btn .btn-default .btn-xs}            |
 
-<div class="col-md-6">
+</div><div class="col-md-6">
 
-{:#slideshowimages .extra-spacing}
+{:#slideshowimages .extra-spacing .center}
 * ![An image of the global cloud data.](images/cloud_demo-slide1.png "An image of the global cloud data.")
 * ![An image of the global cloud data.](images/cloud_demo-slide2.png "An image of the global cloud data.")
 * ![An image of the global cloud data.](images/cloud_demo-slide3.png "An image of the global cloud data.")
