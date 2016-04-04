@@ -38,10 +38,10 @@ University of Florida, Gainesville
 {:.extra-spacing}
 #### Web application development
 
-[**Jeremy Malczyk**](https://mol.org/team/){: target="blank" }  
+[**Jeremy Malczyk**](https://mol.org/team#Jeremy-Malczyk){: target="blank" }  
 Yale University
 
-[**Ajay Ranipeta**](https://mol.org/team/){: target="blank" }  
+[**Ajay Ranipeta**](https://mol.org/team#Ajay-Ranipeta){: target="blank" }  
 Yale University
 
 
