@@ -36,7 +36,7 @@ University of Maine, Orono
 University of Florida, Gainesville  
 
 {:.extra-spacing}
-###Web application development
+#### Web application development
 
 [**Jeremy Malczyk**](https://mol.org/team/){: target="blank" }  
 Yale University
