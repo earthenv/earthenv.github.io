@@ -9,7 +9,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  padding-top: 50px;
+  /*padding-top: 50px;*/
   height: 100%;
 }
 
@@ -22,8 +22,29 @@ table td {
 a, a:visited { color: #3F51B5; }
 a:hover { color: #7986cb; }
 
-.navbar-default {
+header {
   background-color: #3F51B5;
+  min-height: 64px;
+  max-height: 1000px;
+  color: #FFF;
+}
+header .title {
+  min-height: 70px;
+  padding: 0 40px 0 80px;
+}
+header .row {
+  min-height: 30px;
+}
+header h1 a {
+  color: #FFF !important;
+}
+header h1 a:hover, header h1 a:focus {
+  color: #DDD !important;
+  text-decoration: none;
+}
+
+.navbar-default {
+  background-color: #303F9F;
 }
 .navbar-default .navbar-nav > li > a {
   font-weight: 400;

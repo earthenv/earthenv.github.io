@@ -1,7 +1,7 @@
 # Site settings
 title: EarthEnv
 email: ajay.ranipeta@gmail.com
-description: > # Global, remote-sensing supported environmental layers for assessing status and trends in biodiversity, ecosystems, and climate
+description: Global, remote-sensing supported environmental layers for assessing status and trends in biodiversity, ecosystems, and climate
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://earthenv.org/" # the base hostname & protocol for your site
 
