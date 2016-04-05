@@ -22,7 +22,7 @@ Global 1-km Cloud Cover
 The datasets integrate 15 years of twice-daily remote sensing-derived cloud observations at 1-km resolution. For additional information about the integration approach and the evaluations of the datasets, please see the associated journal article:
 
 {:.litreference}
-Wilson AM, Jetz W (2016) Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions. PLoS Biol 14(3): e1002415. doi:10.1371/journal. pbio.1002415
+Wilson AM, Jetz W (2016) Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions. [PLoS Biol 14(3): e1002415. doi:10.1371/journal. pbio.1002415]"http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002415"
 
 {:.extra-spacing}
 ### Dataset Details
