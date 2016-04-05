@@ -8,7 +8,7 @@ weight: 1
 permalink: /
 ---
 
-{:.well .lead }
+{:.well .well-sm .lead }
 The EarthEnv project is a collaborative project of biodiversity scientists and remote sensing experts to develop near-global standardized, 1km resolution layers for monitoring and modeling biodiversity, ecosystems, and climate. The work is supported by NCEAS, NASA, NSF, and Yale University.
 
 {:.extra-spacing}
