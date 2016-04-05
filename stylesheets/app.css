@@ -128,7 +128,7 @@ h1.hero-text {
 ------------------------- */
 
 .featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  margin: 40px 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -136,12 +136,6 @@ h1.hero-text {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
-}
-
-@media (max-width: 995px) {
-    .featurette-divider {
-        margin: 40px 0; /* Space out the Bootstrap <hr> more */
-    }
 }
 
 /* Partners

@@ -15,7 +15,7 @@ Global 1-km Cloud Cover
 
 
 <iframe class="mapframe_right"
-      src="http://cloud.map-of-life.appspot.com/3/0.000/0.000?layers=Seasonality&embed=true"
+      src="http://cloud.earthenv-maps.map-of-life.appspot.com/3/0.000/0.000?layers=Seasonality&embed=true"
       name="map" frameborder="0"
       allowfullscreen="true"></iframe>
 
