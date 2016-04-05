@@ -12,7 +12,7 @@ permalink: /publications
 
 _Domisch, S., A. M. Wilson, and W. Jetz. 2016. Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species. Ecography. in press._
 
-_Wilson, A. M., and W. Jetz. 2016. Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions. PLoS Biology in press._
+_Wilson, A. M., and W. Jetz. 2016. Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions. <a target="_blank" href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002415">PLoS Biol 14(3): e1002415. doi:10.1371/journal. pbio.1002415</a>_
 
 _Parmentier, B., B. J. McGill, A. M. Wilson, J. Regetz, W. Jetz, R. Guralnick, M.-N. Tuanmu, and M. Schildhauer. 2015. Using multi-timescale methods and satellite-derived land surface temperature for the interpolation of daily maximum air temperature in Oregon. International Journal of Climatology 35:3862-3878.
 [http://onlinelibrary.wiley.com/doi/10.1002/joc.4251/suppinfo](http://onlinelibrary.wiley.com/doi/10.1002/joc.4251/suppinfo)_
