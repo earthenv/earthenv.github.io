@@ -92,7 +92,6 @@ header h1 a:hover, header h1 a:focus {
 
 @media (max-width: 767px) {
     .footer {
-
         padding-left: 20px;
         padding-right: 20px;
     }
@@ -144,10 +143,31 @@ h1.hero-text {
 .partner {
   padding-bottom: 10px !important;
   text-align: center;
-  height: 150px;
-  line-height: 45px;
+  height: 200px;
 }
-.partner a img { max-width: 150px; }
+.partner a img {
+  margin-bottom: 15px;
+  max-width: 150px;
+  max-height: 100px;
+}
+@media (max-width: 768px) {
+    .partner {
+        height: 160px;
+    }
+}
+
+/* Team
+------------------------- */
+
+.team {
+  height: 100px;
+  margin: 5px;
+}
+@media (max-width: 768px) {
+    .team {
+        height: 70px;
+    }
+}
 
 .listsContainer{margin-left:5em}
 .listTable{border: 1pt solid #bbb;}
