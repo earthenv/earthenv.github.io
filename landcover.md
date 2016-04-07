@@ -97,7 +97,7 @@ Although DISCover is based on older remote sensing imagery (1992-1993), it conta
 
 
 {:.extra-spacing}
-<iframe src="http://consensus.earthenv-maps.map-of-life.appspot.com"
+<iframe src="http://earthenv.map-of-life.appspot.com/5/81.826/25.542?collections=consensus&layers=Herbaceous_Vegetation"
 name="map" frameborder="0" width="100%" height="600"></iframe>
 
 
