@@ -78,7 +78,7 @@ biodiversity analyses in 1 km resolution. _Scientific Data_ 2:150073 doi: 10.103
 
 
 {:.extra-spacing}
-<iframe src="http://streams.earthenv-maps.map-of-life.appspot.com"
+<iframe src="http://earthenv.map-of-life.appspot.com?collections=streams"
 name="map" frameborder="0" width="100%" height="600"></iframe>
 
 
