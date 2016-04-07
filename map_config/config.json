@@ -1,0 +1,1309 @@
+[
+  {
+    "type": "ImageCollection",
+    "id": "cloud",
+    "title": "Global 1-km Cloud Cover",
+    "features": [
+      {
+        "type": "Image",
+        "legend": "Cloud_Forest_Prediction",
+        "viz_params": {
+          "max": 0.01,
+          "palette": "ffffff,0000ff,00ff00,ff0000,ff0000",
+          "min": 0
+        },
+        "id": "users/map-of-life/CloudForestPrediction_Cloud2",
+        "show": false,
+        "units": "predict",
+        "title": "Cloud Forest Prediction",
+        "index": 0,
+        "layer_id": "Cloud_Forest_Prediction"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-16997968935033932234",
+        "show": false,
+        "units": "percentage",
+        "title": "Mean annual",
+        "index": 1,
+        "layer_id": "Mean_annual"
+      },
+      {
+        "query_assets": [
+          {
+            "id": "users/map-of-life/environmental/MODCF_seasonality_concentration",
+            "units": "sci",
+            "tooltip": "Seasonal concentration index (0-100)",
+            "name": "Seasonality concentration"
+          },
+          {
+            "id": "users/map-of-life/environmental/MODCF_seasonality_theta",
+            "units": "theta",
+            "tooltip": "Central date of season with greatest cloud concentration",
+            "name": "Seasonality theta"
+          }
+        ],
+        "legend": "Seasonality",
+        "viz_params": {},
+        "type": "Image",
+        "show": true,
+        "id": "GME/images/04040405428907908306-15930837556503781845",
+        "units": "seasonality",
+        "title": "Seasonality",
+        "index": 2,
+        "layer_id": "Seasonality"
+      },
+      {
+        "type": "Image",
+        "legend": "Intra-Annual_SD",
+        "viz_params": {
+          "max": 2500,
+          "palette": "0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-07437080423447650359",
+        "show": false,
+        "units": "standard-deviation",
+        "title": "Intra-annual variation (SD)",
+        "index": 3,
+        "layer_id": "Intra-annual_variation_(SD)"
+      },
+      {
+        "type": "Image",
+        "legend": "Inter-Annual_SD",
+        "viz_params": {
+          "max": 1500,
+          "palette": "0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-02080883188484482342",
+        "show": false,
+        "units": "standard-deviation",
+        "title": "Inter-annual variation (SD)",
+        "index": 4,
+        "layer_id": "Inter-annual_variation_(SD)"
+      },
+      {
+        "type": "Image",
+        "legend": "Spatial_SD_100_km",
+        "viz_params": {
+          "max": 2000,
+          "palette": "ffffff,0000ff,00ff00,ff0000,ff0000",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-02162961494482888597",
+        "show": false,
+        "units": "standard-deviation",
+        "title": "Spatial variation (SD)",
+        "index": 5,
+        "layer_id": "Spatial_variation_(SD)"
+      },
+      {
+        "type": "Image",
+        "legend": "Stability_Hotspots",
+        "viz_params": {},
+        "querytoggle": [
+          "Intra-annual variation (SD)",
+          "Inter-annual variation (SD)"
+        ],
+        "id": "GME/images/04040405428907908306-12449242623476995492",
+        "show": false,
+        "units": "hotspots",
+        "title": "Stability Hotspots",
+        "index": 6,
+        "layer_id": "Stability_Hotspots"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-03704860762625123026",
+        "show": false,
+        "units": "percentage",
+        "title": "January",
+        "index": 7,
+        "layer_id": "January"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-08263346736151798208",
+        "show": false,
+        "units": "percentage",
+        "title": "February",
+        "index": 8,
+        "layer_id": "February"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-02975791319561448122",
+        "show": false,
+        "units": "percentage",
+        "title": "March",
+        "index": 9,
+        "layer_id": "March"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-16223682928559322200",
+        "show": false,
+        "units": "percentage",
+        "title": "April",
+        "index": 10,
+        "layer_id": "April"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-08342255940990292930",
+        "show": false,
+        "units": "percentage",
+        "title": "May",
+        "index": 11,
+        "layer_id": "May"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-05993230520086579332",
+        "show": false,
+        "units": "percentage",
+        "title": "June",
+        "index": 12,
+        "layer_id": "June"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-09155748088421148850",
+        "show": false,
+        "units": "percentage",
+        "title": "July",
+        "index": 13,
+        "layer_id": "July"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-09109707975859833322",
+        "show": false,
+        "units": "percentage",
+        "title": "August",
+        "index": 14,
+        "layer_id": "August"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-09109707975859833322",
+        "show": false,
+        "units": "percentage",
+        "title": "September",
+        "index": 15,
+        "layer_id": "September"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-16061826233786718607",
+        "show": false,
+        "units": "percentage",
+        "title": "October",
+        "index": 16,
+        "layer_id": "October"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-06187712058419700440",
+        "show": false,
+        "units": "percentage",
+        "title": "November",
+        "index": 17,
+        "layer_id": "November"
+      },
+      {
+        "type": "Image",
+        "legend": "cloud_frequency",
+        "viz_params": {
+          "max": 10000,
+          "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
+          "min": 0
+        },
+        "id": "GME/images/04040405428907908306-08119494764782299088",
+        "show": false,
+        "units": "percentage",
+        "title": "December",
+        "index": 18,
+        "layer_id": "December"
+      }
+    ]
+  },
+  {
+    "type": "ImageCollection",
+    "id": "streams",
+    "title": "Near-global environmental information for freshwater ecosystems in 1km resolution",
+    "features": [
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-16835818123240771741",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Herbaceous vegetation (avg)",
+        "layer_id": "Herbaceous_vegetation_(avg)",
+        "index": 0
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-03748644437782705176",
+        "viz_params": {
+          "max": 20000000,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Annual sum of precipitation (avg)",
+        "layer_id": "Annual_sum_of_precipitation_(avg)",
+        "index": 1
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-08243630565672835151",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Cultivated and managed vegetation (avg)",
+        "layer_id": "Cultivated_and_managed_vegetation_(avg)",
+        "index": 2
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-05408005842133179591",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Precipitation seasonality (avg)",
+        "layer_id": "Precipitation_seasonality_(avg)",
+        "index": 3
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-17269292502416777314",
+        "viz_params": {
+          "max": 40,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Precambrian surface lithology (wsum)",
+        "layer_id": "Precambrian_surface_lithology_(wsum)",
+        "index": 4
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-01331975681272697730",
+        "viz_params": {
+          "max": 3000,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Elevation range",
+        "layer_id": "Elevation_range",
+        "index": 5
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-14916877419814061790",
+        "viz_params": {
+          "max": 5000,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 1
+        },
+        "title": "Catchment size (sum)",
+        "layer_id": "Catchment_size_(sum)",
+        "index": 6
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-17420260840459206438",
+        "viz_params": {
+          "max": 500,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 76
+        },
+        "title": "Annual air temperature range (avg)",
+        "layer_id": "Annual_air_temperature_range_(avg)",
+        "index": 7
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-14725983039031760735",
+        "viz_params": {
+          "max": 3000,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Elevation (avg)",
+        "layer_id": "Elevation_(avg)",
+        "index": 8
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-06288355460665902052",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Evergreen broadleaf trees (avg)",
+        "layer_id": "Evergreen_broadleaf_trees_(avg)",
+        "index": 9
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-03244650415831943436",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Regularly flooded shrub herbaceous vegetation (avg)",
+        "layer_id": "Regularly_flooded_shrub_herbaceous_vegetation_(avg)",
+        "index": 10
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-18223818104584807358",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Evergreen deciduous needleleaf trees (avg)",
+        "layer_id": "Evergreen_deciduous_needleleaf_trees_(avg)",
+        "index": 11
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-00046983562667843989",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Barren lands sparse vegetation (avg)",
+        "layer_id": "Barren_lands_sparse_vegetation_(avg)",
+        "index": 12
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-18241744787223608951",
+        "viz_params": {
+          "max": 500,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Slope range",
+        "layer_id": "Slope_range",
+        "index": 13
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-17590838206930784687",
+        "viz_params": {
+          "max": 40,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Quaternary surface lithology (wsum)",
+        "layer_id": "Quaternary_surface_lithology_(wsum)",
+        "index": 14
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-18258810609658841024",
+        "viz_params": {
+          "max": 500,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 1
+        },
+        "title": "Stream length (sum)",
+        "layer_id": "Stream_length_(sum)",
+        "index": 15
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-15738620217066490177",
+        "viz_params": {
+          "max": 500,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Slope (avg)",
+        "layer_id": "Slope_(avg)",
+        "index": 16
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-15614867271382850622",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Urban builtup (avg)",
+        "layer_id": "Urban_builtup_(avg)",
+        "index": 17
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-14021161906445875414",
+        "viz_params": {
+          "max": 300,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Mean annual air temperature (avg)",
+        "layer_id": "Mean_annual_air_temperature_(avg)",
+        "index": 18
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-00203113007363780479",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Shrubs (avg)",
+        "layer_id": "Shrubs_(avg)",
+        "index": 19
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-17335493681532941844",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Open water (avg)",
+        "layer_id": "Open_water_(avg)",
+        "index": 20
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-06815775574853865980",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Mixed other trees (avg)",
+        "layer_id": "Mixed_other_trees_(avg)",
+        "index": 21
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-06328252012425307056",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Deciduous broadleaf trees (avg)",
+        "layer_id": "Deciduous_broadleaf_trees_(avg)",
+        "index": 22
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-06438909179914905042",
+        "viz_params": {
+          "max": 100,
+          "palette": "ffffff,0000ff,00ff00,ff0000",
+          "min": 0
+        },
+        "title": "Snow/ice (avg)",
+        "layer_id": "Snow-ice_(avg)",
+        "index": 23
+      }
+    ]
+  },
+  {
+    "type": "ImageCollection",
+    "id": "consensus",
+    "title": "Global 1-km Consensus Land Cover",
+    "features": [
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-11593846612392477969",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Evergreen/Deciduous Needleleaf Trees",
+        "layer_id": "Evergreen-Deciduous_Needleleaf_Trees",
+        "index": 0
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-13229186913119943316",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Evergreen Broadleaf Trees",
+        "layer_id": "Evergreen_Broadleaf_Trees",
+        "index": 1
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-16121583928322922417",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Deciduous Broadleaf Trees",
+        "layer_id": "Deciduous_Broadleaf_Trees",
+        "index": 2
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-17238109668775876592",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Mixed/Other Trees",
+        "layer_id": "Mixed-Other_Trees",
+        "index": 3
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-06541804430193116641",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Shrubs",
+        "layer_id": "Shrubs",
+        "index": 4
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-06125469435409697790",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Herbaceous Vegetation",
+        "layer_id": "Herbaceous_Vegetation",
+        "index": 5
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-10318607417242881135",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Cultivated and Managed Vegetation",
+        "layer_id": "Cultivated_and_Managed_Vegetation",
+        "index": 6
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-10758914561056934058",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Regularly Flooded Vegetation",
+        "layer_id": "Regularly_Flooded_Vegetation",
+        "index": 7
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-16854579656863010645",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Urban/Built-up",
+        "layer_id": "Urban-Built-up",
+        "index": 8
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-14572693522792218524",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Snow/Ice",
+        "layer_id": "Snow-Ice",
+        "index": 9
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-15250273117323094408",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Barren",
+        "layer_id": "Barren",
+        "index": 10
+      },
+      {
+        "type": "Image",
+        "id": "GME/images/04040405428907908306-09426288588791571721",
+        "viz_params": {
+          "max": 100,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "min": 1,
+          "opacity": 0.6
+        },
+        "title": "Open Water",
+        "layer_id": "Open_Water",
+        "index": 11
+      }
+    ]
+  },
+  {
+    "type": "ImageCollection",
+    "id": "texture",
+    "title": "Global Habitat Heterogeneity",
+    "features": [
+      {
+        "id": "GME/images/04040405428907908306-11218518663853966544",
+        "viz_params": {
+          "max": 2000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Coefficient of Variation_1km",
+          "min": 0
+        },
+        "layer_id": "cv1km",
+        "title": "cv1km",
+        "index": 0
+      },
+      {
+        "id": "GME/images/04040405428907908306-05815477923836018031",
+        "viz_params": {
+          "max": 3000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Range_1km",
+          "min": 0
+        },
+        "layer_id": "range1km",
+        "title": "range1km",
+        "index": 1
+      },
+      {
+        "id": "GME/images/04040405428907908306-02047028082419114444",
+        "viz_params": {
+          "max": 800,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Standard deviation_1km",
+          "min": 0
+        },
+        "layer_id": "std1km",
+        "title": "std1km",
+        "index": 2
+      },
+      {
+        "id": "GME/images/04040405428907908306-05882857775063805172",
+        "viz_params": {
+          "max": 400000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Contrast_1km",
+          "min": 0
+        },
+        "layer_id": "CON1km",
+        "title": "CON1km",
+        "index": 3
+      },
+      {
+        "id": "GME/images/04040405428907908306-04364588802120495234",
+        "viz_params": {
+          "max": 7000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Correlation_1km",
+          "min": 0
+        },
+        "layer_id": "COR1km",
+        "title": "COR1km",
+        "index": 4
+      },
+      {
+        "id": "GME/images/04040405428907908306-07066198378270623594",
+        "viz_params": {
+          "max": 70000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Dissimilarity_1km",
+          "min": 0
+        },
+        "layer_id": "DIS1km",
+        "title": "DIS1km",
+        "index": 5
+      },
+      {
+        "id": "GME/images/04040405428907908306-01213133461307720235",
+        "viz_params": {
+          "max": 38000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Entropy_1km",
+          "min": 0
+        },
+        "layer_id": "ENT1km",
+        "title": "ENT1km",
+        "index": 6
+      },
+      {
+        "id": "GME/images/04040405428907908306-05737360743206721397",
+        "viz_params": {
+          "max": 8000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Maximum_1km",
+          "min": 0
+        },
+        "layer_id": "MAX1km",
+        "title": "MAX1km",
+        "index": 7
+      },
+      {
+        "id": "GME/images/04040405428907908306-02605227334475367745",
+        "viz_params": {
+          "max": 300000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Variance_1km",
+          "min": 0
+        },
+        "layer_id": "VAR1km",
+        "title": "VAR1km",
+        "index": 8
+      },
+      {
+        "id": "GME/images/04040405428907908306-05646909666567200579",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Homogeneity_1km",
+          "min": 0
+        },
+        "layer_id": "HOM1km",
+        "title": "HOM1km",
+        "index": 9
+      },
+      {
+        "id": "GME/images/04040405428907908306-11744791087859891609",
+        "viz_params": {
+          "max": 8000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Mean_1km",
+          "min": 0
+        },
+        "layer_id": "mean1km",
+        "title": "mean1km",
+        "index": 10
+      },
+      {
+        "id": "GME/images/04040405428907908306-14843257515904131603",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Uniformity_1km",
+          "min": 300
+        },
+        "layer_id": "ASM1km",
+        "title": "ASM1km",
+        "index": 11
+      },
+      {
+        "id": "GME/images/04040405428907908306-02220873152218370525",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Simpson_1km",
+          "min": 3000
+        },
+        "layer_id": "simpson1km",
+        "title": "simpson1km",
+        "index": 12
+      },
+      {
+        "id": "GME/images/04040405428907908306-07689614792415573083",
+        "viz_params": {
+          "max": 27000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Shannon_1km",
+          "min": 0
+        },
+        "layer_id": "shannon1km",
+        "title": "shannon1km",
+        "index": 13
+      },
+      {
+        "id": "GME/images/04040405428907908306-14066135579949655249",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Pielou_1km",
+          "min": 5000
+        },
+        "layer_id": "pielou1km",
+        "title": "pielou1km",
+        "index": 14
+      },
+      {
+        "id": "GME/images/04040405428907908306-09265507988909102604",
+        "viz_params": {
+          "max": 5000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Coefficient of variation_5km",
+          "min": 0
+        },
+        "layer_id": "cv5km",
+        "title": "cv5km",
+        "index": 15
+      },
+      {
+        "id": "GME/images/04040405428907908306-09037970925087462183",
+        "viz_params": {
+          "max": 7000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Range_5km",
+          "min": 0
+        },
+        "layer_id": "range5km",
+        "title": "range5km",
+        "index": 16
+      },
+      {
+        "id": "GME/images/04040405428907908306-17897185535166337664",
+        "viz_params": {
+          "max": 1500,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Standard deviation_5km",
+          "min": 0
+        },
+        "layer_id": "std5km",
+        "title": "std5km",
+        "index": 17
+      },
+      {
+        "id": "GME/images/04040405428907908306-16007788469915066807",
+        "viz_params": {
+          "max": 5000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Uniformity_5km",
+          "min": 0
+        },
+        "layer_id": "ASM5km",
+        "title": "ASM5km",
+        "index": 18
+      },
+      {
+        "id": "GME/images/04040405428907908306-08787873854122892740",
+        "viz_params": {
+          "max": 500000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Contrast_5km",
+          "min": 0
+        },
+        "layer_id": "CON5km",
+        "title": "CON5km",
+        "index": 19
+      },
+      {
+        "id": "GME/images/04040405428907908306-16935529683843674464",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Correlation_5km",
+          "min": 4000
+        },
+        "layer_id": "COR5km",
+        "title": "COR5km",
+        "index": 20
+      },
+      {
+        "id": "GME/images/04040405428907908306-02729983135231338734",
+        "viz_params": {
+          "max": 70000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Dissimilarity_5km",
+          "min": 0
+        },
+        "layer_id": "DIS5km",
+        "title": "DIS5km",
+        "index": 21
+      },
+      {
+        "id": "GME/images/04040405428907908306-13838481090293386592",
+        "viz_params": {
+          "max": 70000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Entropy_5km",
+          "min": 0
+        },
+        "layer_id": "ENT5km",
+        "title": "ENT5km",
+        "index": 22
+      },
+      {
+        "id": "GME/images/04040405428907908306-01161003355511608542",
+        "viz_params": {
+          "max": 8000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Maximum_5km",
+          "min": 0
+        },
+        "layer_id": "MAX5km",
+        "title": "MAX5km",
+        "index": 23
+      },
+      {
+        "id": "GME/images/04040405428907908306-03779983600507978188",
+        "viz_params": {
+          "max": 1000000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Variance_5km",
+          "min": 0
+        },
+        "layer_id": "VAR5km",
+        "title": "VAR5km",
+        "index": 24
+      },
+      {
+        "id": "GME/images/04040405428907908306-02491034096435044717",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Homogeneity_5km",
+          "min": 1500
+        },
+        "layer_id": "HOM5km",
+        "title": "HOM5km",
+        "index": 25
+      },
+      {
+        "id": "GME/images/04040405428907908306-18008333611379033113",
+        "viz_params": {
+          "max": 8000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Mean_5km",
+          "min": 0
+        },
+        "layer_id": "mean5km",
+        "title": "mean5km",
+        "index": 26
+      },
+      {
+        "id": "GME/images/04040405428907908306-16349568220732882409",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Pielou_5km",
+          "min": 5000
+        },
+        "layer_id": "pielou5km",
+        "title": "pielou5km",
+        "index": 27
+      },
+      {
+        "id": "GME/images/04040405428907908306-10124333641915897652",
+        "viz_params": {
+          "max": 35000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Shannon_5km",
+          "min": 0
+        },
+        "layer_id": "shannon5km",
+        "title": "shannon5km",
+        "index": 28
+      },
+      {
+        "id": "GME/images/04040405428907908306-01052385432676956035",
+        "viz_params": {
+          "max": 12000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Simpson_5km",
+          "min": 1000
+        },
+        "layer_id": "simpson5km",
+        "title": "simpson5km",
+        "index": 29
+      },
+      {
+        "id": "GME/images/04040405428907908306-02550396997934453773",
+        "viz_params": {
+          "max": 800,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Standard deviation_25km",
+          "min": 0
+        },
+        "layer_id": "std25km",
+        "title": "std25km",
+        "index": 30
+      },
+      {
+        "id": "GME/images/04040405428907908306-13655608845307551796",
+        "viz_params": {
+          "max": 5000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Coefficient of Variation_25km",
+          "min": 0
+        },
+        "layer_id": "cv25km",
+        "title": "cv25km",
+        "index": 31
+      },
+      {
+        "id": "GME/images/04040405428907908306-02469713014012355417",
+        "viz_params": {
+          "max": 7000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Range_25km",
+          "min": 0
+        },
+        "layer_id": "range25km",
+        "title": "range25km",
+        "index": 32
+      },
+      {
+        "id": "GME/images/04040405428907908306-02125384031857337210",
+        "viz_params": {
+          "max": 4000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Uniformity_25km",
+          "min": 0
+        },
+        "layer_id": "ASM25km",
+        "title": "ASM25km",
+        "index": 33
+      },
+      {
+        "id": "GME/images/04040405428907908306-00390641099377093669",
+        "viz_params": {
+          "max": 300000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Contrast_25km",
+          "min": 0
+        },
+        "layer_id": "CON25km",
+        "title": "CON25km",
+        "index": 34
+      },
+      {
+        "id": "GME/images/04040405428907908306-17862266891066962660",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Correlation_25km",
+          "min": 3000
+        },
+        "layer_id": "COR25km",
+        "title": "COR25km",
+        "index": 35
+      },
+      {
+        "id": "GME/images/04040405428907908306-17462490636043232641",
+        "viz_params": {
+          "max": 50000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Dissimilarity_25km",
+          "min": 0
+        },
+        "layer_id": "DIS25km",
+        "title": "DIS25km",
+        "index": 36
+      },
+      {
+        "id": "GME/images/04040405428907908306-13487318828090526397",
+        "viz_params": {
+          "max": 80000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Entropy_25km",
+          "min": 0
+        },
+        "layer_id": "ENT25km",
+        "title": "ENT25km",
+        "index": 37
+      },
+      {
+        "id": "GME/images/04040405428907908306-05120666341002128158",
+        "viz_params": {
+          "max": 5000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Maximum_25km",
+          "min": 0
+        },
+        "layer_id": "MAX25km",
+        "title": "MAX25km",
+        "index": 38
+      },
+      {
+        "id": "GME/images/04040405428907908306-11947561923825893384",
+        "viz_params": {
+          "max": 1000000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Variance_25km",
+          "min": 0
+        },
+        "layer_id": "VAR25km",
+        "title": "VAR25km",
+        "index": 39
+      },
+      {
+        "id": "GME/images/04040405428907908306-02379294245284288750",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Homogeneity_25km",
+          "min": 1500
+        },
+        "layer_id": "HOM25km",
+        "title": "HOM25km",
+        "index": 40
+      },
+      {
+        "id": "GME/images/04040405428907908306-15855022389511526726",
+        "viz_params": {
+          "max": 7000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Mean_25km",
+          "min": 0
+        },
+        "layer_id": "mean25km",
+        "title": "mean25km",
+        "index": 41
+      },
+      {
+        "id": "GME/images/04040405428907908306-06343935911223375604",
+        "viz_params": {
+          "max": 10000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Pielou_25km",
+          "min": 0
+        },
+        "layer_id": "pielou25km",
+        "title": "pielou25km",
+        "index": 42
+      },
+      {
+        "id": "GME/images/04040405428907908306-02942623582260764286",
+        "viz_params": {
+          "max": 40000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Shannon_25km",
+          "min": 0
+        },
+        "layer_id": "shannon25km",
+        "title": "shannon25km",
+        "index": 43
+      },
+      {
+        "id": "GME/images/04040405428907908306-17993289359433180784",
+        "viz_params": {
+          "max": 12000,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "Simpson_25km",
+          "min": 0
+        },
+        "layer_id": "simpson25km",
+        "title": "simpson25km",
+        "index": 44
+      }
+    ]
+  }
+]
