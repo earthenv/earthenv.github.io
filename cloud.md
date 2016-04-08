@@ -67,7 +67,7 @@ Cloud cover can influence numerous important ecological processes including repr
 {:.extra-spacing}
 
 ### Metadata
-[Metadata describing units and scaling of data listed above](metadata/Cloud_DataDescription.pdf)
+[Metadata describing cloud data units and scaling](metadata/Cloud_DataDescription.pdf)
 
 ### Distribution
 
