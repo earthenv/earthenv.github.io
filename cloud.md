@@ -65,6 +65,25 @@ Cloud cover can influence numerous important ecological processes including repr
 
 
 {:.extra-spacing}
+### Metadata
+Let $m$ index months ($m \in 1:12)$ and $y$ index years ($y \in 2000: 2014$). The monthly time series of cloud frequency were summarized to “climatological” mean cloud frequencies and standard deviations: $\mu_m = mean(CF_{m,y})$ and $\sigma_m = SD(CF_{m,y})$
+
+*MODCF_meanannual*:  Mean annual cloud frequency (%) over 2000-2014. Valid values range from 0-10,000 and need to be multiplied by 0.01 to result in % cloudy days.
+
+*MODCF_monthlymean_01-12*:  Mean monthly cloud frequency (%) over 2000-2014. Valid values range from 0-10,000 and need to be multiplied by 0.01 to result in % cloudy days.
+
+*MODCF_intraannualSD*: Standard deviation of mean 2000-2014 monthly cloud frequencies. Values need to be multiplied by 0.01 to recover SD. 
+
+*MODCF_interannualSD*: Mean of monthly standard deviations over 2000-2014 monthly cloud frequencies. Values need to be multiplied by 0.01 to recover SD. 
+
+
+*MODCF_seasonality_concentration*:   Seasonal cloud concentration index (see methods for full description) ranging from 0 (all months equally cloudy) to 100 (all clouds are observed in a single month).  Valid values range from 0-10,000 and need to be multiplied by 0.01.
+
+*MODCF_seasonality_theta*:   Timing of peak seasonal cloud concentration (see methods for full description) expressed as an angle (degrees) ranging from 0 (peak cloudiness observed on January 1st) to 360 (peak cloudiness observed on December 31st).  Valid values range from 0-3600 and need to be multiplied by 0.1 to recover degrees.  To convert to Julian Day (Day of Year), multiply by 0.1013889 instead of 0.01.
+
+*CloudForestPrediction*: Distribution (relative occurrence rate) of tropical montane cloud forests estimated using an inhomogeneous point process model of 529 cloud forest locations with the new cloud metrics and elevation.
+
+
 ### Distribution
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0; float:left; margin-right:1em; margin-top:6px" src="http://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">EarthEnv Global 1-km Cloud Frequency Version 1</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Wilson & Jetz</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.earthenv.org/cloud.html" rel="cc:morePermissions">http://www.earthenv.org/cloud.html</a>.
