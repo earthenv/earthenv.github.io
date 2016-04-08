@@ -58,6 +58,8 @@ Cloud cover can influence numerous important ecological processes including repr
 
 </div><div class="col-md-6">
 
+[Metadata describing units and scaling of data listed above](metadata/Cloud_DataDescription.pdf)
+
 {:#slideshowimages .extra-spacing .center-block}
 * ![An image of the global cloud data.](images/cloud_demo-slide1.png "An image of the global cloud data."){:.center-block}
 * ![An image of the global cloud data.](images/cloud_demo-slide2.png "An image of the global cloud data."){:.center-block}

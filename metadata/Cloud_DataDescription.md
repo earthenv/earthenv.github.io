@@ -16,6 +16,9 @@ Within-year seasonality represented as the standard deviation of mean 2000-2014 
 ## MODCF_interannualSD
 Mean between-year seasonality represented as the mean of the 2000-2014 monthly standard deviations, $mean(\sigma_m)$. Values need to be multiplied by 0.01 to recover SD. 
 
+## MODCF_spatialSD_1deg
+Spatial variability of mean annual cloud cover represented as the standard deviation of mean annual cloud frequency within a one-degree, %110 km, circular moving window.
+
 ## MODCF_seasonality_concentration
 Seasonal cloud concentration index (see methods for full description) ranging from 0 (all months equally cloudy) to 100 (all clouds are observed in a single month).  Valid values range from 0-10,000 and need to be multiplied by 0.01.
 
