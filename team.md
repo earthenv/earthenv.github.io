@@ -4,7 +4,7 @@ title: Team - EarthEnv
 short_title: Team
 menu_title: Team
 mainpage: true
-weight: 5
+weight: 6
 permalink: /team
 ---
 
