@@ -19,7 +19,7 @@ Global 1,5,10,100-km Topography
       name="map" frameborder="0"
       allowfullscreen="true"></iframe>
 
-The datasets integrate 15 years of twice-daily remote sensing-derived cloud observations at 1-km resolution. For additional information about the integration approach and the evaluations of the datasets, please see the associated journal article:
+asdf The datasets integrate 15 years of twice-daily remote sensing-derived cloud observations at 1-km resolution. For additional information about the integration approach and the evaluations of the datasets, please see the associated journal article:
 
 {:.litreference}
 Wilson AM, Jetz W (2016) Remotely Sensed High-Resolution Global Cloud Dynamics for Predicting Ecosystem and Biodiversity Distributions. <a target="_blank" href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002415">PLoS Biol 14(3): e1002415. doi:10.1371/journal. pbio.1002415</a>
