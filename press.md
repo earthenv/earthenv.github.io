@@ -14,6 +14,24 @@ permalink: /press
   <div class="col-md-2"></div>
   <div class="col-md-8">
     <h2 class="featurette-heading">
+      What this gorgeous cloud atlas reveals about the world below
+      <br />
+      <small>May 16, 2016 // by Ana Swanson, The Washington Post</small>
+  	</h2>
+    <p class="lead">
+      Two scientists, Adam Wilson and Walter Jetz, are trying to get a more accurate picture of the planet not by looking around the cloud cover but by looking at it. Working as part of a collaborative project that seeks to develop a model for monitoring biodiversity, Wilson and Jetz have compressed 15 years of satellite imagery of the world’s clouds into some gorgeous maps.
+    </p>
+    <p>View article on <a href="https://www.washingtonpost.com/news/wonk/wp/2016/05/16/what-you-can-tell-about-the-world-just-by-looking-at-clouds/" title="What this gorgeous cloud atlas reveals about the world below">The Washington Post</a></p>
+  </div>
+  <div class="col-md-2"></div>
+</div>
+
+<hr class="featurette-divider">
+
+<div class="row featurette">
+  <div class="col-md-2"></div>
+  <div class="col-md-8">
+    <h2 class="featurette-heading">
       Wildlife conservation from outer space
       <br />
       <small>April 7, 2016 // by Dana Kobilinsky, Wildlife</small>
@@ -81,4 +99,3 @@ permalink: /press
 </div>
 
 <hr class="featurette-divider">
-
