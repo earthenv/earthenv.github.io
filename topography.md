@@ -8,7 +8,7 @@ weight: 4
 permalink: /topography
 ---
 
-lobal 1,5,10,100-km Topography
+Global 1,5,10,100-km Topography
 -----------------------
 
 {::options parse_block_html="true" /}
