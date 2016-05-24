@@ -13,7 +13,7 @@
         },
         "layer_id": "aspectcosine_1KMmd_GMTEDmd",
         "title": "aspect cosine 1KM median",
-        "index": 45
+        "index": 0
       },
       {
         "id": "users/giuseppeamatulli/topography/aspectcosine_1KMsd_GMTEDsd",
@@ -24,7 +24,7 @@
         },
         "title": "aspect cosine 1KM standard deviation",
         "layer_id": "aspectcosine_1KMsd_GMTEDsd",
-        "index": 46
+        "index": 1
       }
     ]
   },
