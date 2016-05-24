@@ -1,6 +1,37 @@
 [
   {
     "type": "ImageCollection",
+    "id": "topography",
+    "title": "Global 1-km Cloud Cover",
+    "features": [
+      {
+        "id": "users/giuseppeamatulli/topography/aspectcosine_1KMmd_GMTEDmd",
+        "viz_params": {
+          "max": 1,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "aspect cosine 1KM median",
+          "min": -1
+        },
+        "layer_id": "aspectcosine_1KMmd_GMTEDmd",
+        "title": "aspectcosine_1KMmd_GMTEDmd",
+        "index": 45
+      },
+      {
+        "id": "users/giuseppeamatulli/topography/aspectcosine_1KMsd_GMTEDmd",
+        "viz_params": {
+          "max": 1,
+          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "title": "aspect cosine 1KM standard deviation",
+          "min": 0
+        },
+        "layer_id": "aspectcosine_1KMsd_GMTEDmd",
+        "title": "aspectcosine_1KMsd_GMTEDmd",
+        "index": 46
+      }
+    ]
+  },
+  {
+    "type": "ImageCollection",
     "id": "cloud",
     "title": "Global 1-km Cloud Cover",
     "features": [
