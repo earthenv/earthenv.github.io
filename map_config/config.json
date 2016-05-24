@@ -8,7 +8,7 @@
         "id": "users/giuseppeamatulli/topography/aspectcosine_1KMmd_GMTEDmd",
         "viz_params": {
           "max": 1,
-          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
+          "palette": "ffffff,0000ff,00ff00,ff0000,
           "min": -1
         },
         "layer_id": "aspectcosine_1KMmd_GMTEDmd",
