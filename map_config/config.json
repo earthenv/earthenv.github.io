@@ -1,33 +1,270 @@
 [
   {
-    "type": "ImageCollection",
-    "id": "topography",
-    "title": "Global Topography",
-    "features": [
-      {
-        "id": "users/giuseppeamatulli/topography/aspectcosine_1KMmd_GMTEDmd",
-        "viz_params": {
-          "max": 1,
-          "palette": "ffffff,0000ff,00ff00,ff0000",
-          "min": -1
-        },
-        "layer_id": "aspectcosine_1KMmd_GMTEDmd",
-        "title": "aspect cosine 1KM median",
-        "index": 0
-      },
-      {
-        "id": "users/giuseppeamatulli/topography/aspectcosine_1KMsd_GMTEDmd",
-        "viz_params": {
-          "max": 1,
-          "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
-          "min": 0
-        },
-        "title": "aspect cosine 1KM standard deviation",
-        "layer_id": "aspectcosine_1KMsd_GMTEDmd",
-        "index": 1
-      }
-    ]
-  },
+	"type": "ImageCollection",
+	"id": "topography",
+	"title": "Global Topography",
+	"features": [{
+		"id": "users/giuseppeamatulli/topography/slope_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 20,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "slope_1KMmd_GMTEDmd",
+		"title": "slope 1KMmd GMTEDmd",
+		"index": 0
+	}, {
+		"id": "users/giuseppeamatulli/topography/slope_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 5,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "slope_1Ksd_GMTEDmd",
+		"title": "slope 1Ksd GMTEDmd",
+		"index": 1
+	}, {
+		"id": "users/giuseppeamatulli/topography/aspectcosine_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -0.8,
+			"max": 0.8,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "aspectcosine_1KMmd_GMTEDmd",
+		"title": "aspectcosine 1KMmd GMTEDmd",
+		"index": 2
+	}, {
+		"id": "users/giuseppeamatulli/topography/aspectcosine_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.8,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "aspectcosine_1Ksd_GMTEDmd",
+		"title": "aspectcosine 1Ksd GMTEDmd",
+		"index": 3
+	}, {
+		"id": "users/giuseppeamatulli/topography/aspectsine_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -0.4,
+			"max": 0.4,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "aspectsine_1KMmd_GMTEDmd",
+		"title": "aspectsine 1KMmd GMTEDmd",
+		"index": 4
+	}, {
+		"id": "users/giuseppeamatulli/topography/aspectsine_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.8,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "aspectsine_1Ksd_GMTEDmd",
+		"title": "aspectsine 1Ksd GMTEDmd",
+		"index": 5
+	}, {
+		"id": "users/giuseppeamatulli/topography/eastness_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -0.05,
+			"max": 0.1,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "eastness_1KMmd_GMTEDmd",
+		"title": "eastness 1KMmd GMTEDmd",
+		"index": 6
+	}, {
+		"id": "users/giuseppeamatulli/topography/eastness_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.5,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "eastness_1Ksd_GMTEDmd",
+		"title": "eastness 1Ksd GMTEDmd",
+		"index": 7
+	}, {
+		"id": "users/giuseppeamatulli/topography/northness_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -0.2,
+			"max": 0.1,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "northness_1KMmd_GMTEDmd",
+		"title": "northness 1KMmd GMTEDmd",
+		"index": 8
+	}, {
+		"id": "users/giuseppeamatulli/topography/northness_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.5,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "northness_1Ksd_GMTEDmd",
+		"title": "northness 1Ksd GMTEDmd",
+		"index": 9
+	}, {
+		"id": "users/giuseppeamatulli/topography/dx_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -0.01,
+			"max": 0.0015,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "dx_1KMmd_GMTEDmd",
+		"title": "dx 1KMmd GMTEDmd",
+		"index": 10
+	}, {
+		"id": "users/giuseppeamatulli/topography/dx_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.2,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "dx_1Ksd_GMTEDmd",
+		"title": "dx 1Ksd GMTEDmd",
+		"index": 11
+	}, {
+		"id": "users/giuseppeamatulli/topography/dxx_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -0.00002,
+			"max": 0.00001,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "dxx_1KMmd_GMTEDmd",
+		"title": "dxx 1KMmd GMTEDmd",
+		"index": 12
+	}, {
+		"id": "users/giuseppeamatulli/topography/dxx_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.0005,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "dxx_1Ksd_GMTEDmd",
+		"title": "dxx 1Ksd GMTEDmd",
+		"index": 13
+	}, {
+		"id": "users/giuseppeamatulli/topography/dy_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -0.01,
+			"max": 0.001,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "dy_1KMmd_GMTEDmd",
+		"title": "dy 1KMmd GMTEDmd",
+		"index": 14
+	}, {
+		"id": "users/giuseppeamatulli/topography/dy_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.1,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "dy_1Ksd_GMTEDmd",
+		"title": "dy 1Ksd GMTEDmd",
+		"index": 15
+	}, {
+		"id": "users/giuseppeamatulli/topography/dyy_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -0.00003,
+			"max": 0.00001,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "dyy_1KMmd_GMTEDmd",
+		"title": "dyy 1KMmd GMTEDmd",
+		"index": 16
+	}, {
+		"id": "users/giuseppeamatulli/topography/dyy_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.0005,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "dyy_1Ksd_GMTEDmd",
+		"title": "dyy 1Ksd GMTEDmd",
+		"index": 17
+	}, {
+		"id": "users/giuseppeamatulli/topography/pcurv_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -0.0001,
+			"max": 0.00001,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "pcurv_1KMmd_GMTEDmd",
+		"title": "pcurv 1KMmd GMTEDmd",
+		"index": 18
+	}, {
+		"id": "users/giuseppeamatulli/topography/pcurv_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.0005,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "pcurv_1Ksd_GMTEDmd",
+		"title": "pcurv 1Ksd GMTEDmd",
+		"index": 19
+	}, {
+		"id": "users/giuseppeamatulli/topography/tri_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 20,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "tri_1KMmd_GMTEDmd",
+		"title": "tri 1KMmd GMTEDmd",
+		"index": 20
+	}, {
+		"id": "users/giuseppeamatulli/topography/tri_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 10,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "tri_1Ksd_GMTEDmd",
+		"title": "tri 1Ksd GMTEDmd",
+		"index": 21
+	}, {
+		"id": "users/giuseppeamatulli/topography/tpi_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": -2,
+			"max": 2,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "tpi_1KMmd_GMTEDmd",
+		"title": "tpi 1KMmd GMTEDmd",
+		"index": 22
+	}, {
+		"id": "users/giuseppeamatulli/topography/tpi_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 50,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "tpi_1Ksd_GMTEDmd",
+		"title": "tpi 1Ksd GMTEDmd",
+		"index": 23
+	}, {
+		"id": "users/giuseppeamatulli/topography/vrm_1KMmd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.001,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "vrm_1KMmd_GMTEDmd",
+		"title": "vrm 1KMmd GMTEDmd",
+		"index": 24
+	}, {
+		"id": "users/giuseppeamatulli/topography/vrm_1KMsd_GMTEDmd",
+		"viz_params": {
+			"min": 0,
+			"max": 0.002,
+			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+		},
+		"layer_id": "vrm_1Ksd_GMTEDmd",
+		"title": "vrm 1Ksd GMTEDmd",
+		"index": 25
+	}]
+},
   {
     "type": "ImageCollection",
     "id": "cloud",
