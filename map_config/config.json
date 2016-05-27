@@ -1,5 +1,5 @@
 [
-  {
+{
 	"type": "ImageCollection",
 	"id": "topography",
 	"title": "Global Topography",
@@ -11,6 +11,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "slope_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "slope 1KMmd GMTEDmd",
 		"index": 0
 	}, {
@@ -21,6 +22,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "slope_1Ksd_GMTEDmd",
+		"visible": true,
 		"title": "slope 1Ksd GMTEDmd",
 		"index": 1
 	}, {
@@ -31,6 +33,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "aspectcosine_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "aspectcosine 1KMmd GMTEDmd",
 		"index": 2
 	}, {
@@ -41,6 +44,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "aspectcosine_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "aspectcosine 1Ksd GMTEDmd",
 		"index": 3
 	}, {
@@ -51,6 +55,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "aspectsine_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "aspectsine 1KMmd GMTEDmd",
 		"index": 4
 	}, {
@@ -61,6 +66,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "aspectsine_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "aspectsine 1Ksd GMTEDmd",
 		"index": 5
 	}, {
@@ -71,6 +77,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "eastness_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "eastness 1KMmd GMTEDmd",
 		"index": 6
 	}, {
@@ -81,6 +88,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "eastness_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "eastness 1Ksd GMTEDmd",
 		"index": 7
 	}, {
@@ -91,6 +99,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "northness_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "northness 1KMmd GMTEDmd",
 		"index": 8
 	}, {
@@ -101,6 +110,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "northness_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "northness 1Ksd GMTEDmd",
 		"index": 9
 	}, {
@@ -111,6 +121,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "dx_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "dx 1KMmd GMTEDmd",
 		"index": 10
 	}, {
@@ -121,6 +132,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "dx_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "dx 1Ksd GMTEDmd",
 		"index": 11
 	}, {
@@ -131,6 +143,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "dxx_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "dxx 1KMmd GMTEDmd",
 		"index": 12
 	}, {
@@ -141,6 +154,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "dxx_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "dxx 1Ksd GMTEDmd",
 		"index": 13
 	}, {
@@ -151,6 +165,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "dy_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "dy 1KMmd GMTEDmd",
 		"index": 14
 	}, {
@@ -161,6 +176,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "dy_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "dy 1Ksd GMTEDmd",
 		"index": 15
 	}, {
@@ -171,6 +187,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "dyy_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "dyy 1KMmd GMTEDmd",
 		"index": 16
 	}, {
@@ -181,6 +198,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "dyy_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "dyy 1Ksd GMTEDmd",
 		"index": 17
 	}, {
@@ -191,6 +209,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "pcurv_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "pcurv 1KMmd GMTEDmd",
 		"index": 18
 	}, {
@@ -201,6 +220,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "pcurv_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "pcurv 1Ksd GMTEDmd",
 		"index": 19
 	}, {
@@ -211,6 +231,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "tri_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "tri 1KMmd GMTEDmd",
 		"index": 20
 	}, {
@@ -221,6 +242,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "tri_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "tri 1Ksd GMTEDmd",
 		"index": 21
 	}, {
@@ -231,6 +253,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "tpi_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "tpi 1KMmd GMTEDmd",
 		"index": 22
 	}, {
@@ -241,6 +264,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "tpi_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "tpi 1Ksd GMTEDmd",
 		"index": 23
 	}, {
@@ -251,6 +275,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "vrm_1KMmd_GMTEDmd",
+		"visible": false,
 		"title": "vrm 1KMmd GMTEDmd",
 		"index": 24
 	}, {
@@ -261,6 +286,7 @@
 			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
 		},
 		"layer_id": "vrm_1Ksd_GMTEDmd",
+		"visible": false,
 		"title": "vrm 1Ksd GMTEDmd",
 		"index": 25
 	}]
