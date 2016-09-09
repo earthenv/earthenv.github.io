@@ -30,7 +30,7 @@
 		"viz_params": {
 			"min": -1,
 			"max": 1,
-			"palette": "#0000FF,#00FF00,#FFFF00,#FFA500,#FF0000,#A52A2A,#000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "aspectcosine_1KMmd_GMTEDmd",
 		"show": false,
