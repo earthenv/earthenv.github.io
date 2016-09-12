@@ -7,7 +7,7 @@
 		"id": "users/giuseppeamatulli/topography/slope_1KMmd_GMTEDmd",
 		"viz_params": {
 			"min": 0,
-			"max": 2,
+			"max": 20,
 			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "slope_1KMmd_GMTEDmd",
