@@ -74,7 +74,7 @@
 		"viz_params": {
 			"min": -0.05,
 			"max": 0.1,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "eastness_1KMmd_GMTEDmd",
 		"show": false,
@@ -85,7 +85,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 0.5,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "eastness_1Ksd_GMTEDmd",
 		"show": false,
@@ -96,7 +96,7 @@
 		"viz_params": {
 			"min": -0.2,
 			"max": 0.1,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "northness_1KMmd_GMTEDmd",
 		"show": false,
@@ -107,7 +107,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 0.5,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "northness_1Ksd_GMTEDmd",
 		"show": false,
@@ -118,7 +118,7 @@
 		"viz_params": {
 			"min": -0.01,
 			"max": 0.0015,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "dx_1KMmd_GMTEDmd",
 		"show": false,
@@ -129,7 +129,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 0.2,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "dx_1Ksd_GMTEDmd",
 		"show": false,
@@ -140,7 +140,7 @@
 		"viz_params": {
 			"min": -0.00002,
 			"max": 0.00001,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "dxx_1KMmd_GMTEDmd",
 		"show": false,
@@ -151,7 +151,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 0.0005,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "dxx_1Ksd_GMTEDmd",
 		"show": false,
@@ -162,7 +162,7 @@
 		"viz_params": {
 			"min": -0.01,
 			"max": 0.001,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "dy_1KMmd_GMTEDmd",
 		"show": false,
@@ -173,7 +173,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 0.1,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "dy_1Ksd_GMTEDmd",
 		"show": false,
@@ -184,7 +184,7 @@
 		"viz_params": {
 			"min": -0.00003,
 			"max": 0.00001,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "dyy_1KMmd_GMTEDmd",
 		"show": false,
@@ -195,7 +195,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 0.0005,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "dyy_1Ksd_GMTEDmd",
 		"show": false,
@@ -206,7 +206,7 @@
 		"viz_params": {
 			"min": -0.0001,
 			"max": 0.00001,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "pcurv_1KMmd_GMTEDmd",
 		"show": false,
@@ -217,18 +217,18 @@
 		"viz_params": {
 			"min": 0,
 			"max": 0.0005,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "pcurv_1Ksd_GMTEDmd",
 		"show": false,
 		"title": "pcurv 1Ksd GMTEDmd",
 		"index": 19
 	}, {
-		"id": "users/giuseppeamatulli/topography/tri_1KMmd_GMTEDmd",
+		"id": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000",
 		"viz_params": {
 			"min": 0,
 			"max": 20,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "tri_1KMmd_GMTEDmd",
 		"show": false,
@@ -239,7 +239,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 10,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "tri_1Ksd_GMTEDmd",
 		"show": false,
@@ -250,7 +250,7 @@
 		"viz_params": {
 			"min": -2,
 			"max": 2,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "tpi_1KMmd_GMTEDmd",
 		"show": false,
@@ -261,7 +261,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 50,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "tpi_1Ksd_GMTEDmd",
 		"show": false,
@@ -272,7 +272,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 0.001,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "vrm_1KMmd_GMTEDmd",
 		"show": false,
@@ -283,7 +283,7 @@
 		"viz_params": {
 			"min": 0,
 			"max": 0.002,
-			"palette": "0000FF,00AA55,55FF00,FFFF00,FFC300,FF6D00,FF0000,C31B1B,6E1C1C,000000"
+			"palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
 		},
 		"layer_id": "vrm_1Ksd_GMTEDmd",
 		"show": false,
