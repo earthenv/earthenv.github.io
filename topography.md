@@ -15,7 +15,7 @@ Global 1,5,10,100-km Topography
 
 
 <iframe class="mapframe_right"
-      src="http://earthenv.map-of-life.appspot.com/3/0.000/0.000?collections=topography&layers="
+      src="http://earthenv.map-of-life.appspot.com/3/0.000/0.000?collections=topographyv1&layers="
       name="map" frameborder="0"
       allowfullscreen="true"></iframe>
 

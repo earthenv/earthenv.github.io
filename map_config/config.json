@@ -1,7 +1,7 @@
 [
 {
 	"type": "ImageCollection",
-	"id": "topography",
+	"id": "topographyv1",
 	"title": "Global Topography",
 	"features": [{
 		"id": "users/giuseppeamatulli/topography/slope_1KMmd_GMTEDmd",
