@@ -15,16 +15,16 @@ title,filename1km,filename5km,filename10km,filename50km,filename100km
  Northness - Standard deviation,northness_1KMsd_GMTEDmd,northness_5KMsd_GMTEDmd,northness_10KMsd_GMTEDmd,northness_50KMsd_GMTEDmd,northness_100KMsd_GMTEDmd
  First order partial derivative (E-W slope) - Median,dx_1KMmd_GMTEDmd,dx_5KMmd_GMTEDmd,dx_10KMmd_GMTEDmd,dx_50KMmd_GMTEDmd,dx_100KMmd_GMTEDmd
  First order partial derivative (E-W slope) - Standard deviation,dx_1KMsd_GMTEDmd,dx_5KMsd_GMTEDmd,dx_10KMsd_GMTEDmd,dx_50KMsd_GMTEDmd,dx_100KMsd_GMTEDmd
- Second order partial derivative - Median ,dxx_1KMmd_GMTEDmd_p,dxx_5KMmd_GMTEDmd_p,dxx_10KMmd_GMTEDmd_p,dxx_50KMmd_GMTEDmd_p,dxx_100KMmd_GMTEDmd_p
- Second order partial derivative - Standard deviation,dxx_1KMsd_GMTEDmd_p,dxx_5KMsd_GMTEDmd_p,dxx_10KMsd_GMTEDmd_p,dxx_50KMsd_GMTEDmd_p,dxx_100KMsd_GMTEDmd_p
+ Second order partial derivative - Median ,dxx_1KMmd_GMTEDmd,dxx_5KMmd_GMTEDmd,dxx_10KMmd_GMTEDmd,dxx_50KMmd_GMTEDmd,dxx_100KMmd_GMTEDmd
+ Second order partial derivative - Standard deviation,dxx_1KMsd_GMTEDmd,dxx_5KMsd_GMTEDmd,dxx_10KMsd_GMTEDmd,dxx_50KMsd_GMTEDmd,dxx_100KMsd_GMTEDmd
  First order partial derivative (N-S slope) - Median,dy_1KMmd_GMTEDmd,dy_5KMmd_GMTEDmd,dy_10KMmd_GMTEDmd,dy_50KMmd_GMTEDmd,dy_100KMmd_GMTEDmd
  First order partial derivative (N-S slope) - Standard deviation,dy_1KMsd_GMTEDmd,dy_5KMsd_GMTEDmd,dy_10KMsd_GMTEDmd,dy_50KMsd_GMTEDmd,dy_100KMsd_GMTEDmd
- Second order partial derivative - Median              ,dyy_1KMmd_GMTEDmd_p,dyy_5KMmd_GMTEDmd_p,dyy_10KMmd_GMTEDmd_p,dyy_50KMmd_GMTEDmd_p,dyy_100KMmd_GMTEDmd_p
- Second order partial derivative - Standard deviation ,dyy_1KMsd_GMTEDmd_p,dyy_5KMsd_GMTEDmd_p,dyy_10KMsd_GMTEDmd_p,dyy_50KMsd_GMTEDmd_p,dyy_100KMsd_GMTEDmd_p
- Profile curvature - Median ,pcurv_1KMmd_GMTEDmd_p,pcurv_5KMmd_GMTEDmd_p,pcurv_10KMmd_GMTEDmd_p,pcurv_50KMmd_GMTEDmd_p,pcurv_100KMmd_GMTEDmd_p
- Profile curvature - Standard deviation   ,pcurv_1KMsd_GMTEDmd_p,pcurv_5KMsd_GMTEDmd_p,pcurv_10KMsd_GMTEDmd_p,pcurv_50KMsd_GMTEDmd_p,pcurv_100KMsd_GMTEDmd_p
- Tangential curvature - Median,tcurv_1KMmd_GMTEDmd_p,tcurv_5KMmd_GMTEDmd_p,tcurv_10KMmd_GMTEDmd_p,tcurv_50KMmd_GMTEDmd_p,tcurv_100KMmd_GMTEDmd_p
- Tangential curvature - Standard deviation   ,tcurv_1KMsd_GMTEDmd_p,tcurv_5KMsd_GMTEDmd_p,tcurv_10KMsd_GMTEDmd_p,tcurv_50KMsd_GMTEDmd_p,tcurv_100KMsd_GMTEDmd_p
+ Second order partial derivative - Median              ,dyy_1KMmd_GMTEDmd,dyy_5KMmd_GMTEDmd,dyy_10KMmd_GMTEDmd,dyy_50KMmd_GMTEDmd,dyy_100KMmd_GMTEDmd
+ Second order partial derivative - Standard deviation ,dyy_1KMsd_GMTEDmd,dyy_5KMsd_GMTEDmd,dyy_10KMsd_GMTEDmd,dyy_50KMsd_GMTEDmd,dyy_100KMsd_GMTEDmd
+ Profile curvature - Median ,pcurv_1KMmd_GMTEDmd,pcurv_5KMmd_GMTEDmd,pcurv_10KMmd_GMTEDmd,pcurv_50KMmd_GMTEDmd,pcurv_100KMmd_GMTEDmd
+ Profile curvature - Standard deviation   ,pcurv_1KMsd_GMTEDmd,pcurv_5KMsd_GMTEDmd,pcurv_10KMsd_GMTEDmd,pcurv_50KMsd_GMTEDmd,pcurv_100KMsd_GMTEDmd
+ Tangential curvature - Median,tcurv_1KMmd_GMTEDmd,tcurv_5KMmd_GMTEDmd,tcurv_10KMmd_GMTEDmd,tcurv_50KMmd_GMTEDmd,tcurv_100KMmd_GMTEDmd
+ Tangential curvature - Standard deviation   ,tcurv_1KMsd_GMTEDmd,tcurv_5KMsd_GMTEDmd,tcurv_10KMsd_GMTEDmd,tcurv_50KMsd_GMTEDmd,tcurv_100KMsd_GMTEDmd
  Roughness - Median,roughness_1KMmd_GMTEDmd,roughness_5KMmd_GMTEDmd,roughness_10KMmd_GMTEDmd,roughness_50KMmd_GMTEDmd,roughness_100KMmd_GMTEDmd
  Roughness - Standard deviation  ,roughness_1KMsd_GMTEDmd,roughness_5KMsd_GMTEDmd,roughness_10KMsd_GMTEDmd,roughness_50KMsd_GMTEDmd,roughness_100KMsd_GMTEDmd
  Topographic Position Index - Median   ,tpi_1KMmd_GMTEDmd,tpi_5KMmd_GMTEDmd,tpi_10KMmd_GMTEDmd,tpi_50KMmd_GMTEDmd,tpi_100KMmd_GMTEDmd
@@ -37,7 +37,7 @@ title,filename1km,filename5km,filename10km,filename50km,filename100km
  Peak geomorphological landform - Percentage  ,geompeak_1KMperc_GMTEDmd,geompeak_5KMperc_GMTEDmd,geompeak_10KMperc_GMTEDmd,geompeak_50KMperc_GMTEDmd,geompeak_100KMperc_GMTEDmd
  Ridge geomorphological landform - Percentage,geomridge_1KMperc_GMTEDmd,geomridge_5KMperc_GMTEDmd,geomridge_10KMperc_GMTEDmd,geomridge_50KMperc_GMTEDmd,geomridge_100KMperc_GMTEDmd
  Shoulder geomorphological landform - Percentage,geomshoulder_1KMperc_GMTEDmd,geomshoulder_5KMperc_GMTEDmd,geomshoulder_10KMperc_GMTEDmd,geomshoulder_50KMperc_GMTEDmd,geomshoulder_100KMperc_GMTEDmd
- Spur geomorphological landform - Percentage,geomspur_1KMperc_GMTEDmd_p,geomspur_5KMperc_GMTEDmd_p,geomspur_10KMperc_GMTEDmd_p,geomspur_50KMperc_GMTEDmd_p,geomspur_100KMperc_GMTEDmd_p
+ Spur geomorphological landform - Percentage,geomspur_1KMperc_GMTEDmd,geomspur_5KMperc_GMTEDmd,geomspur_10KMperc_GMTEDmd,geomspur_50KMperc_GMTEDmd,geomspur_100KMperc_GMTEDmd
  Slope geomorphological landform - Percentage,geomfootslope_1KMperc_GMTEDmd,geomfootslope_5KMperc_GMTEDmd,geomfootslope_10KMperc_GMTEDmd,geomfootslope_50KMperc_GMTEDmd,geomfootslope_100KMperc_GMTEDmd
  Hollow geomorphological landform - Percentage,geomhollow_1KMperc_GMTEDmd,geomhollow_5KMperc_GMTEDmd,geomhollow_10KMperc_GMTEDmd,geomhollow_50KMperc_GMTEDmd,geomhollow_100KMperc_GMTEDmd
  Footslope geomorphological landform - Percentage,geomslope_1KMperc_GMTEDmd,geomslope_5KMperc_GMTEDmd,geomslope_10KMperc_GMTEDmd,geomslope_50KMperc_GMTEDmd,geomslope_100KMperc_GMTEDmd
