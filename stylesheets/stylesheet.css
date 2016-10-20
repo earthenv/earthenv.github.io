@@ -473,6 +473,9 @@ table.datalayers a:hover {
   /*background: #c2c2c2;*/
 }
 
+table.datalayers td img {
+  width: 475px;
+}
 
 
 /*******************************************************************************
