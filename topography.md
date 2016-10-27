@@ -153,7 +153,7 @@ Dataset | Download 1KM | Download 5KM | Download 10KM | Download 50KM | Download
     var fav = $('#faggr').val();
     var fsv = $('#fsrc').val();
     var url = base_url + fdv + '_' + frv + fav + '_' + fsv + 'md.tif';
-    console.log(url);
+    window.open(url);
 
     return false;
   });
@@ -163,7 +163,7 @@ Dataset | Download 1KM | Download 5KM | Download 10KM | Download 50KM | Download
     var fdv = $('#fcatdataset').val();
     var frv = $('#fcatres').val();
     var url = base_url + fdv.replace('{KM}', frv) + '.tif';
-    console.log(url);
+    window.open(url);
 
     return false;
   });  
