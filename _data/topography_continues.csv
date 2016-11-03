@@ -32,11 +32,11 @@ title,GMTED1km,GMTED5km,GMTED10km,GMTED50km,GMTED100km,Sources Layers,Sources La
  Aspect Northness – Minimum,northness_1KMmi_GMTEDmd,northness_5KMmi_GMTEDmd,northness_10KMmi_GMTEDmd,northness_50KMmi_GMTEDmd,northness_100KMmi_GMTEDmd,GMTED,SRTM,northness_1KMmi_SRTM,northness_5KMmi_SRTM,northness_10KMmi_SRTM,northness_50KMmi_SRTM,northness_100KMmi_SRTM
  Aspect Northness – Maximum,northness_1KMma_GMTEDmd,northness_5KMma_GMTEDmd,northness_10KMma_GMTEDmd,northness_50KMma_GMTEDmd,northness_100KMma_GMTEDmd,GMTED,SRTM,northness_1KMma_SRTM,northness_5KMma_SRTM,northness_10KMma_SRTM,northness_50KMma_SRTM,northness_100KMma_SRTM
  Aspect Northness - Standard deviation,northness_1KMsd_GMTEDmd,northness_5KMsd_GMTEDmd,northness_10KMsd_GMTEDmd,northness_50KMsd_GMTEDmd,northness_100KMsd_GMTEDmd,GMTED,SRTM,northness_1KMsd_SRTM,northness_5KMsd_SRTM,northness_10KMsd_SRTM,northness_50KMsd_SRTM,northness_100KMsd_SRTM
-First order partial derivative (E-W slope) - Median,dxx_1KMmd_GMTEDmd,dxx_5KMmd_GMTEDmd,dxx_10KMmd_GMTEDmd,dxx_50KMmd_GMTEDmd,dxx_100KMmd_GMTEDmd,GMTED,,,,,,
-First order partial derivative (E-W slope) - Mean,dxx_1KMmn_GMTEDmd,dxx_5KMmn_GMTEDmd,dxx_10KMmn_GMTEDmd,dxx_50KMmn_GMTEDmd,dxx_100KMmn_GMTEDmd,GMTED,,,,,,
-First order partial derivative (E-W slope) - Minimum,dxx_1KMmi_GMTEDmd,dxx_5KMmi_GMTEDmd,dxx_10KMmi_GMTEDmd,dxx_50KMmi_GMTEDmd,dxx_100KMmi_GMTEDmd,GMTED,,,,,,
-First order partial derivative (E-W slope) - Maximum,dxx_1KMma_GMTEDmd,dxx_5KMma_GMTEDmd,dxx_10KMma_GMTEDmd,dxx_50KMma_GMTEDmd,dxx_100KMma_GMTEDmd,GMTED,,,,,,
-First order partial derivative (E-W slope) - Standard deviation,dxx_1KMsd_GMTEDmd,dxx_5KMsd_GMTEDmd,dxx_10KMsd_GMTEDmd,dxx_50KMsd_GMTEDmd,dxx_100KMsd_GMTEDmd,GMTED,,,,,,
+First order partial derivative (E-W slope) - Median,dx_1KMmd_GMTEDmd,dx_5KMmd_GMTEDmd,dx_10KMmd_GMTEDmd,dx_50KMmd_GMTEDmd,dx_100KMmd_GMTEDmd,GMTED,,,,,,
+First order partial derivative (E-W slope) - Mean,dx_1KMmn_GMTEDmd,dx_5KMmn_GMTEDmd,dx_10KMmn_GMTEDmd,dx_50KMmn_GMTEDmd,dx_100KMmn_GMTEDmd,GMTED,,,,,,
+First order partial derivative (E-W slope) - Minimum,dx_1KMmi_GMTEDmd,dx_5KMmi_GMTEDmd,dx_10KMmi_GMTEDmd,dx_50KMmi_GMTEDmd,dx_100KMmi_GMTEDmd,GMTED,,,,,,
+First order partial derivative (E-W slope) - Maximum,dx_1KMma_GMTEDmd,dx_5KMma_GMTEDmd,dx_10KMma_GMTEDmd,dx_50KMma_GMTEDmd,dx_100KMma_GMTEDmd,GMTED,,,,,,
+First order partial derivative (E-W slope) - Standard deviation,dx_1KMsd_GMTEDmd,dx_5KMsd_GMTEDmd,dx_10KMsd_GMTEDmd,dx_50KMsd_GMTEDmd,dx_100KMsd_GMTEDmd,GMTED,,,,,,
 Second order partial derivative (E-W slope) - Median,dxx_1KMmd_GMTEDmd,dxx_5KMmd_GMTEDmd,dxx_10KMmd_GMTEDmd,dxx_50KMmd_GMTEDmd,dxx_100KMmd_GMTEDmd,GMTED,,,,,,
 Second order partial derivative (E-W slope) - Mean,dxx_1KMmn_GMTEDmd,dxx_5KMmn_GMTEDmd,dxx_10KMmn_GMTEDmd,dxx_50KMmn_GMTEDmd,dxx_100KMmn_GMTEDmd,GMTED,,,,,,
 Second order partial derivative (E-W slope) - Minimum,dxx_1KMmi_GMTEDmd,dxx_5KMmi_GMTEDmd,dxx_10KMmi_GMTEDmd,dxx_50KMmi_GMTEDmd,dxx_100KMmi_GMTEDmd,GMTED,,,,,,
