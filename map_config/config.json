@@ -319,7 +319,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-16997968935033932234",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-16997968935033932234",
         "show": false,
         "units": "percentage",
         "title": "Mean annual",
@@ -345,7 +345,7 @@
         "viz_params": {},
         "type": "Image",
         "show": true,
-        "id": "GME/images/04040405428907908306-15930837556503781845",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-15930837556503781845",
         "units": "seasonality",
         "title": "Seasonality",
         "index": 2,
@@ -359,7 +359,7 @@
           "palette": "0000ff,00ff00,ff0000",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-07437080423447650359",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-07437080423447650359",
         "show": false,
         "units": "standard-deviation",
         "title": "Intra-annual variation (SD)",
@@ -374,7 +374,7 @@
           "palette": "0000ff,00ff00,ff0000",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-02080883188484482342",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02080883188484482342",
         "show": false,
         "units": "standard-deviation",
         "title": "Inter-annual variation (SD)",
@@ -389,7 +389,7 @@
           "palette": "ffffff,0000ff,00ff00,ff0000,ff0000",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-02162961494482888597",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02162961494482888597",
         "show": false,
         "units": "standard-deviation",
         "title": "Spatial variation (SD)",
@@ -404,7 +404,7 @@
           "Intra-annual variation (SD)",
           "Inter-annual variation (SD)"
         ],
-        "id": "GME/images/04040405428907908306-12449242623476995492",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-12449242623476995492",
         "show": false,
         "units": "hotspots",
         "title": "Stability Hotspots",
@@ -419,7 +419,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-03704860762625123026",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-03704860762625123026",
         "show": false,
         "units": "percentage",
         "title": "January",
@@ -434,7 +434,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-08263346736151798208",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-08263346736151798208",
         "show": false,
         "units": "percentage",
         "title": "February",
@@ -449,7 +449,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-02975791319561448122",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02975791319561448122",
         "show": false,
         "units": "percentage",
         "title": "March",
@@ -464,7 +464,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-16223682928559322200",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-16223682928559322200",
         "show": false,
         "units": "percentage",
         "title": "April",
@@ -479,7 +479,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-08342255940990292930",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-08342255940990292930",
         "show": false,
         "units": "percentage",
         "title": "May",
@@ -494,7 +494,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-05993230520086579332",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-05993230520086579332",
         "show": false,
         "units": "percentage",
         "title": "June",
@@ -509,7 +509,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-09155748088421148850",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-09155748088421148850",
         "show": false,
         "units": "percentage",
         "title": "July",
@@ -524,7 +524,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-09109707975859833322",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-09109707975859833322",
         "show": false,
         "units": "percentage",
         "title": "August",
@@ -539,7 +539,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-09109707975859833322",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-09109707975859833322",
         "show": false,
         "units": "percentage",
         "title": "September",
@@ -554,7 +554,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-16061826233786718607",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-16061826233786718607",
         "show": false,
         "units": "percentage",
         "title": "October",
@@ -569,7 +569,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-06187712058419700440",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-06187712058419700440",
         "show": false,
         "units": "percentage",
         "title": "November",
@@ -584,7 +584,7 @@
           "palette": "08306b,0d57a1,2878b8,4997c9,72b2d7,a2cbe2,c7dcef,deebf7,f7fbff",
           "min": 0
         },
-        "id": "GME/images/04040405428907908306-08119494764782299088",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-08119494764782299088",
         "show": false,
         "units": "percentage",
         "title": "December",
@@ -600,7 +600,7 @@
     "features": [
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-16835818123240771741",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-16835818123240771741",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -612,7 +612,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-03748644437782705176",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-03748644437782705176",
         "viz_params": {
           "max": 20000000,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -624,7 +624,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-08243630565672835151",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-08243630565672835151",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -636,7 +636,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-05408005842133179591",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-05408005842133179591",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -648,7 +648,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-17269292502416777314",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-17269292502416777314",
         "viz_params": {
           "max": 40,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -660,7 +660,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-01331975681272697730",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-01331975681272697730",
         "viz_params": {
           "max": 3000,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -672,7 +672,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-14916877419814061790",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-14916877419814061790",
         "viz_params": {
           "max": 5000,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -684,7 +684,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-17420260840459206438",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-17420260840459206438",
         "viz_params": {
           "max": 500,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -696,7 +696,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-14725983039031760735",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-14725983039031760735",
         "viz_params": {
           "max": 3000,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -708,7 +708,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-06288355460665902052",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-06288355460665902052",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -720,7 +720,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-03244650415831943436",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-03244650415831943436",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -732,7 +732,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-18223818104584807358",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-18223818104584807358",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -744,7 +744,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-00046983562667843989",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-00046983562667843989",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -756,7 +756,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-18241744787223608951",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-18241744787223608951",
         "viz_params": {
           "max": 500,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -768,7 +768,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-17590838206930784687",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-17590838206930784687",
         "viz_params": {
           "max": 40,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -780,7 +780,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-18258810609658841024",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-18258810609658841024",
         "viz_params": {
           "max": 500,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -792,7 +792,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-15738620217066490177",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-15738620217066490177",
         "viz_params": {
           "max": 500,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -804,7 +804,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-15614867271382850622",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-15614867271382850622",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -816,7 +816,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-14021161906445875414",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-14021161906445875414",
         "viz_params": {
           "max": 300,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -828,7 +828,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-00203113007363780479",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-00203113007363780479",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -840,7 +840,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-17335493681532941844",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-17335493681532941844",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -852,7 +852,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-06815775574853865980",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-06815775574853865980",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -864,7 +864,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-06328252012425307056",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-06328252012425307056",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -876,7 +876,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-06438909179914905042",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-06438909179914905042",
         "viz_params": {
           "max": 100,
           "palette": "ffffff,0000ff,00ff00,ff0000",
@@ -895,7 +895,7 @@
     "features": [
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-11593846612392477969",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-11593846612392477969",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -908,7 +908,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-13229186913119943316",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-13229186913119943316",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -921,7 +921,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-16121583928322922417",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-16121583928322922417",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -934,7 +934,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-17238109668775876592",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-17238109668775876592",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -947,7 +947,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-06541804430193116641",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-06541804430193116641",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -960,7 +960,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-06125469435409697790",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-06125469435409697790",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -973,7 +973,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-10318607417242881135",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-10318607417242881135",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -986,7 +986,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-10758914561056934058",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-10758914561056934058",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -999,7 +999,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-16854579656863010645",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-16854579656863010645",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1012,7 +1012,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-14572693522792218524",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-14572693522792218524",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1025,7 +1025,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-15250273117323094408",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-15250273117323094408",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1038,7 +1038,7 @@
       },
       {
         "type": "Image",
-        "id": "GME/images/04040405428907908306-09426288588791571721",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-09426288588791571721",
         "viz_params": {
           "max": 100,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1057,7 +1057,7 @@
     "title": "Global Habitat Heterogeneity",
     "features": [
       {
-        "id": "GME/images/04040405428907908306-11218518663853966544",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-11218518663853966544",
         "viz_params": {
           "max": 2000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1069,7 +1069,7 @@
         "index": 0
       },
       {
-        "id": "GME/images/04040405428907908306-05815477923836018031",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-05815477923836018031",
         "viz_params": {
           "max": 3000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1081,7 +1081,7 @@
         "index": 1
       },
       {
-        "id": "GME/images/04040405428907908306-02047028082419114444",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02047028082419114444",
         "viz_params": {
           "max": 800,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1093,7 +1093,7 @@
         "index": 2
       },
       {
-        "id": "GME/images/04040405428907908306-05882857775063805172",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-05882857775063805172",
         "viz_params": {
           "max": 400000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1105,7 +1105,7 @@
         "index": 3
       },
       {
-        "id": "GME/images/04040405428907908306-04364588802120495234",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-04364588802120495234",
         "viz_params": {
           "max": 7000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1117,7 +1117,7 @@
         "index": 4
       },
       {
-        "id": "GME/images/04040405428907908306-07066198378270623594",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-07066198378270623594",
         "viz_params": {
           "max": 70000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1129,7 +1129,7 @@
         "index": 5
       },
       {
-        "id": "GME/images/04040405428907908306-01213133461307720235",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-01213133461307720235",
         "viz_params": {
           "max": 38000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1141,7 +1141,7 @@
         "index": 6
       },
       {
-        "id": "GME/images/04040405428907908306-05737360743206721397",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-05737360743206721397",
         "viz_params": {
           "max": 8000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1153,7 +1153,7 @@
         "index": 7
       },
       {
-        "id": "GME/images/04040405428907908306-02605227334475367745",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02605227334475367745",
         "viz_params": {
           "max": 300000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1165,7 +1165,7 @@
         "index": 8
       },
       {
-        "id": "GME/images/04040405428907908306-05646909666567200579",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-05646909666567200579",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1177,7 +1177,7 @@
         "index": 9
       },
       {
-        "id": "GME/images/04040405428907908306-11744791087859891609",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-11744791087859891609",
         "viz_params": {
           "max": 8000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1189,7 +1189,7 @@
         "index": 10
       },
       {
-        "id": "GME/images/04040405428907908306-14843257515904131603",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-14843257515904131603",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1201,7 +1201,7 @@
         "index": 11
       },
       {
-        "id": "GME/images/04040405428907908306-02220873152218370525",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02220873152218370525",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1213,7 +1213,7 @@
         "index": 12
       },
       {
-        "id": "GME/images/04040405428907908306-07689614792415573083",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-07689614792415573083",
         "viz_params": {
           "max": 27000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1225,7 +1225,7 @@
         "index": 13
       },
       {
-        "id": "GME/images/04040405428907908306-14066135579949655249",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-14066135579949655249",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1237,7 +1237,7 @@
         "index": 14
       },
       {
-        "id": "GME/images/04040405428907908306-09265507988909102604",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-09265507988909102604",
         "viz_params": {
           "max": 5000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1249,7 +1249,7 @@
         "index": 15
       },
       {
-        "id": "GME/images/04040405428907908306-09037970925087462183",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-09037970925087462183",
         "viz_params": {
           "max": 7000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1261,7 +1261,7 @@
         "index": 16
       },
       {
-        "id": "GME/images/04040405428907908306-17897185535166337664",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-17897185535166337664",
         "viz_params": {
           "max": 1500,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1273,7 +1273,7 @@
         "index": 17
       },
       {
-        "id": "GME/images/04040405428907908306-16007788469915066807",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-16007788469915066807",
         "viz_params": {
           "max": 5000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1285,7 +1285,7 @@
         "index": 18
       },
       {
-        "id": "GME/images/04040405428907908306-08787873854122892740",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-08787873854122892740",
         "viz_params": {
           "max": 500000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1297,7 +1297,7 @@
         "index": 19
       },
       {
-        "id": "GME/images/04040405428907908306-16935529683843674464",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-16935529683843674464",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1309,7 +1309,7 @@
         "index": 20
       },
       {
-        "id": "GME/images/04040405428907908306-02729983135231338734",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02729983135231338734",
         "viz_params": {
           "max": 70000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1321,7 +1321,7 @@
         "index": 21
       },
       {
-        "id": "GME/images/04040405428907908306-13838481090293386592",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-13838481090293386592",
         "viz_params": {
           "max": 70000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1333,7 +1333,7 @@
         "index": 22
       },
       {
-        "id": "GME/images/04040405428907908306-01161003355511608542",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-01161003355511608542",
         "viz_params": {
           "max": 8000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1345,7 +1345,7 @@
         "index": 23
       },
       {
-        "id": "GME/images/04040405428907908306-03779983600507978188",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-03779983600507978188",
         "viz_params": {
           "max": 1000000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1357,7 +1357,7 @@
         "index": 24
       },
       {
-        "id": "GME/images/04040405428907908306-02491034096435044717",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02491034096435044717",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1369,7 +1369,7 @@
         "index": 25
       },
       {
-        "id": "GME/images/04040405428907908306-18008333611379033113",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-18008333611379033113",
         "viz_params": {
           "max": 8000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1381,7 +1381,7 @@
         "index": 26
       },
       {
-        "id": "GME/images/04040405428907908306-16349568220732882409",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-16349568220732882409",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1393,7 +1393,7 @@
         "index": 27
       },
       {
-        "id": "GME/images/04040405428907908306-10124333641915897652",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-10124333641915897652",
         "viz_params": {
           "max": 35000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1405,7 +1405,7 @@
         "index": 28
       },
       {
-        "id": "GME/images/04040405428907908306-01052385432676956035",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-01052385432676956035",
         "viz_params": {
           "max": 12000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1417,7 +1417,7 @@
         "index": 29
       },
       {
-        "id": "GME/images/04040405428907908306-02550396997934453773",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02550396997934453773",
         "viz_params": {
           "max": 800,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1429,7 +1429,7 @@
         "index": 30
       },
       {
-        "id": "GME/images/04040405428907908306-13655608845307551796",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-13655608845307551796",
         "viz_params": {
           "max": 5000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1441,7 +1441,7 @@
         "index": 31
       },
       {
-        "id": "GME/images/04040405428907908306-02469713014012355417",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02469713014012355417",
         "viz_params": {
           "max": 7000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1453,7 +1453,7 @@
         "index": 32
       },
       {
-        "id": "GME/images/04040405428907908306-02125384031857337210",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02125384031857337210",
         "viz_params": {
           "max": 4000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1465,7 +1465,7 @@
         "index": 33
       },
       {
-        "id": "GME/images/04040405428907908306-00390641099377093669",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-00390641099377093669",
         "viz_params": {
           "max": 300000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1477,7 +1477,7 @@
         "index": 34
       },
       {
-        "id": "GME/images/04040405428907908306-17862266891066962660",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-17862266891066962660",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1489,7 +1489,7 @@
         "index": 35
       },
       {
-        "id": "GME/images/04040405428907908306-17462490636043232641",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-17462490636043232641",
         "viz_params": {
           "max": 50000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1501,7 +1501,7 @@
         "index": 36
       },
       {
-        "id": "GME/images/04040405428907908306-13487318828090526397",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-13487318828090526397",
         "viz_params": {
           "max": 80000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1513,7 +1513,7 @@
         "index": 37
       },
       {
-        "id": "GME/images/04040405428907908306-05120666341002128158",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-05120666341002128158",
         "viz_params": {
           "max": 5000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1525,7 +1525,7 @@
         "index": 38
       },
       {
-        "id": "GME/images/04040405428907908306-11947561923825893384",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-11947561923825893384",
         "viz_params": {
           "max": 1000000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1537,7 +1537,7 @@
         "index": 39
       },
       {
-        "id": "GME/images/04040405428907908306-02379294245284288750",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02379294245284288750",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1549,7 +1549,7 @@
         "index": 40
       },
       {
-        "id": "GME/images/04040405428907908306-15855022389511526726",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-15855022389511526726",
         "viz_params": {
           "max": 7000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1561,7 +1561,7 @@
         "index": 41
       },
       {
-        "id": "GME/images/04040405428907908306-06343935911223375604",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-06343935911223375604",
         "viz_params": {
           "max": 10000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1573,7 +1573,7 @@
         "index": 42
       },
       {
-        "id": "GME/images/04040405428907908306-02942623582260764286",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-02942623582260764286",
         "viz_params": {
           "max": 40000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
@@ -1585,7 +1585,7 @@
         "index": 43
       },
       {
-        "id": "GME/images/04040405428907908306-17993289359433180784",
+        "id": "projects/earthenv/src_gme/GME/images/04040405428907908306-17993289359433180784",
         "viz_params": {
           "max": 12000,
           "palette": "FFFFFF,CE7E45,DF923D,F1B555,FCD163,99B718,74A901,66A000,529400,3E8601,207401,056201,004C00,023B01,012E01,011D01,011301",
