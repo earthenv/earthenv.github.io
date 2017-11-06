@@ -93,7 +93,7 @@ All data layers are in WGS84 projection and have a spatial extent from 85ºN - 6
 
 
 {:.extra-spacing}
-<iframe src="http://earthenv.map-of-life.appspot.com/3/-36.607/39.842?collections=texture&layers=range1km"
+<iframe src="https://earthenv-dot-map-of-life.appspot.com/3/-36.607/39.842?collections=texture&layers=range1km"
 name="map" frameborder="0" width="100%" height="600"></iframe>
 
 
