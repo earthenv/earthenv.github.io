@@ -11,10 +11,17 @@ permalink: /topography
 Global 1,5,10,100-km Topography
 -------------------------------
 
-A suite of global, cross-scale topographic variables for environmental and biodiversity modeling. For additional information, please see the associated  article:
+Topographic variation underpins a myriad of patterns and processes in hydrology, climatology, geography and ecology 
+and is key to understanding the variation of life on the planet. We provide a fully standardized and global multivariate 
+product of different terrain features has the potential to support many large-scale research applications. The product 
+is based on the digital elevation model products of global 250 m GMTED2010 and near-global 90 m SRTM4.1dev. We provide 
+the following topographic variables: elevation, slope, aspect, eastness, northness, roughness, terrain roughness index, 
+topographic position index, vector ruggedness measure, profile/tangential curvature, first/second order partial 
+derivative, and 10 geomorphological landform classes. Each variable is provided at different aggregations 
+from 1, 5, 10, 50 to 100 km spatial grains. 
 
 {:.litreference}
-[Giuseppe Amatulli, Sami Domisch, Mao-Ning Tuanmu, Benoit Parmentier, Ajay Ranipeta, Jeremy Malczyk & Walter Jetz. (2018) A suite of global, cross-scale topographic variables for environmental and biodiversity modeling. Scientific Data volume 5, Article number: 180040. DOI: doi:10.1038/sdata.2018.40](https://www.nature.com/articles/sdata201840).
+[Amatulli, G., Domisch, S., Tuanmu, M.-N., Parmentier, B., Ranipeta, A., Malczyk, J., and Jetz, W. (2018) A suite of global, cross-scale topographic variables for environmental and biodiversity modeling. Scientific Data volume 5, Article number: 180040. DOI: doi:10.1038/sdata.2018.40](https://www.nature.com/articles/sdata201840).
 
 <!--
 {::options parse_block_html="true" /}

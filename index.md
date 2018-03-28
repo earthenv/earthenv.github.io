@@ -17,7 +17,14 @@ The EarthEnv project is a collaborative project of biodiversity scientists and r
   <div class="col-md-7">
     <h2 class="featurette-heading"><a href="/topography" title="Topography">Topography</a></h2>
     <p class="lead">
-      A suite of global, cross-scale topographic variables for environmental and biodiversity modeling.
+      Topographic variation underpins a myriad of patterns and processes in hydrology, climatology, geography and ecology 
+      and is key to understanding the variation of life on the planet. We provide a fully standardized and global multivariate 
+      product of different terrain features has the potential to support many large-scale research applications. The product 
+      is based on the digital elevation model products of global 250 m GMTED2010 and near-global 90 m SRTM4.1dev. We provide 
+      the following topographic variables: elevation, slope, aspect, eastness, northness, roughness, terrain roughness index, 
+      topographic position index, vector ruggedness measure, profile/tangential curvature, first/second order partial 
+      derivative, and 10 geomorphological landform classes. Each variable is provided at different aggregations 
+      from 1, 5, 10, 50 to 100 km spatial grains. 
     </p>
   </div>
   <div class="col-md-5">

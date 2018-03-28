@@ -10,6 +10,8 @@ permalink: /publications
 
 ### Publications to date
 
+_Amatulli, G., Domisch, S., Tuanmu, M.-N., Parmentier, B., Ranipeta, A., Malczyk, J., and Jetz, W. (2018) A suite of global, cross-scale topographic variables for environmental and biodiversity modeling. <a target="_blank" href="https://www.nature.com/articles/sdata201840">Scientific Data volume 5, Article number: 180040. DOI: doi:10.1038/sdata.2018.40</a>_
+
 _Domisch, S., A. M. Wilson, and W. Jetz. 2016. Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species. Ecography. in press._
 
 _Wilson, A. M., and W. Jetz. 2016. Remotely sensed high-resolution global cloud dynamics for predicting ecosystem and biodiversity distributions. <a target="_blank" href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002415">PLoS Biol 14(3): e1002415. doi:10.1371/journal. pbio.1002415</a>_
