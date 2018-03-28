@@ -11,6 +11,11 @@ permalink: /topography
 Global 1,5,10,100-km Topography
 -------------------------------
 
+A suite of global, cross-scale topographic variables for environmental and biodiversity modeling. For additional information, please see the associated  article:
+
+{:.litreference}
+[Giuseppe Amatulli, Sami Domisch, Mao-Ning Tuanmu, Benoit Parmentier, Ajay Ranipeta, Jeremy Malczyk & Walter Jetz. (2018) A suite of global, cross-scale topographic variables for environmental and biodiversity modeling. Scientific Data volume 5, Article number: 180040. DOI: doi:10.1038/sdata.2018.40](https://www.nature.com/articles/sdata201840).
+
 <!--
 {::options parse_block_html="true" /}
 -->
