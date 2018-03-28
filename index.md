@@ -15,6 +15,20 @@ The EarthEnv project is a collaborative project of biodiversity scientists and r
 
 <div class="row featurette">
   <div class="col-md-7">
+    <h2 class="featurette-heading"><a href="/topography" title="Topography">Topography</a></h2>
+    <p class="lead">
+      A suite of global, cross-scale topographic variables for environmental and biodiversity modeling.
+    </p>
+  </div>
+  <div class="col-md-5">
+    <a href="/topography" title="Topography"><img class="featurette-image img-responsive center-block" src="/images/backgrounds/products/tiles_large/bg_product_topography.jpg" alt="Topography"></a>
+  </div>
+</div>
+
+<hr class="featurette-divider">
+
+<div class="row featurette">
+  <div class="col-md-7">
     <h2 class="featurette-heading"><a href="/texture" title="Habitat heterogeneity">Habitat heterogeneity</a></h2>
     <p class="lead">
       14 metrics quantifying spatial heterogeneity of global habitat at multiple
