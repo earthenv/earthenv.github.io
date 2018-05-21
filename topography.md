@@ -164,7 +164,7 @@ Dataset | Download 1KM | Download 5KM | Download 10KM | Download 50KM | Download
     var frv = $('#fres').val();
     var fav = $('#faggr').val();
     var fsv = $('#fsrc').val();
-    var url = base_url + fdv + '_' + frv + fav + '_' + fsv + ((fsv=='SRTM')?'':fav) + '.tif';
+    var url = base_url + fdv + '_' + frv + fav + '_' + fsv + ((fsv=='SRTM')?'':'md') + '.tif';
     window.open(url);
 
     return false;
