@@ -1,17 +1,17 @@
 ---
 layout: default
-title: CHELSA - EarthEnv
-short_title: CHELSA - EarthEnv
+title: CHELSA - EarthEnv Precipitation
+short_title: CHELSA - EarthEnv Precipitation
 menu_title: CHELSA - EarthEnv
 mainpage: false
 weight: 4
-permalink: /eechelsa
+permalink: /precipitation
 ---
 
-CHELSA - EarthEnv
+CHELSA - EarthEnv Precipitation
 -------------------------------
 
-[INFO about CHELSA - EarthEnv goes here]
+[INFO about CHELSA - EarthEnv Precipitation goes here]
 
 {:.litreference}
 [Karger, D., Jetz, W. (2020) Earth-Env CHELSA . DOI: doi:xx.xxxx/sdata.2020.xx](https://www.mol.org/).
