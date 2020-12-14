@@ -4,10 +4,10 @@
     "id": "precipitation",
     "title": "Global Topography",
     "features": [{
-      "id": "projects/earthenv/chelsa/daily_precip_v21",
+      "id": "projects/earthenv/chelsa/daily_precip_land_v21/CHELSA_preccor_land_01_07_2016_V21",
       "viz_params": {
         "min": 0,
-        "max": 2,
+        "max": 100,
         "palette": "0000FF,00FF00,FFFF00,FFA500,FF0000,A52A2A,000000"
       },
       "layer_id": "daily_precip_v21",
