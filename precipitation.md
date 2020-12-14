@@ -29,7 +29,7 @@ compared to ERA5 but with an additional improved spatial accuracy and much bette
 representation of precipitation in complex terrain.
 
 {:.litreference}
-[Karger, D., Wilson, A., Mahony, C., Zimmermann. N.E., Jetz, W. (in prep) Earth-Env CHELSA . DOI: doi:xx.xxxx/xxxx.2020.xx](http://www.earthenv.org/).
+[Karger, D., Wilson, A., Mahony, C., Zimmermann. N.E., Jetz, W. (in prep) Earth-Env CHELSA . DOI: doi:10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6](http://www.earthenv.org/).
 
 <!--
 {::options parse_block_html="true" /}
@@ -53,6 +53,8 @@ _**Maps and point information tool to come in early Jan 2021**_
             <label for="fmonth">Month</label>
             <select id="fmonth" class="form-control"></select>
           </div>
+
+          <div><em>File size: ~8GB</em></div>
 
           <button id="fcondownload" class="btn btn-primary extra-spacing">Download</button>
 
@@ -79,8 +81,7 @@ _**Maps and point information tool to come in early Jan 2021**_
     var fy = $('#fyear').val();
     var fm = $('#fmonth').val();
     var dlurl = base_url + fm.toString().padStart(2, "0") + '_' + fy + '.zip';
-    // window.open(dlurl);
-    console.log(dlurl);
+    window.open(dlurl);
 
     return false;
   });

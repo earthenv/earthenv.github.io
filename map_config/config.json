@@ -2,7 +2,7 @@
   {
     "type": "ImageCollection",
     "id": "precipitation",
-    "title": "Global Topography",
+    "title": "Global Precipitation",
     "features": [{
       "id": "projects/earthenv/chelsa/daily_precip_land_v21/CHELSA_preccor_land_01_07_2016_V21",
       "viz_params": {
