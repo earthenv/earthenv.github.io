@@ -8,6 +8,62 @@ weight: 4
 permalink: /topography
 ---
 
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Dataset",
+  "name" : "A suite of global, cross-scale topographic variables for environmental and biodiversity modeling",
+  "description" : "Topographic variation underpins a myriad of patterns and processes in hydrology, climatology, geography and ecology and is key to understanding the variation of life on the planet. We provide a fully standardized and global multivariate product of different terrain features has the potential to support many large-scale research applications. The product is based on the digital elevation model products of global 250 m GMTED2010 and near-global 90 m SRTM4.1dev. We provide the following topographic variables: elevation, slope, aspect, eastness, northness, roughness, terrain roughness index, topographic position index, vector ruggedness measure, profile/tangential curvature, first/second order partial derivative, and 10 geomorphological landform classes. Each variable is provided at different aggregations from 1, 5, 10, 50 to 100 km spatial grains.",
+  "temporalCoverage" : "",
+  "spatialCoverage" : {
+    "@type":"Place",
+    "geo":{
+      "@type":"GeoShape",
+      "box":"180 -84 180 84"
+    }
+  },
+  "version" : "1",
+  "identifier" : "doi:10.1038/sdata.2018.40",
+  "license" : "https://creativecommons.org/licenses/by/4.0",
+  "distribution" : {
+    "@type" : "DataDownload",
+    "encodingFormat" : "GeoTIFF",
+    "contentUrl" : "https://earthenv.org/topography"
+  },
+  "sourceOrganization" : "EarthEnv",
+  "datePublished" : "2018-03-20",
+  "creator": [
+    {
+        "@type": "Person",
+        "sameAs": "http://orcid.org/0000-0002-8341-2830",
+        "givenName": "Giuseppe",
+        "familyName": "Amatulli",
+        "name": "Giuseppe Amatulli"
+    },
+    {
+        "@type": "Person",
+        "sameAs": "http://orcid.org/0000-0002-1971-7277",
+        "givenName": "Walter",
+        "familyName": "Jetz",
+        "name": "Walter Jetz"
+    },
+    {
+        "@type": "Person",
+        "sameAs": "http://orcid.org/0000-0003-0144-2671",
+        "givenName": "Ajay",
+        "familyName": "Ranipeta",
+        "name": "Ajay Ranipeta"
+    },
+    {
+        "@type": "Organization",
+        "sameAs": "http://earthenv.org/",
+        "name": "EarthEnv"
+    }
+  ],
+  "citation": "Amatulli, G., Domisch, S., Tuanmu, M.-N., Parmentier, B., Ranipeta, A., Malczyk, J., and Jetz, W. (2018) A suite of global, cross-scale topographic variables for environmental and biodiversity modeling. Scientific Data volume 5, Article number: 180040. DOI: doi:10.1038/sdata.2018.40"
+}
+</script>
+
 Global 1,5,10,100-km Topography
 -------------------------------
 

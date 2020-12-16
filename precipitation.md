@@ -8,35 +8,82 @@ weight: 4
 permalink: /precipitation
 ---
 
-Global daily 1km land surface precipitation based on cloud cover-informed downscaling
--------------------------------
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Dataset",
+  "name" : "Global daily 1km land surface precipitation based on cloud cover-informed downscaling",
+  "description" : "High-resolution climatic data are essential to many questions and applications in environmental research and ecology. Here we develop and implement a new semi-mechanistic downscaling approach for daily precipitation estimate that incorporates high resolution (30 arc sec) satellite-derived cloud frequency. The downscaling algorithm incorporates orographic predictors such as wind fields, valley exposition, and boundary layer height, with a subsequent bias correction. We apply the method to the ERA5 precipitation archive and MODIS monthly cloud cover frequency to develop a daily gridded precipitation time series in 1km resolution for the years 2003 onward. Comparison of the predictions with existing gridded products and station data from the Global Historical Climate Network indicates an improvement in the spatio-temporal performance of the downscaled data in predicting precipitation. Regional scrutiny of the cloud cover correction from a topographically highly heterogeneous area further confirms that CHELSA-EarthEnv performs well in comparison to other precipitation products such as numerical weather models. The presented CHELSA-EarthEnv daily precipitation product improves the temporal accuracy compared to ERA5 but with an additional improved spatial accuracy and much better representation of precipitation in complex terrain.",
+  "temporalCoverage" : "2003-01-01/2016-12-31",
+  "spatialCoverage" : {
+    "@type":"Place",
+    "geo":{
+      "@type":"GeoShape",
+      "box":"180 -84 180 84"
+    }
+  },
+  "version" : "2.1",
+  "identifier" : "hdl:10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6",
+  "license" : "https://creativecommons.org/licenses/by/4.0",
+  "distribution" : {
+    "@type" : "DataDownload",
+    "encodingFormat" : "GeoTIFF",
+    "contentUrl" : "https://earthenv.org/precipitation"
+  },
+  "sourceOrganization" : "EarthEnv",
+  "datePublished" : "2021-01-01",
+  "creator": [
+    {
+        "@type": "Person",
+        "sameAs": "http://orcid.org/0000-0001-7770-6229",
+        "givenName": "Dirk",
+        "familyName": "Karger",
+        "name": "Dirk Karger"
+    },
+    {
+        "@type": "Person",
+        "sameAs": "http://orcid.org/0000-0002-1971-7277",
+        "givenName": "Walter",
+        "familyName": "Jetz",
+        "name": "Walter Jetz"
+    },
+    {
+        "@type": "Organization",
+        "sameAs": "http://earthenv.org/",
+        "name": "EarthEnv"
+    }
+  ],
+  "citation": "Karger, D., Wilson, A., Mahony, C., Zimmermann. N.E., Jetz, W. (in prep) Earth-Env CHELSA . https://hdl.handle.net/10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6"
+}
+</script>
 
-High-resolution climatic data are essential to many questions and applications in 
-environmental research and ecology. Here we develop and implement a new semi-mechanistic 
-downscaling approach for daily precipitation estimate that incorporates high resolution 
-(30 arc sec) satellite-derived cloud frequency. The downscaling algorithm incorporates 
-orographic predictors such as wind fields, valley exposition, and boundary layer height, 
-with a subsequent bias correction. We apply the method to the ERA5 precipitation archive 
-and MODIS monthly cloud cover frequency to develop a daily gridded precipitation time series 
-in 1km resolution for the years 2003 onward. Comparison of  the predictions with existing 
-gridded products and station data from the Global Historical Climate Network indicates an 
-improvement in the spatio-temporal performance of the downscaled data in predicting 
-precipitation. Regional scrutiny of the cloud cover correction from a topographically 
-highly heterogeneous area further confirms that CHELSA-EarthEnv performs well in 
-comparison to other precipitation products such as numerical weather models. The 
-presented CHELSA-EarthEnv daily precipitation product improves the temporal accuracy 
-compared to ERA5 but with an additional improved spatial accuracy and much better 
+## Global daily 1km land surface precipitation based on cloud cover-informed downscaling
+
+High-resolution climatic data are essential to many questions and applications in
+environmental research and ecology. Here we develop and implement a new semi-mechanistic
+downscaling approach for daily precipitation estimate that incorporates high resolution
+(30 arc sec) satellite-derived cloud frequency. The downscaling algorithm incorporates
+orographic predictors such as wind fields, valley exposition, and boundary layer height,
+with a subsequent bias correction. We apply the method to the ERA5 precipitation archive
+and MODIS monthly cloud cover frequency to develop a daily gridded precipitation time series
+in 1km resolution for the years 2003 onward. Comparison of the predictions with existing
+gridded products and station data from the Global Historical Climate Network indicates an
+improvement in the spatio-temporal performance of the downscaled data in predicting
+precipitation. Regional scrutiny of the cloud cover correction from a topographically
+highly heterogeneous area further confirms that CHELSA-EarthEnv performs well in
+comparison to other precipitation products such as numerical weather models. The
+presented CHELSA-EarthEnv daily precipitation product improves the temporal accuracy
+compared to ERA5 but with an additional improved spatial accuracy and much better
 representation of precipitation in complex terrain.
 
 {:.litreference}
-[Karger, D.N., Wilson, A.M., Mahony, C., Zimmermann. N.E., Jetz, W. (2021)](https://earthenv.org/) Global daily 1km land surface precipitation based on cloud cover-informed downscaling. EarthEnv. [hdl:10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6](http://hdl.handle.net/10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6).
+[Karger, D.N., Wilson, A.M., Mahony, C., Zimmermann. N.E., Jetz, W. (2021)](https://earthenv.org/) Global daily 1km land surface precipitation based on cloud cover-informed downscaling. _EarthEnv_. [hdl:10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6](http://hdl.handle.net/10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6).
 
 <!--
 {::options parse_block_html="true" /}
 -->
 
 _**Maps and point information tool to come in early Jan 2021**_
-
 
   <div class="col-md-12 extra-spacing">
     
@@ -59,12 +106,9 @@ _**Maps and point information tool to come in early Jan 2021**_
           <button id="fcondownload" class="btn btn-primary extra-spacing">Download</button>
 
         </form>
-      </div>    
+      </div>
 
   </div>
-  
-
-
 
 <script type="text/javascript">
 
