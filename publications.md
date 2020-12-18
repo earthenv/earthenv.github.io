@@ -10,6 +10,8 @@ permalink: /publications
 
 ### Publications to date
 
+_Karger, D.N., Wilson, A.M., Mahony, C., Zimmermann. N.E., Jetz, W. (2021) Global daily 1km land surface precipitation based on cloud cover-informed downscaling. <a target="_blank" href="http://hdl.handle.net/10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6">EarthEnv. hdl:10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6</a>_
+
 _Amatulli, G., Domisch, S., Tuanmu, M.-N., Parmentier, B., Ranipeta, A., Malczyk, J., and Jetz, W. (2018) A suite of global, cross-scale topographic variables for environmental and biodiversity modeling. <a target="_blank" href="https://www.nature.com/articles/sdata201840">Scientific Data volume 5, Article number: 180040. DOI: doi:10.1038/sdata.2018.40</a>_
 
 _Domisch, S., A. M. Wilson, and W. Jetz. 2016. Model-based integration of observed and expert-based information for assessing the geographic and environmental distribution of freshwater species. Ecography. in press._

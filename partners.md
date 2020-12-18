@@ -21,8 +21,8 @@ permalink: /partners
 [**Map of Life**](http://mol.org){: target="blank" }  
 
 {:.partner .col-xs-6 .col-sm-3}
-[![SBSC logo](/images/logos/sbsc_logo.png)][SBSC]{: target="blank" }    
-[**Yale SBSC**](http://sbsc.yale.edu){: target="blank" }  
+[![BGC logo](/images/logos/bgc_logo.jpg)][BGC]{: target="blank" }    
+[**Yale BGC**](http://bgc.yale.edu){: target="blank" }  
 
 {:.partner .col-xs-6 .col-sm-3}
 [![NASA logo](/images/logos/nasa_logo.jpg)][NASA]{: target="blank" }    
@@ -45,14 +45,44 @@ permalink: /partners
 [![Google Earth Engine logo](/images/logos/GoogleEarthEngine_v1.png)][GEE]{: target="blank" }    
 [**Google Earth Engine**][GEE]{: target="blank" }  
 
+{:.partner .col-xs-6 .col-sm-3}
+[![Yale University logo](/images/logos/yale_logo.png)][YU]{: target="blank" }    
+[**Yale University**][YU]{: target="blank" }  
+
+{:.partner .col-xs-6 .col-sm-3}
+[![University of Florida logo](/images/logos/uf_logo.png)][UFL]{: target="blank" }    
+[**University of Florida**][UFL]{: target="blank" }  
+
+{:.partner .col-xs-6 .col-sm-3}
+[![University of Buffalo logo](/images/logos/ub_logo.png)][UB]{: target="blank" }    
+[**University of Buffalo**][UB]{: target="blank" }  
+
+{:.partner .col-xs-6 .col-sm-3}
+[![ESRI logo](/images/logos/esri-logo.png)][ESRI]{: target="blank" }    
+[**ESRI**][ESRI]{: target="blank" }  
+
+{:.partner .col-xs-6 .col-sm-3}
+[![Microsoft logo](/images/logos/ms_logo.png)][MS]{: target="blank" }    
+[**Microsoft**][MS]{: target="blank" }  
+
+{:.partner .col-xs-6 .col-sm-3}
+[![Descartes Labs logo](/images/logos/dl_logo.png)][DL]{: target="blank" }    
+[**Descartes Labs**][DL]{: target="blank" }  
+
 </div>
 
 [NCEAS]: https://www.nceas.ucsb.edu/projects/12504 "National Center for Ecological Analysis and Synthesis"
 [MOL]: http://mol.org/ "Map of Life"
-[SBSC]: http://sbsc.yale.edu/ "Program in Spatial Biodiversity Science and Conservation"
+[BGC]: http://bgc.yale.edu/ "Yale Center for Biodiversity and Global Change"
 [NASA]: http://www.nasa.gov/
 [GBON]: http://geobon.org/ "GEO BON"
 [FE]: http://futureearth.org/projects "Future Earth Projects"
 [FEBM]: http://biodiversitymonitoring.org/ "Future Earth Projects"
 [iPlant]: http://www.iplantcollaborative.org/
-[GEE]: https://earthengine.google.com/
+[GEE]: https://earthengine.google.com/ "Google Earth Engine"
+[YU]: https://www.yale.edu/ "Yale University"
+[UFL]: https://www.ufl.edu/ "University of Florida"
+[UB]: http://www.buffalo.edu/ "University of Buffalo"
+[ESRI]: https://esri.com/ "ESRI"
+[MS]: https://microsoft.com/ "Microsoft"
+[DL]: https://www.descarteslabs.com/ "Descartes Labs"

@@ -115,10 +115,11 @@ h1.hero-text {
 }*/
 .logos img {
   max-height: 80px;
+  max-width: 140px;
   padding: 10px;
 }
 .logos {
-  max-width:800px;
+  max-width: 900px;
   margin: auto;
   text-align: center;
 }
