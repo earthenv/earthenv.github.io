@@ -116,3 +116,7 @@ The EarthEnv project is a collaborative project of biodiversity scientists and r
 </div>
 
 <hr class="featurette-divider">
+
+<h2 class="lead">Memberships</h2>
+
+<object type="image/svg+xml" data="https://www.re3data.org/public/badges/l/light/100013469.svg"><img src="https://www.re3data.org/public/badges/l/light/100013469.png" style="max-width:100%"></object>
