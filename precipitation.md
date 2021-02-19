@@ -24,7 +24,7 @@ permalink: /precipitation
   },
   "version" : "2.1",
   "identifier" : "hdl:10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6",
-  "license" : "https://creativecommons.org/licenses/by/4.0",
+  "license" : "https://creativecommons.org/publicdomain/zero/1.0",
   "distribution" : {
     "@type" : "DataDownload",
     "encodingFormat" : "GeoTIFF",
@@ -89,6 +89,7 @@ _**Maps and point information tool to come in early Jan 2021**_
     
     <div class="col-md-6 extra-spacing">
         <h3>Select year and month to download</h3>
+        <p xmlns:cc="http://creativecommons.org/ns#" >The data is licensed under Creative Commons <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
         <form class="form-horizontal">
 
           <div class="form-group">
