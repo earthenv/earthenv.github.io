@@ -83,7 +83,10 @@ representation of precipitation in complex terrain.
 {::options parse_block_html="true" /}
 -->
 
-_**Maps and point information tool to come in early Jan 2021**_
+<iframe class="mapframe_right"
+      src="https://dev-dot-earthenv-dot-map-of-life.appspot.com/precipitation"
+      name="map" frameborder="0"
+      allowfullscreen="true"></iframe>
 
   <div class="col-md-12 extra-spacing">
     
