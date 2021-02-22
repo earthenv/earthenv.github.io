@@ -83,7 +83,8 @@ representation of precipitation in complex terrain.
 {::options parse_block_html="true" /}
 -->
 
-<iframe class="mapframe_right"
+_**Displaying precipitation for: 2016-07-01**_
+<iframe class="mapframe_right" style="float: none"
       src="https://dev-dot-earthenv-dot-map-of-life.appspot.com/precipitation"
       name="map" frameborder="0"
       allowfullscreen="true"></iframe>
