@@ -83,11 +83,12 @@ representation of precipitation in complex terrain.
 {::options parse_block_html="true" /}
 -->
 
-_**Displaying Annual Mean Precipitation for: 2014**_
-<iframe class="mapframe_right" style="float: none"
+<div class="col-md-12 extra-spacing">
+<h3>Map of Annual Mean Precipitation Rate</h3>
+<iframe class="mapframe_right" style="float: none; min-width: 70%; width: 100%"
       src="https://dev-dot-earthenv-dot-map-of-life.appspot.com/precipitation"
-      name="map" frameborder="0"
-      allowfullscreen="true"></iframe>
+      name="map" frameborder="0" allowfullscreen="true"></iframe>
+</div>
 
   <div class="col-md-12 extra-spacing">
     

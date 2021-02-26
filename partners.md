@@ -69,6 +69,10 @@ permalink: /partners
 [![Descartes Labs logo](/images/logos/dl_logo.png)][DL]{: target="blank" }    
 [**Descartes Labs**][DL]{: target="blank" }  
 
+{:.partner .col-xs-6 .col-sm-3}
+[![WSL logo](/images/logos/wsl-logo.png)][WSL]{: target="blank" }    
+[**Swiss Federal Institute for Forest, Snow and Landscape Research WSL**][WSL]{: target="blank" }  
+
 </div>
 
 [NCEAS]: https://www.nceas.ucsb.edu/projects/12504 "National Center for Ecological Analysis and Synthesis"
@@ -86,3 +90,4 @@ permalink: /partners
 [ESRI]: https://esri.com/ "ESRI"
 [MS]: https://microsoft.com/ "Microsoft"
 [DL]: https://www.descarteslabs.com/ "Descartes Labs"
+[WSL]: https://www.wsl.ch/ "Swiss Federal Institute for Forest, Snow and Landscape Research WSL"
