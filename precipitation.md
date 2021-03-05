@@ -79,6 +79,9 @@ representation of precipitation in complex terrain.
 {:.litreference}
 [Karger, D.N., Wilson, A.M., Mahony, C., Zimmermann. N.E., Jetz, W. (2021)](https://earthenv.org/) Global daily 1km land surface precipitation based on cloud cover-informed downscaling. _EarthEnv_. [hdl:10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6](http://hdl.handle.net/10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6).
 
+{:.litreference}
+Karger, D.N., Wilson, A.M., Mahony, C., Zimmermann, N.E. & Jetz, W. (2020) Global daily 1km land surface precipitation based on cloud cover-informed downscaling. arXiv:2012.10108 [physics].
+
 <!--
 {::options parse_block_html="true" /}
 -->
