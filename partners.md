@@ -73,6 +73,10 @@ permalink: /partners
 [![WSL logo](/images/logos/wsl-logo.png)][WSL]{: target="blank" }    
 [**Swiss Federal Institute for Forest, Snow and Landscape Research WSL**][WSL]{: target="blank" }  
 
+{:.partner .col-xs-6 .col-sm-3}
+[![EOWBF logo](/images/logos/eowb_logo.jpg)][EOWBF]{: target="blank" }    
+[**E.O. Wilson Biodiversity Foundation**][EOWBF]{: target="blank" }  
+
 </div>
 
 [NCEAS]: https://www.nceas.ucsb.edu/projects/12504 "National Center for Ecological Analysis and Synthesis"
@@ -91,3 +95,4 @@ permalink: /partners
 [MS]: https://microsoft.com/ "Microsoft"
 [DL]: https://www.descarteslabs.com/ "Descartes Labs"
 [WSL]: https://www.wsl.ch/ "Swiss Federal Institute for Forest, Snow and Landscape Research WSL"
+[EOWBF]: https://eowilsonfoundation.org/ "E.O. Wilson Biodiversity Foundation"
