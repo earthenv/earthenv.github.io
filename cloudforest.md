@@ -71,8 +71,10 @@ permalink: /cloudforest
 </div>
 
   <div class="col-md-12 extra-spacing">
-    
-    Downloads available shortly
+<h3>Downloads:</h3>
+<li> <a target="_blank" href="https://data.earthenv.org/tcf/tcf_ensemble_mnv16_2001-2018.tif">Aggregated mean of percent of area covered from 2001-2018 (.tif, 30mb)</a> </li>
+<li> <a target="_blank" href="https://data.earthenv.org/tcf/tcf_ensemble_mn_sd_2001-2018_v16.zip">Individual years, percent of area covered from 2001-2018, mean and sd (zipped, 130 MB)</a> </li>
+<li> <a target="_blank" href="https://data.earthenv.org/tcf/REPROJ_WDPA_Dec2016-shapefile-polygons_v16.zip">Protected areas (Based of December 2016 WDPA (zipped, 50MB) </a> </li>
 
   </div>
 
