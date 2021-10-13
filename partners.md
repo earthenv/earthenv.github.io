@@ -77,6 +77,10 @@ permalink: /partners
 [![EOWBF logo](/images/logos/eowb_logo.jpg)][EOWBF]{: target="blank" }    
 [**E.O. Wilson Biodiversity Foundation**][EOWBF]{: target="blank" }  
 
+{:.partner .col-xs-6 .col-sm-3}
+[![GMBA logo](/images/logos/gmba_logo.png)][GMBA]{: target="blank" }    
+[**Global Mountain Biodiversity Assessment**][GMBA]{: target="blank" }  
+
 </div>
 
 [NCEAS]: https://www.nceas.ucsb.edu/projects/12504 "National Center for Ecological Analysis and Synthesis"
@@ -96,3 +100,4 @@ permalink: /partners
 [DL]: https://www.descarteslabs.com/ "Descartes Labs"
 [WSL]: https://www.wsl.ch/ "Swiss Federal Institute for Forest, Snow and Landscape Research WSL"
 [EOWBF]: https://eowilsonfoundation.org/ "E.O. Wilson Biodiversity Foundation"
+[GMBA]: https://www.gmba.unibe.ch/ "Global Mountain Biodiversity Assessment"
