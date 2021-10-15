@@ -109,11 +109,11 @@ A standardized delineation of the worlds’ mountains has many applications in r
 ### Citation
 #### Publication
 {:.litreference}
-[Mark A. Snethlage, Davnah Urbach, Jonas Geschke, Eva M. Spehn, Ajay Ranipeta, Nigel G. Yoccoz, Christian Körner, Walter Jetz, Markus Fischer. (2021) A hierarchical inventory of the world’s mountains for global comparative mountain science. Scientific Data. ](https://www.nature.com/sdata/).
+Mark A. Snethlage, Jonas Geschke, Eva M. Spehn, Ajay Ranipeta, Nigel G. Yoccoz, Christian Körner, Walter Jetz, Markus Fischer, Davnah Urbach. (2021) _A hierarchical inventory of the world’s mountains for global comparative mountain science_ [Manuscript submitted for publication].
 
 #### Dataset
 {:.litreference}
-[Global Mountain Biodiversity Assessment (2021) GMBA Mountain Inventory v2. GMBA-EarthEnv. doi:10.48601/earthenv-t9k2-1407](https://www.earthenv.org/mountains).
+[Global Mountain Biodiversity Assessment (2021) GMBA Mountain Inventory v2. _GMBA-EarthEnv_. doi:10.48601/earthenv-t9k2-1407](https://doi.org/10.48601/earthenv-t9k2-1407).
 
 _**Note**: When using the GMBA Inventory v2.0, both the publication and the dataset must be cited._
 
@@ -125,15 +125,23 @@ _**Note**: When using the GMBA Inventory v2.0, both the publication and the data
 <iframe class="mapframe_right" style="float: none; min-width: 70%; width: 100%"
       src="https://dev-dot-earthenv-dot-map-of-life.appspot.com/mountains"
       name="map" frameborder="0" allowfullscreen="true"></iframe>
+
+  <small><em><strong>Note</strong>: The map viewer shows two selected layers from the inventory: the ‘Basic’ selection which shows the smallest mapping units of the inventory and the ‘300’ selection which shows a selection of 291 major mountain ranges and systems. By clicking on any of the mountain range shapes a window pops up listing all the levels present in the inventory (including those not shown on the map).</em></small>
+
 </div>
 
 <div class="col-md-12 extra-spacing">
 
-    <h3>Downloads</h3>
-    <p class="lead">Download the default layer <a href="https://data.earthenv.org/mountains/standard/GMBA_Inventory_v2.0.zip">here</a> (Standard extent - All layers).</p>
-
     <div class="col-md-6 extra-spacing">
-        <h3>Custom</h3>
+
+        <h3>Downloads</h3>
+
+        <p>
+          Download the default layer <a href="https://data.earthenv.org/mountains/standard/GMBA_Inventory_v2.0_standard.zip">here</a> (Standard extent - All layers).
+        </p>
+
+        <div class="extra-spacing">&nbsp;</div>
+        <h4>Custom</h4>
         <form class="form-horizontal">
 
           <div class="form-group">
@@ -185,7 +193,16 @@ _**Note**: When using the GMBA Inventory v2.0, both the publication and the data
   <h4>Code</h4>
   <p>
     Additional information and tools for using the inventory are available on 
-    <a href="https://github.com/gmba-biodiversity/inventory" target="_blank">GitHub</a>.
+    <a href="https://github.com/gmba-biodiversity" target="_blank">GitHub</a>.
+  </p>
+</div>
+
+
+<div class="col-md-12 extra-spacing">
+  <h4>Contact</h4>
+  <p>
+    For questions, comments, corrections or additions,  
+    <a href="https://www.gmba.unibe.ch/about/contact/" target="_blank">please contact us</a>.
   </p>
 </div>
 
@@ -198,11 +215,9 @@ _**Note**: When using the GMBA Inventory v2.0, both the publication and the data
   $('#fcatdownload').click(function() {
     var fext = $('#fextent').val();
     var flyr = $('#flayer').val();
-
-    var fext_file = (fext == 'broad') ? '_broad' : '';
     
-    var url = base_url + fext + '/GMBA_Inventory_v2.0{fext_file}_{lyr}.zip';
-    url = url.replace('{fext_file}', fext_file);
+    var url = base_url + fext + '/GMBA_Inventory_v2.0_{fext}_{lyr}.zip';
+    url = url.replace('{fext}', fext);
     url = url.replace('{lyr}', flyr);
     url = url.replace('_all.zip', '.zip');
     
