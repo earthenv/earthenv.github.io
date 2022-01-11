@@ -117,6 +117,23 @@ Mark A. Snethlage, Jonas Geschke, Eva M. Spehn, Ajay Ranipeta, Nigel G. Yoccoz, 
 
 _**Note**: When using the GMBA Inventory v2.0, both the publication and the dataset must be cited._
 
+
+<pre>
+@misc{https://doi.org/10.48601/earthenv-t9k2-1407,
+  doi = {10.48601/EARTHENV-T9K2-1407},
+  url = {https://earthenv.org/mountains},
+  author = {Global Mountain Biodiversity Assessment},
+  keywords = {FOS: Earth and related environmental sciences},
+  language = {en},
+  title = {GMBA Mountain Inventory v2},
+  publisher = {GMBA-EarthEnv},
+  year = {2021},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+</pre>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 <!--
 {::options parse_block_html="true" /}
 -->
