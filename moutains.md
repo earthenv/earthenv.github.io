@@ -200,7 +200,7 @@ A standardized delineation of the worlds’ mountains has many applications in r
 ### Citation
 #### Publication
 {:.litreference}
-Snethlage, M.A., Geschke, J., Spehn, E.M., Ranipeta, A., Yoccoz, N.G., Körner, Ch., Jetz, W., Fischer, M. & Urbach, D. (2021) A hierarchical inventory of the world’s mountains for global comparative mountain science. _Nature Scientific Data_ (2022). [Manuscript accepted for publication].
+Snethlage, M.A., Geschke, J., Spehn, E.M., Ranipeta, A., Yoccoz, N.G., Körner, Ch., Jetz, W., Fischer, M. & Urbach, D. A hierarchical inventory of the world’s mountains for global comparative mountain science. _Nature Scientific Data_. [https://doi.org/10.1038/s41597-022-01256-y](https://doi.org/10.1038/s41597-022-01256-y) (2022).
 
 #### Dataset
 {:.litreference}
@@ -291,8 +291,8 @@ _**Note**: When using the GMBA Inventory v2.0, both the publication and the data
     
     <strong>Layers:</strong>
     <ul>
-      <li>All: is the complete GMBA Inventory v2.0 consisting of 8329 overlapping polygons ('Standard') and 8619 overlapping polygons ('Broad') at all different levels of the hierarchy.</li>
-      <li>Basic: is the subset of 6719 ('Standard') and 6994 ('Broad') smallest non-overlapping mapping units of the inventory, i.e. those having no 'child' sub-range</li>
+      <li>All: is the complete GMBA Inventory v2.0 consisting of 8327 overlapping polygons ('Standard') and 8616 overlapping polygons ('Broad') at all different levels of the hierarchy.</li>
+      <li>Basic: is the subset of 6717 ('Standard') and 6991 ('Broad') smallest non-overlapping mapping units of the inventory, i.e. those having no 'child' sub-range</li>
       <li>300 selection: is a subset of 291 ('Standard') and 292 ('Broad') non overlapping major mountain systems and ranges</li>
     </ul>
     </div>
