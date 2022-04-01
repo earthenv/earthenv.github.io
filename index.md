@@ -15,6 +15,20 @@ The EarthEnv project is a collaborative project of biodiversity scientists and r
 
 <div class="row featurette">
   <div class="col-md-7">
+    <h2 class="featurette-heading"><a href="/mountains" title="Mountains">Mountains</a></h2>
+    <p class="lead">
+      A standardized delineation of the worlds’ mountains has many applications in research, education, and the science-policy interface. Here we provide a new inventory of 8616 mountain ranges developed under the auspices of the Global Mountain Biodiversity Assessment (GMBA). Building on an earlier compilation, the presented geospatial database uses a further advanced and generalized mountain definition and a semi-automated method to enable globally standardized, transparent delineations of mountain ranges worldwide. The inventory is presented on EarthEnv at various hierarchical levels, allowing users to select their preferred level of regional aggregation from continents to small subranges according to their needs and the scale of their analyses. The clearly defined, globally consistent and hierarchical nature of the presented mountain inventory offers a standardized resource for referencing and addressing mountains across basic and applied natural, social sciences research and a range of other uses in science communication and education. 
+    </p>
+  </div>
+  <div class="col-md-5">
+    <a href="/mountains" title="Mountains"><img class="featurette-image img-responsive center-block" src="/images/backgrounds/products/tiles_large/bg_product_mountains.jpg" alt="Mountains"></a>
+  </div>
+</div>
+
+<hr class="featurette-divider">
+
+<div class="row featurette">
+  <div class="col-md-7 col-md-push-5">
     <h2 class="featurette-heading"><a href="/topography" title="Topography">Topography</a></h2>
     <p class="lead">
       Topographic variation underpins a myriad of patterns and processes in hydrology, climatology, geography and ecology 
@@ -27,7 +41,7 @@ The EarthEnv project is a collaborative project of biodiversity scientists and r
       from 1, 5, 10, 50 to 100 km spatial grains. 
     </p>
   </div>
-  <div class="col-md-5">
+  <div class="col-md-5 col-md-pull-7">
     <a href="/topography" title="Topography"><img class="featurette-image img-responsive center-block" src="/images/backgrounds/products/tiles_large/bg_product_topography.jpg" alt="Topography"></a>
   </div>
 </div>
