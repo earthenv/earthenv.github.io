@@ -84,7 +84,7 @@ from 1, 5, 10, 50 to 100 km spatial grains.
 -->
 
 <iframe class="mapframe_right"
-      src="https://earthenv-dot-map-of-life.appspot.com/3/0.000/0.000?collections=topographyv2&layers="
+      src="https://dev-dot-earthenv-dot-map-of-life.appspot.com/topographyv2"
       name="map" frameborder="0"
       allowfullscreen="true"></iframe>
 

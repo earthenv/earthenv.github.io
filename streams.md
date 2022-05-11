@@ -78,7 +78,7 @@ biodiversity analyses in 1 km resolution. _Scientific Data_ 2:150073 doi: 10.103
 
 
 {:.extra-spacing}
-<iframe src="https://earthenv-dot-map-of-life.appspot.com/3/0.000/0.000?collections=streams&layers=Precipitation_seasonality_(avg)"
+<iframe src="https://dev-dot-earthenv-dot-map-of-life.appspot.com/streams"
 name="map" frameborder="0" width="100%" height="600"></iframe>
 
 
