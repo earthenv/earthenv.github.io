@@ -53,7 +53,7 @@ permalink: /precipitation
         "name": "EarthEnv"
     }
   ],
-  "citation": "Karger, D., Wilson, A., Mahony, C., Zimmermann. N.E., Jetz, W. (in prep) Earth-Env CHELSA . https://hdl.handle.net/10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6"
+  "citation": "Karger, D., Wilson, A., Mahony, C., Zimmermann. N.E., Jetz, W. (2021) Earth-Env CHELSA . https://hdl.handle.net/10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6"
 }
 </script>
 
@@ -80,7 +80,10 @@ representation of precipitation in complex terrain.
 [Karger, D.N., Wilson, A.M., Mahony, C., Zimmermann. N.E., Jetz, W. (2021)](https://earthenv.org/) Global daily 1km land surface precipitation based on cloud cover-informed downscaling. _EarthEnv_. [hdl:10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6](http://hdl.handle.net/10079/MOL/6f52b80d-0a41-40f7-84ec-873458ca6ee6).
 
 {:.litreference}
-Karger, D.N., Wilson, A.M., Mahony, C., Zimmermann, N.E. & Jetz, W. (2020) Global daily 1km land surface precipitation based on cloud cover-informed downscaling. arXiv:2012.10108 [physics].
+Karger, D.N., Wilson, A.M., Mahony, C. et al. Global daily 1 km land surface precipitation based on cloud cover-informed downscaling. Sci Data 8, 307 (2021). [https://doi.org/10.1038/s41597-021-01084-6](https://doi.org/10.1038/s41597-021-01084-6).
+
+{:.litreference}
+Karger, D.N., Wilson, A.M., Mahony, C., Zimmermann, N.E. & Jetz, W. (2020) Global daily 1km land surface precipitation based on cloud cover-informed downscaling. [arXiv:2012.10108](https://doi.org/10.48550/arXiv.2012.10108) [physics].
 
 <!--
 {::options parse_block_html="true" /}

@@ -29,6 +29,49 @@ The EarthEnv project is a collaborative project of biodiversity scientists and r
 
 <div class="row featurette">
   <div class="col-md-7 col-md-push-5">
+    <h2 class="featurette-heading"><a href="/cloudforest" title="Tropical cloud forests">Tropical cloud forests</a></h2>
+    <p class="lead">
+      Tropical cloud forests (TCFs) are one of the world’s most species- and endemism-rich terrestrial ecosystems. TCFs are threatened by direct human pressures and climate change, yet the fate of these extraordinary ecosystems remains insufficiently quantified. With discussions of the post-2020 biodiversity framework underway, TCFs are a defining test case of the success and promise of recent policy targets and their associated mechanisms to avert the global biodiversity crisis. Here we present a global assessment of the recent status and trends of TCFs and their biodiversity and evaluate the efficacy of current protection measures. We find that cloud forests occupied 0.4% of the global land surface in 2001 and harboured ~3,700 species of birds, mammal, amphibians and tree ferns (~15% of the global diversity of those groups), with half of those species entirely restricted to cloud forests. Worldwide, ~2.4% of cloud forests (in some regions, more than 8%) were lost between 2001 and 2018, especially in readily accessible places. While protected areas have slowed this decline, a large proportion of loss in TCF cover is still occurring despite formal protection. Increased conservation efforts are needed to avert the impending regional or global demise of TCFs and their unique biodiversity. 
+    </p>
+  </div>
+  <div class="col-md-5 col-md-pull-7">
+    <a href="/cloudforest" title="Tropical cloud forests"><img class="featurette-image img-responsive center-block" src="/images/backgrounds/products/tiles_large/bg_product_cloudforest.jpg" alt="Tropical cloud forests"></a>
+  </div>
+</div>
+
+<hr class="featurette-divider">
+
+<div class="row featurette">
+  <div class="col-md-7">
+    <h2 class="featurette-heading"><a href="/precipitation" title="Precipitation">Precipitation</a></h2>
+    <p class="lead">
+      High-resolution climatic data are essential to many questions and applications in
+      environmental research and ecology. Here we develop and implement a new semi-mechanistic
+      downscaling approach for daily precipitation estimate that incorporates high resolution
+      (30 arc sec) satellite-derived cloud frequency. The downscaling algorithm incorporates
+      orographic predictors such as wind fields, valley exposition, and boundary layer height,
+      with a subsequent bias correction. We apply the method to the ERA5 precipitation archive
+      and MODIS monthly cloud cover frequency to develop a daily gridded precipitation time series
+      in 1km resolution for the years 2003 onward. Comparison of the predictions with existing
+      gridded products and station data from the Global Historical Climate Network indicates an
+      improvement in the spatio-temporal performance of the downscaled data in predicting
+      precipitation. Regional scrutiny of the cloud cover correction from a topographically
+      highly heterogeneous area further confirms that CHELSA-EarthEnv performs well in
+      comparison to other precipitation products such as numerical weather models. The
+      presented CHELSA-EarthEnv daily precipitation product improves the temporal accuracy
+      compared to ERA5 but with an additional improved spatial accuracy and much better
+      representation of precipitation in complex terrain. 
+    </p>
+  </div>
+  <div class="col-md-5">
+    <a href="/precipitation" title="Precipitation"><img class="featurette-image img-responsive center-block" src="/images/backgrounds/products/tiles_large/bg_product_precipitation.jpg" alt="Precipitation"></a>
+  </div>
+</div>
+
+<hr class="featurette-divider">
+
+<div class="row featurette">
+  <div class="col-md-7 col-md-push-5">
     <h2 class="featurette-heading"><a href="/topography" title="Topography">Topography</a></h2>
     <p class="lead">
       Topographic variation underpins a myriad of patterns and processes in hydrology, climatology, geography and ecology 
